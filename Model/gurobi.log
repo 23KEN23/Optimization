@@ -701,3 +701,111 @@ Best objective 5.055359337746e+02, best bound 5.055359337746e+02, gap 0.0000%
 
 Gurobi 7.0.1 (win64, Python) logging started 03/19/17 14:06:30
 
+
+Gurobi 7.0.1 (win64, Python) logging started 03/21/17 12:08:17
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 9005394 rows, 71243 columns and 14821483 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [8e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 0 rows and 0 columns (presolve time = 7s) ...
+Presolve removed 48847 rows and 4448167 columns (presolve time = 14s) ...
+Presolve removed 48847 rows and 5815803 columns (presolve time = 18s) ...
+Presolve removed 48848 rows and 5815804 columns (presolve time = 24s) ...
+Presolve removed 48848 rows and 5840627 columns (presolve time = 25s) ...
+Presolve removed 48848 rows and 5841175 columns (presolve time = 31s) ...
+Presolve removed 48848 rows and 5841175 columns
+Presolve time: 34.73s
+Presolved: 22395 rows, 3235462 columns, 6469623 nonzeros
+
+Ordering time: 4.29s
+
+Barrier statistics:
+ Dense cols : 1
+ Free vars  : 449
+ AA' NZ     : 3.541e+06
+ Factor NZ  : 9.889e+07 (roughly 2.0 GBytes of memory)
+ Factor Ops : 5.709e+11 (roughly 23 seconds per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 45.17 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 6640 iterations and 46.65 seconds
+Optimal objective  2.574282581e+04
+
+Gurobi 7.0.1 (win64, Python) logging started 03/21/17 13:03:53
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/21/17 13:05:08
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 6332356 rows, 47239 columns and 10533490 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 0 rows and 0 columns (presolve time = 7s) ...
+Presolve removed 0 rows and 0 columns (presolve time = 10s) ...
+Presolve time: 14.00s
+Presolved: 47239 rows, 6379595 columns, 10580729 nonzeros
+
+Elapsed ordering time = 5s
+Elapsed ordering time = 10s
+Elapsed ordering time = 15s
+Elapsed ordering time = 20s
+Elapsed ordering time = 25s
+Elapsed ordering time = 30s
+Elapsed ordering time = 35s
+Elapsed ordering time = 40s
+Elapsed ordering time = 45s
+Elapsed ordering time = 50s
+Elapsed ordering time = 55s
+Ordering time: 55.54s
+
+Barrier statistics:
+ Dense cols : 66
+ Free vars  : 1299
+ AA' NZ     : 5.486e+06
+ Factor NZ  : 2.252e+08 (roughly 4.0 GBytes of memory)
+ Factor Ops : 2.005e+12 (roughly 110 seconds per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 122.56 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 21251 iterations and 123.41 seconds
+Optimal objective  3.864026842e+04
