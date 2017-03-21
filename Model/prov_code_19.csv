@@ -1,0 +1,732 @@
+,OBJECTID,SOURCE,VIL_UID,CENTER,CNTR_CODE,AFG_UID,POPULATION,LANGUAGE_,LANG_CODE,ELEVATION,LAT_Y,LON_X,MISTI_PROV,MISTI_DIST,VILLAGE_NA,DIST_CODE,DIST_NA_EN,DIST_NA_DA,PROV_NA_EN,PROV_NA_DA,PROV_CODE
+21719,21720,USAID AIDVillageView,DSP-010,,0,SMG-DSP-010,0,Dari,1,1331.2769779999999,35.7509,66.9676,SMG,DSP,Katadasht,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+21720,21721,USAID AIDVillageView,DSP-017,,0,SMG-DSP-017,0,Dari,1,1593.942017,35.7186,66.9542,SMG,DSP,Qashlaghak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+24888,24889,Yale POP_MASTER,HSN-040,,0,SMG-HSN-040,82,Pashto,2,765.5618286,36.4718,67.9097,SMG,HSN,Now Abad Gagra Hassan Khail,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24891,24892,Yale POP_MASTER,DSB-218,,0,SMG-DSB-218,74,Pashto,2,1952.5179440000002,36.0878,67.376,SMG,DSB,Zaidri,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24892,24893,USAID AIDVillageView,DSB-050,,0,SMG-DSB-050,0,Uzbek,3,1631.2540279999998,36.0611,67.2964,SMG,DSB,Pai Tawa (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24893,24894,USAID AIDVillageView,DSB-051,,0,SMG-DSB-051,0,Uzbek,3,1409.676025,36.0673,67.2646,SMG,DSB,Pai Tawa (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24894,24895,USAID AIDVillageView,DSB-052,,0,SMG-DSB-052,0,Uzbek,3,1376.999023,36.0793,67.2511,SMG,DSB,Pai Tawa (4),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24895,24896,USAID AIDVillageView,DSB-053,,0,SMG-DSB-053,0,Uzbek,3,1382.359009,36.0919,67.277,SMG,DSB,Pai Tawa (5),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24896,24897,USAID AIDVillageView,DSB-054,,0,SMG-DSB-054,0,Uzbek,3,1475.807007,36.1514,67.2869,SMG,DSB,Qomishi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24897,24898,USAID AIDVillageView,DSB-055,,0,SMG-DSB-055,0,Uzbek,3,1446.9610599999999,36.0598,67.2503,SMG,DSB,Saiyad (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24898,24899,USAID AIDVillageView,DSB-056,,0,SMG-DSB-056,0,Uzbek,3,1391.4060060000002,36.0511,67.2455,SMG,DSB,Saiyad (3),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24899,24900,USAID AIDVillageView,DSB-057,,0,SMG-DSB-057,0,Uzbek,3,1494.786011,36.118,67.3293,SMG,DSB,Sandal,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24900,24901,USAID AIDVillageView,DSB-062,,0,SMG-DSB-062,0,Uzbek,3,1587.598999,36.1308,67.375,SMG,DSB,Taba Kanda (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24901,24902,USAID AIDVillageView,DSB-064,,0,SMG-DSB-064,0,Uzbek,3,1737.089966,36.1269,67.4566,SMG,DSB,Tokan Aawar (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24902,24903,USAID AIDVillageView,DSB-065,,0,SMG-DSB-065,0,Uzbek,3,1879.97998,36.11,67.432,SMG,DSB,Tokan Aawar (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24903,24904,USAID AIDVillageView,DSB-066,,0,SMG-DSB-066,0,Uzbek,3,1698.685059,36.1451,67.4771,SMG,DSB,Tolkichi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24904,24905,USAID AIDVillageView,DSB-070,,0,SMG-DSB-070,0,Uzbek,3,1941.78894,36.0403,67.6266,SMG,DSB,Yalman (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24905,24906,CSO AIMS Villages (ACSOR),DSB-076,,0,SMG-DSB-076,133,Uzbek,3,1564.036987,36.17498,67.43205999999999,SMG,DSB,Gorai Nazar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24906,24907,USAID AIDVillageView,DSB-001,,0,SMG-DSB-001,0,Uzbek,3,1489.06897,36.1272,67.3027,SMG,DSB,Adam Tash (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24907,24908,USAID AIDVillageView,DSB-002,,0,SMG-DSB-002,0,Uzbek,3,1956.878052,36.0749,67.5732,SMG,DSB,Almashakh,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24908,24909,USAID AIDVillageView,DSB-005,,0,SMG-DSB-005,0,Uzbek,3,1901.314941,36.0592,67.5405,SMG,DSB,Baghal Shekaf,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24909,24910,USAID AIDVillageView,DSB-009,,0,SMG-DSB-009,0,Uzbek,3,1739.378052,36.0612,67.3211,SMG,DSB,Balghaly (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24910,24911,USAID AIDVillageView,DSB-010,,0,SMG-DSB-010,0,Uzbek,3,1600.8120119999999,36.0722,67.2952,SMG,DSB,Balghaly (3),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24911,24912,USAID AIDVillageView,DSB-012,,0,SMG-DSB-012,0,Uzbek,3,1508.760986,36.1036,67.3265,SMG,DSB,Band-i-sareg,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24912,24913,USAID AIDVillageView,DSB-021,,0,SMG-DSB-021,0,Uzbek,3,1222.498047,36.0938,67.2468,SMG,DSB,Deh Khwab (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24913,24914,USAID AIDVillageView,DSB-023,,0,SMG-DSB-023,0,Uzbek,3,1327.213013,36.1114,67.2511,SMG,DSB,Deh Khwab (4),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24914,24915,USAID AIDVillageView,DSB-024,,0,SMG-DSB-024,0,Uzbek,3,1465.496948,36.1324,67.3077,SMG,DSB,Dolta,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24915,24916,USAID AIDVillageView,DSB-026,,0,SMG-DSB-026,0,Uzbek,3,1482.69397,36.1347,67.3317,SMG,DSB,Guzar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24916,24917,USAID AIDVillageView,DSB-027,,0,SMG-DSB-027,0,Uzbek,3,1793.734985,36.1287,67.47399999999999,SMG,DSB,Haji Hakim,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24917,24918,USAID AIDVillageView,DSB-028,,0,SMG-DSB-028,0,Uzbek,3,1716.5100100000002,36.126999999999995,67.4647,SMG,DSB,Haji Yaqub,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24918,24919,USAID AIDVillageView,DSB-029,,0,SMG-DSB-029,0,Uzbek,3,1794.879028,36.0971,67.5362,SMG,DSB,Karbuya,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24919,24920,USAID AIDVillageView,DSB-030,,0,SMG-DSB-030,0,Uzbek,3,1577.932983,36.119,67.3579,SMG,DSB,Khirghaili,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24920,24921,USAID AIDVillageView,DSB-031,,0,SMG-DSB-031,0,Uzbek,3,1539.670044,36.1337,67.3569,SMG,DSB,Khwaja Boland (3),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24921,24922,USAID AIDVillageView,DSB-032,,0,SMG-DSB-032,0,Uzbek,3,1844.812988,36.1136,67.6057,SMG,DSB,Khwaja Qolab,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24922,24923,USAID AIDVillageView,DSB-035,,0,SMG-DSB-035,0,Uzbek,3,1370.401001,36.1243,67.2732,SMG,DSB,Koi Tash,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24923,24924,USAID AIDVillageView,DSB-039,,0,SMG-DSB-039,0,Uzbek,3,1444.102051,36.0893,67.2964,SMG,DSB,Madri (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24924,24925,USAID AIDVillageView,DSB-044,,0,SMG-DSB-044,0,Uzbek,3,1521.4780269999999,36.1637,67.3265,SMG,DSB,Miranji,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24925,24926,CSO AIMS Villages (ACSOR),HSN-014,,0,SMG-HSN-014,1571,Uzbek,3,1694.196045,36.23283,67.4764,SMG,HSN,Chouchman Jaklash Kamar,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24926,24927,CSO AIMS Villages (ACSOR),HSN-016,,0,SMG-HSN-016,1307,Uzbek,3,1669.405029,36.225359999999995,67.51279,SMG,HSN,Markaz Hoorlamash,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24927,24928,CSO AIMS Villages (ACSOR),HSN-018,,0,SMG-HSN-018,866,Uzbek,3,1697.27002,36.218070000000004,67.52189,SMG,HSN,Now Abad Noorlamash,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24928,24929,CSO AIMS Villages (ACSOR),HSN-019,,0,SMG-HSN-019,852,Uzbek,3,1691.141968,36.17977,67.54812,SMG,HSN,Qadam Ali,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24929,24930,CSO AIMS Villages (ACSOR),HSN-020,,0,SMG-HSN-020,965,Uzbek,3,1612.935059,36.18274,67.5097,SMG,HSN,Warta Geeti,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24930,24931,CSO AIMS Villages (ACSOR),HSN-021,,0,SMG-HSN-021,590,Uzbek,3,1633.862061,36.18761,67.52207,SMG,HSN,Warta Geeti Bala,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24931,24932,Yale POP_MASTER,DSB-080,,0,SMG-DSB-080,148,Uzbek,3,1416.480957,36.1139,67.2984,SMG,DSB,Adam Taash,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24932,24933,Yale POP_MASTER,DSB-084,,0,SMG-DSB-084,171,Uzbek,3,1910.7910160000001,36.0652,67.5645,SMG,DSB,Almashakh,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24933,24934,Yale POP_MASTER,DSB-091,,0,SMG-DSB-091,248,Uzbek,3,1326.470947,36.0986,67.2375,SMG,DSB,Baig Ha,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24934,24935,Yale POP_MASTER,DSB-092,,0,SMG-DSB-092,892,Uzbek,3,1662.9160160000001,36.0723,67.3107,SMG,DSB,Balghali,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24935,24936,Yale POP_MASTER,DSB-095,,0,SMG-DSB-095,253,Uzbek,3,1473.748047,36.1103,67.3307,SMG,DSB,Band Sareq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24936,24937,Yale POP_MASTER,DSB-100,,0,SMG-DSB-100,132,Dari,1,1954.6660160000001,36.0363,67.6239,SMG,DSB,Big Nazar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24941,24942,Yale POP_MASTER,DSB-109,,0,SMG-DSB-109,347,Uzbek,3,1418.232056,36.1445,67.2725,SMG,DSB,Chopan Waldi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24942,24943,Yale POP_MASTER,DSB-116,,0,SMG-DSB-116,1083,Uzbek,3,1277.118042,36.0986,67.2607,SMG,DSB,Dahi Khawab,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24943,24944,Yale POP_MASTER,DSB-120,,0,SMG-DSB-120,111,Uzbek,3,1897.069946,36.071,67.5461,SMG,DSB,Dashtak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24944,24945,Yale POP_MASTER,DSB-122,,0,SMG-DSB-122,119,Uzbek,3,1484.797974,36.1312,67.2972,SMG,DSB,Dowlata,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24945,24946,Yale POP_MASTER,DSB-127,,0,SMG-DSB-127,312,Uzbek,3,1533.7290039999998,36.1266,67.3446,SMG,DSB,Guzar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24946,24947,Yale POP_MASTER,DSB-128,,0,SMG-DSB-128,594,Uzbek,3,1621.610962,36.0449,67.2989,SMG,DSB,Haira Mazar Mazar Kepski,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24947,24948,Yale POP_MASTER,DSB-130,,0,SMG-DSB-130,192,Uzbek,3,1701.198975,36.1368,67.4612,SMG,DSB,Haji Hadina,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24948,24949,Yale POP_MASTER,DSB-133,,0,SMG-DSB-133,167,Uzbek,3,1631.5429689999999,36.1595,67.4622,SMG,DSB,Hatahullah,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24949,24950,Yale POP_MASTER,DSB-136,,0,SMG-DSB-136,415,Dari,1,1568.8630369999998,36.1273,67.3649,SMG,DSB,Irghali,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24950,24951,Yale POP_MASTER,DSB-138,,0,SMG-DSB-138,153,Uzbek,3,1327.9880369999998,36.1165,67.2442,SMG,DSB,Jerah,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24951,24952,Yale POP_MASTER,DSB-139,,0,SMG-DSB-139,156,Dari,1,1317.0780029999999,36.0825,67.237,SMG,DSB,Kal Kai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24952,24953,Yale POP_MASTER,DSB-140,,0,SMG-DSB-140,273,Uzbek,3,1544.0839839999999,36.1058,67.3397,SMG,DSB,Kalta Now,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24953,24954,Yale POP_MASTER,DSB-141,,0,SMG-DSB-141,1169,Uzbek,3,1648.9279789999998,36.1352,67.4058,SMG,DSB,Kata Qaq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24954,24955,Yale POP_MASTER,DSB-143,,0,SMG-DSB-143,105,Uzbek,3,1757.850952,36.122,67.4091,SMG,DSB,Khan Shai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24955,24956,Yale POP_MASTER,DSB-146,,0,SMG-DSB-146,351,Uzbek,3,1540.889038,36.1442,67.3384,SMG,DSB,Khowja Boland,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24956,24957,Yale POP_MASTER,DSB-147,,0,SMG-DSB-147,285,Uzbek,3,1868.312988,36.1035,67.6116,SMG,DSB,Khowja Golab,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24957,24958,Yale POP_MASTER,DSB-148,,0,SMG-DSB-148,631,Uzbek,3,1583.430054,36.166,67.3479,SMG,DSB,Khowja Moquri,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24958,24959,Yale POP_MASTER,DSB-157,,0,SMG-DSB-157,245,Uzbek,3,1400.014038,36.0982,67.2815,SMG,DSB,Madri,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24959,24960,Yale POP_MASTER,DSB-158,,0,SMG-DSB-158,585,Pashto,2,1425.2070310000001,36.1309,67.2809,SMG,DSB,Maiwat,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24960,24961,Yale POP_MASTER,DSB-166,,0,SMG-DSB-166,95,Uzbek,3,1872.935059,36.0507,67.6123,SMG,DSB,Noman Baba Murad,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24961,24962,Yale POP_MASTER,DSB-167,,0,SMG-DSB-167,434,Uzbek,3,1880.4040530000002,36.1148,67.6129,SMG,DSB,Now Abad Khowja Gollab,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24962,24963,Yale POP_MASTER,DSB-173,,0,SMG-DSB-173,507,Uzbek,3,1396.850952,36.0559,67.2624,SMG,DSB,Paitawa Khalifa,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24963,24964,Yale POP_MASTER,DSB-181,,0,SMG-DSB-181,298,Uzbek,3,1345.928955,36.1164,67.2697,SMG,DSB,Qawetash,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24964,24965,Yale POP_MASTER,DSB-182,,0,SMG-DSB-182,164,Uzbek,3,1625.527954,36.1367,67.3794,SMG,DSB,Qazal Masjed,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24965,24966,Yale POP_MASTER,DSB-186,,0,SMG-DSB-186,245,Uzbek,3,2015.9899899999998,36.0269,67.6174,SMG,DSB,Qoush Zoo,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24966,24967,Yale POP_MASTER,DSB-190,,0,SMG-DSB-190,259,Uzbek,3,1619.032959,36.0918,67.3141,SMG,DSB,Sandal,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24967,24968,Yale POP_MASTER,DSB-196,,0,SMG-DSB-196,563,Uzbek,3,1338.338013,36.0655,67.2375,SMG,DSB,Sayaad,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24968,24969,Yale POP_MASTER,DSB-197,,0,SMG-DSB-197,97,Uzbek,3,1630.160034,36.1665,67.4572,SMG,DSB,Sayyed,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24969,24970,Yale POP_MASTER,DSB-202,,0,SMG-DSB-202,148,Uzbek,3,1388.390991,36.1103,67.2772,SMG,DSB,Taghai Sufi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24970,24971,Yale POP_MASTER,DSB-206,,0,SMG-DSB-206,242,Uzbek,3,1677.259033,36.126,67.3969,SMG,DSB,Toba Kounda,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24971,24972,Yale POP_MASTER,DSB-208,,0,SMG-DSB-208,471,Uzbek,3,1719.156006,36.1429,67.4645,SMG,DSB,Toulakchi Kokjar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24972,24973,Yale POP_MASTER,DSB-209,,0,SMG-DSB-209,359,Uzbek,3,1307.285034,36.1066,67.2849,SMG,DSB,Touqsan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24973,24974,CSO AIMS Villages (ACSOR),HSN-013,,0,SMG-HSN-013,854,Uzbek,3,1732.178955,36.23786,67.51914000000001,SMG,HSN,Chouchman,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24974,24975,CSO AIMS Villages (ACSOR),HSN-015,,0,SMG-HSN-015,723,Uzbek,3,1743.71106,36.23172,67.5351,SMG,HSN,Hoorlmash Now Abad Haji Mala,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24975,24976,CSO AIMS Villages (ACSOR),HSN-017,,0,SMG-HSN-017,311,Uzbek,3,1734.302002,36.24357,67.53848,SMG,HSN,Now Abad Chouchman,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24976,24977,USAID AIDVillageView,DSB-069,,0,SMG-DSB-069,0,Uzbek,3,1886.4780269999999,36.1049,67.6428,SMG,DSB,Yalman (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24977,24978,CSO AIMS Villages (ACSOR),HSN-012,,0,SMG-HSN-012,1061,Uzbek,3,1716.802002,36.185159999999996,67.60154,SMG,HSN,Big Mohammad,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+24978,24979,Yale POP_MASTER,DSB-153,,0,SMG-DSB-153,76,Pashto,2,1886.067993,36.1026,67.6372,SMG,DSB,Laghman,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+24979,24980,Yale POP_MASTER,DSB-168,,0,SMG-DSB-168,51,Dari,1,1833.407959,36.1108,67.6526,SMG,DSB,Now Abad Laghmani,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25339,25340,Yale POP_MASTER,HSN-029,,0,SMG-HSN-029,806,Uzbek,3,1200.334961,36.5497,67.9512,SMG,HSN,Khowja Baghlanak,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25340,25341,Yale POP_MASTER,HSN-031,,0,SMG-HSN-031,1118,Dari,1,838.8687133999999,36.4752,68.0176,SMG,HSN,Koka Balagh,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25341,25342,Yale POP_MASTER,HSN-032,,0,SMG-HSN-032,992,Dari,1,797.3729248,36.4837,68.0223,SMG,HSN,Koka Balagh Bala,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25342,25343,Yale POP_MASTER,HSN-035,,0,SMG-HSN-035,921,Uzbek,3,799.5792236000001,36.501,68.0731,SMG,HSN,Kulcha,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25343,25344,Yale POP_MASTER,HSN-041,,0,SMG-HSN-041,373,Uzbek,3,800.0610962000001,36.5162,68.0849,SMG,HSN,Now Abad Gurgeen,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25344,25345,Yale POP_MASTER,HSN-043,,0,SMG-HSN-043,448,Uzbek,3,804.2849121,36.5149,68.0527,SMG,HSN,Now Abad Qarcha Balagh,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25345,25346,Yale POP_MASTER,HSN-046,,0,SMG-HSN-046,459,Dari,1,793.2418213,36.4931,68.0572,SMG,HSN,Qazhayaghli,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25347,25348,USAID AIDVillageView,HSN-005,,0,SMG-HSN-005,0,Uzbek,3,814.1740722999999,36.4979,68.0927,SMG,HSN,Khaliq Bay,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25348,25349,USAID AIDVillageView,HSN-008,,0,SMG-HSN-008,0,Uzbek,3,817.8405762,36.53,68.1,SMG,HSN,Nawabadi Qaracha Bolaq,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25349,25350,USAID AIDVillageView,HSN-011,,0,SMG-HSN-011,0,Uzbek,3,755.0637817,36.5031,67.9863,SMG,HSN,Qorog,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+25506,25507,Yale POP_MASTER,DSP-040,,0,SMG-DSP-040,789,Dari,1,1046.3129880000001,35.7884,66.9811,SMG,DSP,Andarab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25507,25508,Yale POP_MASTER,DSP-151,,0,SMG-DSP-151,123,Dari,1,1068.0040279999998,35.7113,66.9735,SMG,DSP,Safid Khak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25508,25509,Yale POP_MASTER,DSP-187,,0,SMG-DSP-187,693,Dari,1,1390.177002,35.7718,66.955,SMG,DSP,Wakhshak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25801,25802,Yale POP_MASTER,DSP-173,,0,SMG-DSP-173,166,Dari,1,3029.396973,35.4262,66.9928,SMG,DSP,Sholonak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25802,25803,Yale POP_MASTER,DSP-192,,0,SMG-DSP-192,376,Dari,1,2914.430908,35.4029,67.0134,SMG,DSP,Zard Sang,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25852,25853,USAID AIDVillageView,RDA-001,,0,SMG-RDA-001,0,Dari,1,1903.967041,35.7624,67.8562,SMG,RDA,Akhund Molajum'a,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25853,25854,USAID AIDVillageView,RDA-002,,0,SMG-RDA-002,0,Dari,1,2940.657959,35.5261,67.7367,SMG,RDA,Awkhoraki (sar Tangi),1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25854,25855,USAID AIDVillageView,RDA-003,,0,SMG-RDA-003,0,Dari,1,2469.950928,35.8402,67.7746,SMG,RDA,Awqol,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25855,25856,USAID AIDVillageView,RDA-005,,0,SMG-RDA-005,0,Dari,1,2603.623047,35.834,67.7147,SMG,RDA,Chahar Chashma (e),1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25856,25857,USAID AIDVillageView,RDA-006,,0,SMG-RDA-006,0,Dari,1,2675.01001,35.5146,67.8305,SMG,RDA,Chaharmaghzsay(saray)ulya,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25857,25858,USAID AIDVillageView,RDA-007,,0,SMG-RDA-007,0,Dari,1,2551.106934,35.5222,68.0048,SMG,RDA,Chaman Bolaq (2),1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25858,25859,USAID AIDVillageView,RDA-008,,0,SMG-RDA-008,0,Dari,1,2500.668945,35.5211,67.9983,SMG,RDA,Chaman Bolaq (1),1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25859,25860,USAID AIDVillageView,RDA-010,,0,SMG-RDA-010,0,Dari,1,2758.52002,35.4879,67.7913,SMG,RDA,Jawkar,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25860,25861,USAID AIDVillageView,RDA-011,,0,SMG-RDA-011,0,Dari,1,2838.690918,35.6085,67.589,SMG,RDA,Ortaleq,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25861,25862,USAID AIDVillageView,RDA-013,,0,SMG-RDA-013,0,Dari,1,2668.729004,35.4942,67.8054,SMG,RDA,Shekh Sang,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25862,25863,USAID AIDVillageView,RDA-014,,0,SMG-RDA-014,0,Dari,1,2731.60791,35.5468,67.9433,SMG,RDA,Shor Qol,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25863,25864,CSO AIMS Villages (ACSOR),RDA-017,,0,SMG-RDA-017,18,Dari,1,2785.918945,35.56027,67.68411,SMG,RDA,Peach Gah (1),1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25864,25865,Yale POP_MASTER,RDA-019,,0,SMG-RDA-019,651,Dari,1,2558.441895,35.4975,67.7406,SMG,RDA,Ab Khourak Hulya,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25865,25866,Yale POP_MASTER,RDA-020,,0,SMG-RDA-020,928,Pashto,2,2521.855957,35.5026,67.7572,SMG,RDA,Ab Khourak Sufla,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25866,25867,Yale POP_MASTER,RDA-023,,0,SMG-RDA-023,819,Dari,1,2491.3520510000003,35.5698,67.5935,SMG,RDA,Allahudin,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25867,25868,Yale POP_MASTER,RDA-025,,0,SMG-RDA-025,562,Dari,1,2467.318115,35.5232,67.9701,SMG,RDA,Asail Surkh Qalah,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25868,25869,Yale POP_MASTER,RDA-026,,0,SMG-RDA-026,238,Dari,1,2438.196045,35.6267,67.7739,SMG,RDA,Asal Khowja Zaid,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25869,25870,Yale POP_MASTER,RDA-027,,0,SMG-RDA-027,250,Dari,1,2692.173096,35.5671,67.6916,SMG,RDA,Baba Haleem,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25870,25871,Yale POP_MASTER,RDA-028,,0,SMG-RDA-028,197,Dari,1,2601.1298829999996,35.4928,68.0195,SMG,RDA,Bacha Mazar,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25871,25872,Yale POP_MASTER,RDA-030,,0,SMG-RDA-030,51,Dari,1,2978.967041,35.5626,67.6627,SMG,RDA,Baildar Ghazar,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25872,25873,Yale POP_MASTER,RDA-031,,0,SMG-RDA-031,116,Dari,1,2572.2451170000004,35.5782,67.5963,SMG,RDA,Bala Khana,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25873,25874,Yale POP_MASTER,RDA-032,,0,SMG-RDA-032,468,Dari,1,2607.2260739999997,35.6068,67.5645,SMG,RDA,Balah Ail Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25874,25875,Yale POP_MASTER,RDA-033,,0,SMG-RDA-033,979,Dari,1,2812.1479489999997,35.5941,67.5824,SMG,RDA,Balah Ali Bala,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25875,25876,Yale POP_MASTER,RDA-034,,0,SMG-RDA-034,333,Dari,1,2643.6879879999997,35.8346,67.7286,SMG,RDA,Char Chashma Daraz,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25876,25877,Yale POP_MASTER,RDA-035,,0,SMG-RDA-035,682,Dari,1,2665.10498,35.8373,67.6991,SMG,RDA,Char Chashma Khowja Sabir,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25877,25878,Yale POP_MASTER,RDA-036,,0,SMG-RDA-036,423,Dari,1,2771.2028809999997,35.494,67.8388,SMG,RDA,Charmaghz Sarai Balai Hulya,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25878,25879,Yale POP_MASTER,RDA-037,,0,SMG-RDA-037,750,Dari,1,2667.834961,35.5074,67.8182,SMG,RDA,Charmaghz Sarai Sufla,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25879,25880,Yale POP_MASTER,RDA-038,,0,SMG-RDA-038,182,Dari,1,2665.853027,35.586,67.5971,SMG,RDA,Dahan Choule Khan,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25880,25881,Yale POP_MASTER,RDA-039,,0,SMG-RDA-039,225,Dari,1,2397.1721190000003,35.5444,67.9157,SMG,RDA,Dahan Darah,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25881,25882,Yale POP_MASTER,RDA-040,,0,SMG-RDA-040,220,Dari,1,2632.236084,35.5038,68.0347,SMG,RDA,Dahan-i-harfa Qoul,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25882,25883,Yale POP_MASTER,RDA-041,,0,SMG-RDA-041,328,Dari,1,2161.586914,35.6564,67.8522,SMG,RDA,Dahan-i-shamsuldin,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25883,25884,Yale POP_MASTER,RDA-043,,0,SMG-RDA-043,57,Dari,1,2145.804932,35.8255,67.8131,SMG,RDA,Ghair Jaow,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25884,25885,Yale POP_MASTER,RDA-045,,0,SMG-RDA-045,234,Dari,1,2600.5830079999996,35.6437,67.5751,SMG,RDA,Gouzrak,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25885,25886,Yale POP_MASTER,RDA-046,,0,SMG-RDA-046,1149,Dari,1,2424.691895,35.5819,67.6094,SMG,RDA,Haimaq,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25886,25887,Yale POP_MASTER,RDA-047,,0,SMG-RDA-047,140,Dari,1,2545.813965,35.5144,68.0162,SMG,RDA,Hainak Mourda,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25887,25888,Yale POP_MASTER,RDA-048,,0,SMG-RDA-048,44,Dari,1,2001.102051,35.6991,67.7942,SMG,RDA,Halma,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25888,25889,Yale POP_MASTER,RDA-049,,0,SMG-RDA-049,156,Dari,1,2578.873047,35.493,68.0292,SMG,RDA,Harfa Qoul Khoshkak,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25889,25890,Yale POP_MASTER,RDA-051,,0,SMG-RDA-051,1159,Dari,1,1901.258057,35.7857,67.8578,SMG,RDA,Hazar Mani,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25890,25891,Yale POP_MASTER,RDA-052,,0,SMG-RDA-052,1591,Dari,1,2002.156006,35.721,67.8132,SMG,RDA,Hazar Soum,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25891,25892,Yale POP_MASTER,RDA-053,,0,SMG-RDA-053,120,Dari,1,2715.6489260000003,35.5874,67.7234,SMG,RDA,Hazeem,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25892,25893,Yale POP_MASTER,RDA-054,,0,SMG-RDA-054,307,Dari,1,2501.925049,35.5259,67.9934,SMG,RDA,Jamal Balaq,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25893,25894,Yale POP_MASTER,RDA-055,,0,SMG-RDA-055,178,Dari,1,2734.707031,35.4773,67.7124,SMG,RDA,Janry Qoul,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25894,25895,Yale POP_MASTER,RDA-058,,0,SMG-RDA-058,139,Pashto,2,2558.554932,35.5013,67.9302,SMG,RDA,Kajnoo,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25895,25896,Yale POP_MASTER,RDA-059,,0,SMG-RDA-059,170,Dari,1,2422.225098,35.6124,67.6534,SMG,RDA,Kashap Sakhta,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25896,25897,Yale POP_MASTER,RDA-060,,0,SMG-RDA-060,80,Dari,1,2563.856934,35.5069,68.0075,SMG,RDA,Khan Bayaz,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25897,25898,Yale POP_MASTER,RDA-061,,0,SMG-RDA-061,464,Dari,1,2436.906982,35.5255,67.9576,SMG,RDA,Khawal Ghoula,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25898,25899,Yale POP_MASTER,RDA-062,,0,SMG-RDA-062,317,Dari,1,2396.469971,35.6221,67.7741,SMG,RDA,Khoja Zaid Jonobi,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25899,25900,Yale POP_MASTER,RDA-064,,0,SMG-RDA-064,82,Dari,1,2094.735107,35.6753,67.8594,SMG,RDA,Koul Gonbad,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25900,25901,Yale POP_MASTER,RDA-066,,0,SMG-RDA-066,1179,Dari,1,2538.8979489999997,35.5118,67.902,SMG,RDA,Madrak,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25901,25902,Yale POP_MASTER,RDA-067,,0,SMG-RDA-067,1060,Dari,1,2004.20105,35.7004,67.8923,SMG,RDA,Mahoo,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25902,25903,Yale POP_MASTER,RDA-069,,0,SMG-RDA-069,611,Dari,1,2376.0859379999997,35.5467,67.9065,SMG,RDA,Mangag Hulya,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25903,25904,Yale POP_MASTER,RDA-070,,0,SMG-RDA-070,283,Dari,1,2351.968018,35.5444,67.8943,SMG,RDA,Mangag Sufla,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25904,25905,Yale POP_MASTER,RDA-071,,0,SMG-RDA-071,950,Pashto,2,2248.031982,35.5583,67.8197,SMG,RDA,Markaz Woluswali Rai-do-ab,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25905,25906,Yale POP_MASTER,RDA-072,,0,SMG-RDA-072,198,Dari,1,2420.2189940000003,35.5739,67.605,SMG,RDA,Noula Ayeta,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25906,25907,Yale POP_MASTER,RDA-073,,0,SMG-RDA-073,671,Dari,1,2393.2739260000003,35.5442,67.8387,SMG,RDA,Now Abad,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25907,25908,Yale POP_MASTER,RDA-074,,0,SMG-RDA-074,400,Dari,1,2300.88501,35.6304,67.7849,SMG,RDA,Now Abad Khowja Zaid,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25908,25909,Yale POP_MASTER,RDA-076,,0,SMG-RDA-076,906,Dari,1,2388.8330079999996,35.545,67.8714,SMG,RDA,Pai Tangee,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25909,25910,Yale POP_MASTER,RDA-077,,0,SMG-RDA-077,371,Dari,1,2457.75,35.529,67.9699,SMG,RDA,Paitab,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25910,25911,Yale POP_MASTER,RDA-078,,0,SMG-RDA-078,358,Dari,1,2638.591064,35.4966,67.7216,SMG,RDA,Qala Cha,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25911,25912,Yale POP_MASTER,RDA-079,,0,SMG-RDA-079,767,Dari,1,2672.176025,35.4941,68.0053,SMG,RDA,Qara Qoul,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25912,25913,Yale POP_MASTER,RDA-080,,0,SMG-RDA-080,211,Dari,1,2747.730957,35.5506,68.0029,SMG,RDA,Qarghana Bala,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25913,25914,Yale POP_MASTER,RDA-081,,0,SMG-RDA-081,123,Pashto,2,2709.010986,35.5533,67.9835,SMG,RDA,Qarghana Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25914,25915,Yale POP_MASTER,RDA-082,,0,SMG-RDA-082,725,Dari,1,2288.349121,35.6603,67.6394,SMG,RDA,Qashqa,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25915,25916,Yale POP_MASTER,RDA-083,,0,SMG-RDA-083,451,Dari,1,2287.220947,35.6474,67.6587,SMG,RDA,Qashqa Hortalaq,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25916,25917,Yale POP_MASTER,RDA-084,,0,SMG-RDA-084,126,Dari,1,2408.686035,35.6602,67.6272,SMG,RDA,Qashqa Ahangaran,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25917,25918,Yale POP_MASTER,RDA-085,,0,SMG-RDA-085,143,Dari,1,2533.8359379999997,35.6322,67.669,SMG,RDA,Qashqa Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25918,25919,Yale POP_MASTER,RDA-086,,0,SMG-RDA-086,813,Dari,1,1925.405029,35.7527,67.8508,SMG,RDA,Rohe Anbar,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25919,25920,Yale POP_MASTER,RDA-087,,0,SMG-RDA-087,1023,Dari,1,1897.369995,35.7747,67.8647,SMG,RDA,Royee,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25920,25921,Yale POP_MASTER,RDA-088,,0,SMG-RDA-088,146,Dari,1,1962.862061,35.7674,67.8467,SMG,RDA,Royee Kolar,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25921,25922,Yale POP_MASTER,RDA-089,,0,SMG-RDA-089,52,Dari,1,2895.7109379999997,35.583,67.5855,SMG,RDA,Sabz-e- Now,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25922,25923,Yale POP_MASTER,RDA-092,,0,SMG-RDA-092,139,Dari,1,2473.489014,35.5667,67.5803,SMG,RDA,Sar Asiab Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25923,25924,Yale POP_MASTER,RDA-093,,0,SMG-RDA-093,53,Dari,1,2393.212891,35.6141,67.77,SMG,RDA,Sar Chashma,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25924,25925,Yale POP_MASTER,RDA-096,,0,SMG-RDA-096,202,Dari,1,2533.887939,35.5218,67.9244,SMG,RDA,Sartang Hulya,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25925,25926,Yale POP_MASTER,RDA-097,,0,SMG-RDA-097,548,Dari,1,2536.425049,35.5252,67.7806,SMG,RDA,Sartangi,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25926,25927,Yale POP_MASTER,RDA-098,,0,SMG-RDA-098,281,Dari,1,2500.87207,35.5266,67.9376,SMG,RDA,Sartangi Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25927,25928,Yale POP_MASTER,RDA-099,,0,SMG-RDA-099,130,Dari,1,2503.475098,35.8354,67.7576,SMG,RDA,Seya Qoulak,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25928,25929,Yale POP_MASTER,RDA-100,,0,SMG-RDA-100,410,Dari,1,2669.4021,35.495,67.6761,SMG,RDA,Shaikhani,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25929,25930,Yale POP_MASTER,RDA-101,,0,SMG-RDA-101,881,Dari,1,2225.487061,35.5748,67.8245,SMG,RDA,Shor Toughi,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25930,25931,Yale POP_MASTER,RDA-102,,0,SMG-RDA-102,106,Dari,1,2736.153076,35.4873,67.6724,SMG,RDA,Tal Mazar Bala,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25931,25932,Yale POP_MASTER,RDA-104,,0,SMG-RDA-104,80,Dari,1,2492.761963,35.6186,67.7462,SMG,RDA,Tara Gouzar Bala,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25932,25933,Yale POP_MASTER,RDA-105,,0,SMG-RDA-105,368,Dari,1,2563.445068,35.6025,67.7305,SMG,RDA,Tara Gouzar Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25933,25934,Yale POP_MASTER,RDA-107,,0,SMG-RDA-107,56,Dari,1,2820.2739260000003,35.5766,67.5721,SMG,RDA,Yakhni Qoul Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25934,25935,Yale POP_MASTER,RDA-108,,0,SMG-RDA-108,69,Dari,1,2323.6870120000003,35.595,67.8374,SMG,RDA,Zard Khowal,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25935,25936,Yale POP_MASTER,RDA-109,District,1,SMG-RDA-109,1788,Dari,1,2308.416016,35.5633,67.8232,SMG,RDA,Ruy-e-du Ab,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+25944,25945,Yale POP_MASTER,DSP-096,,0,SMG-DSP-096,189,Dari,1,2968.76709,35.7163,67.5281,SMG,DSP,Jalfase,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25945,25946,Yale POP_MASTER,DSP-133,,0,SMG-DSP-133,97,Dari,1,2634.909912,35.8389,67.6371,SMG,DSP,Poudita Gahk,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25946,25947,Yale POP_MASTER,DSP-036,,0,SMG-DSP-036,121,Dari,1,2309.13208,35.7985,67.5681,SMG,DSP,Ajreem,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25947,25948,Yale POP_MASTER,DSP-039,,0,SMG-DSP-039,289,Dari,1,2805.9169920000004,35.7237,67.5707,SMG,DSP,Almali,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25948,25949,Yale POP_MASTER,DSP-142,,0,SMG-DSP-142,223,Dari,1,2449.1201170000004,35.7984,67.6081,SMG,DSP,Qarghna,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25949,25950,USAID AIDVillageView,DSB-058,,0,SMG-DSB-058,0,Dari,1,1512.214966,35.9855,67.1767,SMG,DSB,Sare Band,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25950,25951,USAID AIDVillageView,DSB-059,,0,SMG-DSB-059,0,Dari,1,1513.234985,35.9978,67.2669,SMG,DSB,Sare Safedkotal,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25951,25952,USAID AIDVillageView,DSB-060,,0,SMG-DSB-060,0,Dari,1,1117.064941,36.0676,67.1052,SMG,DSB,Shamallak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25952,25953,USAID AIDVillageView,DSB-061,,0,SMG-DSB-061,0,Dari,1,1687.140015,36.0117,67.4106,SMG,DSB,Sonjeetak (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25953,25954,USAID AIDVillageView,DSB-063,,0,SMG-DSB-063,0,Dari,1,1411.4780269999999,35.9061,67.3395,SMG,DSB,Taqchi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25954,25955,USAID AIDVillageView,DSB-067,,0,SMG-DSB-067,0,Dari,1,2121.500977,35.8384,67.1298,SMG,DSB,Wokar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25955,25956,USAID AIDVillageView,DSB-068,,0,SMG-DSB-068,0,Dari,1,1904.050049,35.9114,67.117,SMG,DSB,Wuljaqoduq Bala,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25956,25957,USAID AIDVillageView,DSB-071,,0,SMG-DSB-071,0,Dari,1,2054.6479489999997,35.8449,67.1101,SMG,DSB,Zaygolake Folad,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25957,25958,CSO AIMS Villages (ACSOR),DSB-072,,0,SMG-DSB-072,152,Dari,1,1789.432007,35.9544,67.16216,SMG,DSB,Alghan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25958,25959,CSO AIMS Villages (ACSOR),DSB-073,,0,SMG-DSB-073,636,Dari,1,1242.055054,36.11334,67.17289,SMG,DSB,Alghan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25959,25960,CSO AIMS Villages (ACSOR),DSB-074,,0,SMG-DSB-074,88,Dari,1,2176.003906,35.83169,67.15305,SMG,DSB,Alghan Pahna Zardan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25960,25961,CSO AIMS Villages (ACSOR),DSB-075,,0,SMG-DSB-075,234,Dari,1,2024.324951,35.961220000000004,67.52773,SMG,DSB,Angorak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25961,25962,CSO AIMS Villages (ACSOR),DSB-077,,0,SMG-DSB-077,159,Dari,1,1711.125,35.95662,67.41062,SMG,DSB,Mohammadi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25962,25963,CSO AIMS Villages (ACSOR),DSB-078,,0,SMG-DSB-078,169,Dari,1,1849.8409420000003,35.95122,67.19632,SMG,DSB,Zadrai Khadri,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25964,25965,USAID AIDVillageView,DSP-002,,0,SMG-DSP-002,0,Dari,1,2175.543945,35.986,67.5748,SMG,DSP,Aydalqasi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25965,25966,USAID AIDVillageView,DSP-004,,0,SMG-DSP-004,0,Dari,1,1616.508057,35.8545,67.368,SMG,DSP,Binimang,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25966,25967,USAID AIDVillageView,DSP-005,,0,SMG-DSP-005,0,Dari,1,1490.901001,35.8893,67.3726,SMG,DSP,Chaharawlya,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25967,25968,USAID AIDVillageView,DSP-006,,0,SMG-DSP-006,0,Dari,1,2010.4630129999998,35.8863,67.4844,SMG,DSP,Damaki,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25968,25969,USAID AIDVillageView,DSP-008,,0,SMG-DSP-008,0,Dari,1,2257.072998,35.8184,67.1407,SMG,DSP,Ghashu,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25969,25970,USAID AIDVillageView,DSP-009,,0,SMG-DSP-009,0,Dari,1,2093.714111,35.676,67.328,SMG,DSP,Gumchashma,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25970,25971,USAID AIDVillageView,DSP-011,,0,SMG-DSP-011,0,Dari,1,2251.6489260000003,35.8059,67.1469,SMG,DSP,Khwajabedak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25971,25972,USAID AIDVillageView,DSP-012,,0,SMG-DSP-012,0,Dari,1,1928.031982,35.8202,67.4322,SMG,DSP,Khwajabeland,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25972,25973,USAID AIDVillageView,DSP-013,,0,SMG-DSP-013,0,Dari,1,1841.714966,35.8062,67.336,SMG,DSP,Kunha-hasani,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25973,25974,USAID AIDVillageView,DSP-018,,0,SMG-DSP-018,0,Dari,1,2107.6411129999997,35.8169,67.4672,SMG,DSP,Qeshlaqe Rahim,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25974,25975,USAID AIDVillageView,DSP-021,,0,SMG-DSP-021,0,Dari,1,2446.3439940000003,35.7019,67.0662,SMG,DSP,Shawo,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25975,25976,USAID AIDVillageView,DSP-023,,0,SMG-DSP-023,0,Dari,1,2003.733032,35.6908,67.0907,SMG,DSP,Surkhlech,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25976,25977,USAID AIDVillageView,DSP-025,,0,SMG-DSP-025,0,Dari,1,1820.19397,35.8406,67.3337,SMG,DSP,Torpaghli,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25977,25978,USAID AIDVillageView,DSP-027,,0,SMG-DSP-027,0,Dari,1,2955.573975,35.6723,67.1585,SMG,DSP,Zardtala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25978,25979,CSO AIMS Villages (ACSOR),DSP-028,,0,SMG-DSP-028,120,Dari,1,1900.609985,35.84304,67.21300000000001,SMG,DSP,Chakab (1),1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25979,25980,CSO AIMS Villages (ACSOR),DSP-029,,0,SMG-DSP-029,263,Dari,1,1946.18103,35.823240000000006,67.39780999999999,SMG,DSP,Chakab (2),1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25980,25981,CSO AIMS Villages (ACSOR),DSP-030,,0,SMG-DSP-030,93,Dari,1,2062.988037,35.865429999999996,67.46728,SMG,DSP,Mullah Nasirullah,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25981,25982,CSO AIMS Villages (ACSOR),DSP-032,,0,SMG-DSP-032,519,Dari,1,2760.384033,35.66602,67.41514000000001,SMG,DSP,Qala-e-now (2),1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+25982,25983,USAID AIDVillageView,DSB-003,,0,SMG-DSB-003,0,Dari,1,1984.3409420000003,35.9549,67.5011,SMG,DSB,Angurak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25983,25984,USAID AIDVillageView,DSB-004,,0,SMG-DSB-004,0,Dari,1,1706.657959,36.038000000000004,67.3063,SMG,DSB,Aq Mazar (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25984,25985,USAID AIDVillageView,DSB-006,,0,SMG-DSB-006,0,Dari,1,1277.655029,36.0375,67.107,SMG,DSB,Bai Becha (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25985,25986,USAID AIDVillageView,DSB-007,,0,SMG-DSB-007,0,Dari,1,1521.18396,36.0227,67.2819,SMG,DSB,Bai Becha Kamar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25986,25987,USAID AIDVillageView,DSB-008,,0,SMG-DSB-008,0,Dari,1,1928.0720210000002,35.9826,67.4657,SMG,DSB,Balahesar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25987,25988,USAID AIDVillageView,DSB-011,,0,SMG-DSB-011,0,Dari,1,1647.213989,36.0214,67.2904,SMG,DSB,Balina,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25988,25989,USAID AIDVillageView,DSB-013,,0,SMG-DSB-013,0,Dari,1,1977.875,36.0079,67.4575,SMG,DSB,Barikee,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25989,25990,USAID AIDVillageView,DSB-014,,0,SMG-DSB-014,0,Dari,1,1811.709961,36.0434,67.3894,SMG,DSB,Chamkoli (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25990,25991,USAID AIDVillageView,DSB-015,,0,SMG-DSB-015,0,Dari,1,1849.562988,36.013000000000005,67.3887,SMG,DSB,Chankeli Khurd,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25991,25992,USAID AIDVillageView,DSB-016,,0,SMG-DSB-016,0,Dari,1,1187.852051,36.1232,67.1839,SMG,DSB,Char Su,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25992,25993,USAID AIDVillageView,DSB-017,,0,SMG-DSB-017,0,Dari,1,1756.3730469999998,35.9906,67.3101,SMG,DSB,Chemqotan (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25993,25994,USAID AIDVillageView,DSB-018,,0,SMG-DSB-018,0,Dari,1,1649.385986,35.9925,67.3279,SMG,DSB,Chemqotan (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25994,25995,USAID AIDVillageView,DSB-019,,0,SMG-DSB-019,0,Dari,1,1892.069946,35.907,67.4456,SMG,DSB,Chulqoduq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25995,25996,USAID AIDVillageView,DSB-020,,0,SMG-DSB-020,0,Dari,1,1265.766968,35.9417,67.2833,SMG,DSB,Dara-i-suf,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25996,25997,USAID AIDVillageView,DSB-022,,0,SMG-DSB-022,0,Dari,1,1256.8959960000002,36.0995,67.2261,SMG,DSB,Deh Khwab (3),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25997,25998,USAID AIDVillageView,DSB-025,,0,SMG-DSB-025,0,Dari,1,1696.250977,36.0416,67.3499,SMG,DSB,Galawan Sai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25998,25999,USAID AIDVillageView,DSB-033,,0,SMG-DSB-033,0,Dari,1,1274.2910160000001,36.1402,67.2126,SMG,DSB,Kocha Aregh(1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+25999,26000,USAID AIDVillageView,DSB-034,,0,SMG-DSB-034,0,Dari,1,1275.140991,36.1157,67.2179,SMG,DSB,Kocha Aregh(2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26000,26001,USAID AIDVillageView,DSB-036,,0,SMG-DSB-036,0,Dari,1,1871.567017,36.0616,67.413,SMG,DSB,Lab Abi (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26001,26002,USAID AIDVillageView,DSB-037,,0,SMG-DSB-037,0,Dari,1,1877.625,36.0525,67.4185,SMG,DSB,Lab Abi (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26002,26003,USAID AIDVillageView,DSB-038,,0,SMG-DSB-038,0,Dari,1,1609.27002,35.9772,67.3967,SMG,DSB,Lobabi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26003,26004,USAID AIDVillageView,DSB-040,,0,SMG-DSB-040,0,Dari,1,1430.6469730000001,36.0027,67.1262,SMG,DSB,Malik Shahid Guda,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26004,26005,USAID AIDVillageView,DSB-041,,0,SMG-DSB-041,0,Dari,1,1782.0059809999998,36.0241,67.3159,SMG,DSB,Masud (1),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26005,26006,USAID AIDVillageView,DSB-042,,0,SMG-DSB-042,0,Dari,1,1747.214966,36.0152,67.3127,SMG,DSB,Masud (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26006,26007,USAID AIDVillageView,DSB-043,,0,SMG-DSB-043,0,Dari,1,1644.4160160000001,36.0064,67.3042,SMG,DSB,Masud (3),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26007,26008,USAID AIDVillageView,DSB-045,,0,SMG-DSB-045,0,Dari,1,1642.246948,36.0063,67.2828,SMG,DSB,Mizram Bayk,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26008,26009,USAID AIDVillageView,DSB-046,,0,SMG-DSB-046,0,Dari,1,1445.557007,36.0067,67.1697,SMG,DSB,Nauma,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26009,26010,USAID AIDVillageView,DSB-047,,0,SMG-DSB-047,0,Dari,1,1095.769043,36.0715,67.1324,SMG,DSB,Oimatan (2),1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26010,26011,USAID AIDVillageView,DSB-048,,0,SMG-DSB-048,0,Dari,1,2221.204102,35.8305,67.1233,SMG,DSB,Okare Bala,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26015,26016,Yale POP_MASTER,DSB-079,,0,SMG-DSB-079,196,Dari,1,1817.871948,36.0644,67.3976,SMG,DSB,Abdul.ahad,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26016,26017,Yale POP_MASTER,DSB-081,,0,SMG-DSB-081,379,Dari,1,1526.109985,35.9516,67.358,SMG,DSB,Ahangaran,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26017,26018,Yale POP_MASTER,DSB-082,,0,SMG-DSB-082,340,Other,9,1912.405029,36.0176,67.4263,SMG,DSB,Akhter Khan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26018,26019,Yale POP_MASTER,DSB-083,,0,SMG-DSB-083,51,Dari,1,1818.858032,35.9634,67.469,SMG,DSB,Alghan Pousht Band,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26019,26020,Yale POP_MASTER,DSB-085,,0,SMG-DSB-085,176,Dari,1,1686.0219730000001,35.9087,67.1807,SMG,DSB,Alqajahr,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26020,26021,Yale POP_MASTER,DSB-086,,0,SMG-DSB-086,191,Dari,1,1560.63501,35.9331,67.3822,SMG,DSB,Arya Qoul,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26021,26022,Yale POP_MASTER,DSB-087,,0,SMG-DSB-087,123,Dari,1,1576.442993,35.9032,67.3919,SMG,DSB,Baba Nazari,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26022,26023,Yale POP_MASTER,DSB-088,,0,SMG-DSB-088,64,Dari,1,1829.682007,35.9385,67.44800000000001,SMG,DSB,Baghak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26023,26024,Yale POP_MASTER,DSB-089,,0,SMG-DSB-089,205,Dari,1,1874.589966,36.0558,67.5205,SMG,DSB,Baghal Shakaf,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26024,26025,Yale POP_MASTER,DSB-090,,0,SMG-DSB-090,387,Uzbek,3,1975.032959,35.9905,67.4664,SMG,DSB,Bai Shekam,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26025,26026,Yale POP_MASTER,DSB-093,,0,SMG-DSB-093,387,Uzbek,3,1858.527954,35.9613,67.4464,SMG,DSB,Balkol Payen,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26026,26027,Yale POP_MASTER,DSB-094,,0,SMG-DSB-094,152,Dari,1,1358.8790279999998,36.0276,67.1466,SMG,DSB,Baloch,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26027,26028,Yale POP_MASTER,DSB-096,,0,SMG-DSB-096,88,Dari,1,1735.897949,35.9117,67.0912,SMG,DSB,Band Tajak Ya Band Talkhak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26028,26029,Yale POP_MASTER,DSB-097,,0,SMG-DSB-097,673,Dari,1,1727.0100100000002,35.9779,67.1442,SMG,DSB,Band Zagh,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26029,26030,Yale POP_MASTER,DSB-098,,0,SMG-DSB-098,630,Uzbek,3,1683.198975,35.9203,67.4121,SMG,DSB,Bayanat,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26030,26031,Yale POP_MASTER,DSB-099,,0,SMG-DSB-099,526,Dari,1,1906.754028,35.8956,67.13600000000001,SMG,DSB,Beyanan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26031,26032,Yale POP_MASTER,DSB-101,,0,SMG-DSB-101,640,Dari,1,1894.102051,35.8948,67.0651,SMG,DSB,Boblai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26032,26033,Yale POP_MASTER,DSB-102,,0,SMG-DSB-102,219,Dari,1,1597.873047,35.8927,67.3409,SMG,DSB,Boyena Qara Taqchai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26033,26034,Yale POP_MASTER,DSB-103,,0,SMG-DSB-103,83,Dari,1,1865.75,35.9635,67.4837,SMG,DSB,Chaghzar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26034,26035,Yale POP_MASTER,DSB-104,,0,SMG-DSB-104,106,Dari,1,1404.250977,36.037,67.1988,SMG,DSB,Chakab Qarah Shi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26035,26036,Yale POP_MASTER,DSB-105,,0,SMG-DSB-105,410,Dari,1,1538.952026,35.9039,67.2229,SMG,DSB,Char Taq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26037,26038,Yale POP_MASTER,DSP-120,,0,SMG-DSP-120,804,Dari,1,2466.043945,35.6196,67.1415,SMG,DSP,Lailia,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26038,26039,Yale POP_MASTER,DSP-121,,0,SMG-DSP-121,503,Dari,1,2375.626953,35.529,67.2086,SMG,DSP,Maijtak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26039,26040,Yale POP_MASTER,DSP-049,,0,SMG-DSP-049,620,Dari,1,2527.959961,35.6356,67.0773,SMG,DSP,Baloch,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26040,26041,Yale POP_MASTER,DSP-050,,0,SMG-DSP-050,1119,Dari,1,2069.486084,35.6491,67.1941,SMG,DSP,Bani Mang,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26041,26042,Yale POP_MASTER,DSP-069,,0,SMG-DSP-069,113,Dari,1,2080.324951,35.6547,67.2158,SMG,DSP,Dahan Nawer,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26042,26043,Yale POP_MASTER,DSP-144,,0,SMG-DSP-144,275,Dari,1,2298.0778809999997,35.6297,67.1618,SMG,DSP,Qoubi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26043,26044,Yale POP_MASTER,DSP-146,,0,SMG-DSP-146,588,Dari,1,2130.581055,35.6309,67.1861,SMG,DSP,Rashk,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26044,26045,Yale POP_MASTER,DSP-155,,0,SMG-DSP-155,982,Dari,1,2330.673096,35.5352,67.2306,SMG,DSP,Sar Boum Bala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26045,26046,Yale POP_MASTER,DSP-156,,0,SMG-DSP-156,737,Dari,1,2304.455078,35.5486,67.2351,SMG,DSP,Sar Boum Payen,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26046,26047,Yale POP_MASTER,DSP-174,,0,SMG-DSP-174,937,Dari,1,2716.292969,35.6038,67.0398,SMG,DSP,Sorkh Dahi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26047,26048,Yale POP_MASTER,DSP-175,,0,SMG-DSP-175,407,Dari,1,2070.298096,35.635999999999996,67.1938,SMG,DSP,Sorkh Joy,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26048,26049,Yale POP_MASTER,DSP-188,District,1,SMG-DSP-188,1723,Dari,1,2200.496094,35.6718,67.0732,SMG,DSP,Way Balaq,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26049,26050,Yale POP_MASTER,DSP-190,,0,SMG-DSP-190,695,Dari,1,2780.329102,35.6053,67.0808,SMG,DSP,Zahra,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26054,26055,Yale POP_MASTER,DSP-076,,0,SMG-DSP-076,364,Dari,1,2036.906006,35.8869,67.4957,SMG,DSP,Daikundi Damaki,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26055,26056,Yale POP_MASTER,DSP-077,,0,SMG-DSP-077,527,Dari,1,1869.241943,35.8893,67.4273,SMG,DSP,Damkai,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26056,26057,Yale POP_MASTER,DSP-078,,0,SMG-DSP-078,882,Dari,1,2389.89209,35.684,67.4233,SMG,DSP,Darwaza,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26057,26058,Yale POP_MASTER,DSP-079,,0,SMG-DSP-079,217,Dari,1,2507.559082,35.6897,67.3972,SMG,DSP,Dawood,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26058,26059,Yale POP_MASTER,DSP-081,,0,SMG-DSP-081,114,Dari,1,2095.64209,35.8435,67.0939,SMG,DSP,Dowgana,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26059,26060,Yale POP_MASTER,DSP-082,,0,SMG-DSP-082,431,Dari,1,2565.4140629999997,35.7456,67.3779,SMG,DSP,Garmak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26060,26061,Yale POP_MASTER,DSP-083,,0,SMG-DSP-083,265,Dari,1,1460.748047,35.8424,67.2726,SMG,DSP,Ghazni Chai Dahan Shorab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26061,26062,Yale POP_MASTER,DSP-084,,0,SMG-DSP-084,385,Dari,1,1998.935059,35.7442,67.2638,SMG,DSP,Ghulam Mohammad,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26062,26063,Yale POP_MASTER,DSP-085,,0,SMG-DSP-085,107,Dari,1,2713.900879,35.7294,67.0565,SMG,DSP,Gola Hessar,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26063,26064,Yale POP_MASTER,DSP-086,,0,SMG-DSP-086,805,Dari,1,1968.189941,35.7273,67.0149,SMG,DSP,Gola Lal Malik,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26064,26065,Yale POP_MASTER,DSP-087,,0,SMG-DSP-087,274,Dari,1,1843.762939,35.7317,67.0135,SMG,DSP,Gola Lal Malik Masjid Qeyamudi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26065,26066,Yale POP_MASTER,DSP-088,,0,SMG-DSP-088,55,Dari,1,2320.72998,35.7153,67.015,SMG,DSP,Gola Safid Khak Lal Malik,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26066,26067,Yale POP_MASTER,DSP-089,,0,SMG-DSP-089,574,Dari,1,1781.33606,35.8098,67.3655,SMG,DSP,Gorg-i-koshta,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26067,26068,Yale POP_MASTER,DSP-090,,0,SMG-DSP-090,128,Dari,1,1771.915039,35.7046,67.2879,SMG,DSP,Gosala Khana,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26068,26069,Yale POP_MASTER,DSP-091,,0,SMG-DSP-091,158,Dari,1,2004.439941,35.6844,67.3266,SMG,DSP,Goum Chashma,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26069,26070,Yale POP_MASTER,DSP-092,,0,SMG-DSP-092,17,Dari,1,1620.598999,35.8292,67.2522,SMG,DSP,Gulak Morda,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26070,26071,Yale POP_MASTER,DSP-093,,0,SMG-DSP-093,274,Dari,1,2178.834961,35.7852,67.1472,SMG,DSP,Guldara,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26071,26072,Yale POP_MASTER,DSP-095,,0,SMG-DSP-095,455,Dari,1,1839.4549559999998,35.7484,67.2729,SMG,DSP,Hassani Burj,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26072,26073,Yale POP_MASTER,DSP-097,,0,SMG-DSP-097,576,Dari,1,2067.904053,35.8285,67.0845,SMG,DSP,Jamshad,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26073,26074,Yale POP_MASTER,DSP-098,,0,SMG-DSP-098,532,Dari,1,1397.133057,35.8711,67.2825,SMG,DSP,Jan Bogha,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26074,26075,Yale POP_MASTER,DSP-099,,0,SMG-DSP-099,657,Dari,1,1915.790039,35.8205,67.263,SMG,DSP,Jangal Qoul,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26075,26076,Yale POP_MASTER,DSP-100,,0,SMG-DSP-100,191,Dari,1,2649.426025,35.7632,67.51899999999999,SMG,DSP,Jaras,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26076,26077,Yale POP_MASTER,DSP-101,,0,SMG-DSP-101,759,Dari,1,1388.972046,35.9109,67.2631,SMG,DSP,Kachkak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26077,26078,Yale POP_MASTER,DSP-102,,0,SMG-DSP-102,719,Dari,1,1864.17395,35.6968,67.274,SMG,DSP,Kamach,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26078,26079,Yale POP_MASTER,DSP-103,,0,SMG-DSP-103,189,Dari,1,1923.391968,35.6755,67.2555,SMG,DSP,Kardan,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26079,26080,Yale POP_MASTER,DSP-104,,0,SMG-DSP-104,120,Dari,1,2203.281982,35.8075,67.4448,SMG,DSP,Kata Kham,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26080,26081,Yale POP_MASTER,DSP-105,,0,SMG-DSP-105,245,Dari,1,1897.359985,35.8314,67.3992,SMG,DSP,Kata Qeshlaq,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26081,26082,Yale POP_MASTER,DSP-106,,0,SMG-DSP-106,233,Dari,1,1862.839966,35.7429,67.0771,SMG,DSP,Kata Sang,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26082,26083,Yale POP_MASTER,DSP-107,,0,SMG-DSP-107,94,Dari,1,1949.925049,35.8569,67.4738,SMG,DSP,Kejlar,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26083,26084,Yale POP_MASTER,DSP-108,,0,SMG-DSP-108,211,Dari,1,2400.518066,35.6928,67.3866,SMG,DSP,Khak Bad,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26084,26085,Yale POP_MASTER,DSP-109,,0,SMG-DSP-109,124,Dari,1,1992.8959960000002,35.819,67.5109,SMG,DSP,Kham Hawz,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26085,26086,Yale POP_MASTER,DSP-110,,0,SMG-DSP-110,321,Dari,1,2128.191895,35.7887,67.1092,SMG,DSP,Kham Qadouq Mirka,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26086,26087,Yale POP_MASTER,DSP-112,,0,SMG-DSP-112,346,Dari,1,1957.886963,35.8208,67.4072,SMG,DSP,Khoja Boland Bala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26087,26088,Yale POP_MASTER,DSP-113,,0,SMG-DSP-113,722,Dari,1,1605.105957,35.8592,67.3006,SMG,DSP,Khowal Chaharmaghz,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26088,26089,Yale POP_MASTER,DSP-114,,0,SMG-DSP-114,153,Dari,1,1983.687988,35.817,67.4142,SMG,DSP,Khowja Boland Payen,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26089,26090,Yale POP_MASTER,DSP-115,,0,SMG-DSP-115,275,Dari,1,2318.0161129999997,35.7623,67.4695,SMG,DSP,Khowja Ganj,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26090,26091,Yale POP_MASTER,DSP-116,,0,SMG-DSP-116,71,Dari,1,1614.82605,35.8642,67.4033,SMG,DSP,Khowja Gul (1),1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26091,26092,Yale POP_MASTER,DSP-117,,0,SMG-DSP-117,27,Dari,1,2116.092041,35.8411,67.5128,SMG,DSP,Khowja Gul (2),1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26092,26093,Yale POP_MASTER,DSP-122,,0,SMG-DSP-122,175,Dari,1,2022.035034,35.6905,67.3227,SMG,DSP,Mark,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26093,26094,Yale POP_MASTER,DSP-123,,0,SMG-DSP-123,406,Dari,1,2288.7729489999997,35.7308,67.4261,SMG,DSP,Mir Hazar,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26094,26095,Yale POP_MASTER,DSP-124,,0,SMG-DSP-124,188,Dari,1,1590.781982,35.8842,67.3586,SMG,DSP,Moushka,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26095,26096,Yale POP_MASTER,DSP-125,,0,SMG-DSP-125,89,Other,9,2170.400879,35.9417,67.5463,SMG,DSP,Mullah Noorullah,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26096,26097,Yale POP_MASTER,DSP-126,,0,SMG-DSP-126,162,Dari,1,2035.682007,35.829,67.166,SMG,DSP,Now Abad Khair Abad,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26097,26098,Yale POP_MASTER,DSP-127,,0,SMG-DSP-127,140,Dari,1,2261.177002,35.7759,67.3448,SMG,DSP,Now Aghor,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26098,26099,Yale POP_MASTER,DSP-128,,0,SMG-DSP-128,274,Dari,1,1647.27002,35.8552,67.38600000000001,SMG,DSP,Now Amad Qoudya,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26099,26100,Yale POP_MASTER,DSP-129,,0,SMG-DSP-129,471,Dari,1,1905.071045,35.8442,67.2968,SMG,DSP,Pai Kotal,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26100,26101,Yale POP_MASTER,DSP-130,,0,SMG-DSP-130,87,Dari,1,2122.795898,35.7802,67.3655,SMG,DSP,Paitawak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26101,26102,Yale POP_MASTER,DSP-131,,0,SMG-DSP-131,46,Dari,1,2009.203979,35.8394,67.2012,SMG,DSP,Pass Qoulak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26102,26103,Yale POP_MASTER,DSP-132,,0,SMG-DSP-132,57,Dari,1,2848.3439940000003,35.7443,67.513,SMG,DSP,Poudina,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26103,26104,Yale POP_MASTER,DSP-134,,0,SMG-DSP-134,67,Dari,1,2172.97998,35.786,67.3149,SMG,DSP,Qader,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26104,26105,Yale POP_MASTER,DSP-135,,0,SMG-DSP-135,753,Uzbek,3,1324.901001,35.9112,67.2838,SMG,DSP,Qala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26105,26106,Yale POP_MASTER,DSP-033,,0,SMG-DSP-033,228,Dari,1,2021.192017,35.7986,67.3526,SMG,DSP,Ab Kalan,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26106,26107,Yale POP_MASTER,DSP-034,,0,SMG-DSP-034,80,Dari,1,2095.948975,35.6818,67.086,SMG,DSP,Ab Larkhak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26107,26108,Yale POP_MASTER,DSP-037,,0,SMG-DSP-037,177,Dari,1,2286.965088,35.795,67.1371,SMG,DSP,Ali Miran,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26108,26109,Yale POP_MASTER,DSP-038,,0,SMG-DSP-038,153,Dari,1,2188.8520510000003,35.8089,67.5047,SMG,DSP,Alkhanjak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26109,26110,Yale POP_MASTER,DSP-041,,0,SMG-DSP-041,109,Dari,1,2272.885986,35.7876,67.1604,SMG,DSP,Arghawak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26110,26111,Yale POP_MASTER,DSP-042,,0,SMG-DSP-042,222,Dari,1,1946.932007,35.8123,67.1728,SMG,DSP,Ashlaz Bala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26111,26112,Yale POP_MASTER,DSP-043,,0,SMG-DSP-043,436,Dari,1,1899.162964,35.8189,67.1769,SMG,DSP,Ashlaz-i-payen,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26112,26113,Yale POP_MASTER,DSP-044,,0,SMG-DSP-044,164,Dari,1,1534.470947,35.7883,67.0415,SMG,DSP,Asiya Abad,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26113,26114,Yale POP_MASTER,DSP-045,,0,SMG-DSP-045,148,Dari,1,2115.321045,35.9644,67.5533,SMG,DSP,Bagank Zada,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26114,26115,Yale POP_MASTER,DSP-046,,0,SMG-DSP-046,59,Dari,1,1927.5610350000002,35.8314,67.4213,SMG,DSP,Baghak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26115,26116,Yale POP_MASTER,DSP-047,,0,SMG-DSP-047,714,Dari,1,1808.6729739999998,35.8083,67.2662,SMG,DSP,Bahsood Zeraki,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26116,26117,Yale POP_MASTER,DSP-048,,0,SMG-DSP-048,697,Dari,1,1541.630005,35.789,67.2818,SMG,DSP,Bailkol Zeraki,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26117,26118,Yale POP_MASTER,DSP-051,,0,SMG-DSP-051,291,Dari,1,1560.280029,35.8614,67.3759,SMG,DSP,Bani Mang Bala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26118,26119,Yale POP_MASTER,DSP-052,,0,SMG-DSP-052,154,Dari,1,1727.484985,35.8351,67.3601,SMG,DSP,Bani Mang Sayyid Ha,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26119,26120,Yale POP_MASTER,DSP-053,,0,SMG-DSP-053,584,Dari,1,1790.462036,35.7226,67.2893,SMG,DSP,Barnagar,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26120,26121,Yale POP_MASTER,DSP-054,,0,SMG-DSP-054,665,Uzbek,3,1647.241943,35.7489,67.0863,SMG,DSP,Bazarak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26121,26122,Yale POP_MASTER,DSP-055,,0,SMG-DSP-055,252,Dari,1,1725.9279789999998,35.8285,67.3615,SMG,DSP,Benamanag,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26122,26123,Yale POP_MASTER,DSP-056,,0,SMG-DSP-056,188,Dari,1,2228.199951,35.7739,67.3304,SMG,DSP,Boor Jegi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26123,26124,Yale POP_MASTER,DSP-057,,0,SMG-DSP-057,356,Dari,1,1736.8489989999998,35.7275,67.0946,SMG,DSP,Bossi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26124,26125,Yale POP_MASTER,DSP-058,,0,SMG-DSP-058,167,Dari,1,1708.109985,35.838,67.0519,SMG,DSP,Buta Bala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26125,26126,Yale POP_MASTER,DSP-059,,0,SMG-DSP-059,79,Dari,1,2305.935059,35.9514,67.5748,SMG,DSP,Chaghrak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26126,26127,Yale POP_MASTER,DSP-060,,0,SMG-DSP-060,111,Dari,1,1972.844971,35.7332,67.1023,SMG,DSP,Chahar Maghzak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26127,26128,Yale POP_MASTER,DSP-061,,0,SMG-DSP-061,116,Dari,1,1876.0059809999998,35.8273,67.0597,SMG,DSP,Chakana Bala Hafizullah,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26128,26129,Yale POP_MASTER,DSP-062,,0,SMG-DSP-062,209,Dari,1,2598.584961,35.7091,67.3708,SMG,DSP,Changab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26129,26130,Yale POP_MASTER,DSP-063,,0,SMG-DSP-063,100,Dari,1,2035.4090579999997,35.8088,67.1802,SMG,DSP,Char Noorak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26130,26131,Yale POP_MASTER,DSP-064,,0,SMG-DSP-064,427,Dari,1,2088.4379879999997,35.8071,67.1171,SMG,DSP,Chashma Daraz Mirka,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26131,26132,Yale POP_MASTER,DSP-065,,0,SMG-DSP-065,153,Dari,1,2043.832031,35.8219,67.4841,SMG,DSP,Choul Bayer,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26132,26133,Yale POP_MASTER,DSP-066,,0,SMG-DSP-066,545,Uzbek,3,1860.301025,35.8793,67.4182,SMG,DSP,Dadak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26133,26134,Yale POP_MASTER,DSP-067,,0,SMG-DSP-067,178,Dari,1,1477.546021,35.891999999999996,67.3624,SMG,DSP,Dah-kalan Bala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26134,26135,Yale POP_MASTER,DSP-068,,0,SMG-DSP-068,1407,Dari,1,1390.36499,35.9225,67.2772,SMG,DSP,Dahan Char Toot,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26135,26136,Yale POP_MASTER,DSP-070,,0,SMG-DSP-070,304,Dari,1,1758.572998,35.7102,67.2921,SMG,DSP,Dahan Tour,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26136,26137,Yale POP_MASTER,DSP-071,,0,SMG-DSP-071,714,Dari,1,2030.3649899999998,35.7366,67.3955,SMG,DSP,Dahan-e-changab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26137,26138,Yale POP_MASTER,DSP-072,,0,SMG-DSP-072,353,Dari,1,1448.956055,35.8568,67.2764,SMG,DSP,Dahan-e-shorab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26138,26139,Yale POP_MASTER,DSP-073,,0,SMG-DSP-073,325,Dari,1,2114.124023,35.7125,67.4127,SMG,DSP,Dahan-jar Darwaza Qouriq,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26139,26140,Yale POP_MASTER,DSP-075,,0,SMG-DSP-075,173,Uzbek,3,2218.478027,35.9464,67.5576,SMG,DSP,Daikundi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26140,26141,Yale POP_MASTER,DSP-136,,0,SMG-DSP-136,882,Other,9,2397.0859379999997,35.6432,67.346,SMG,DSP,Qalai Bala Tour,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26141,26142,Yale POP_MASTER,DSP-137,,0,SMG-DSP-137,698,Dari,1,2291.320068,35.6572,67.339,SMG,DSP,Qalai Payen Tour,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26142,26143,Yale POP_MASTER,DSP-138,,0,SMG-DSP-138,38,Dari,1,1988.005005,35.7989,67.493,SMG,DSP,Qar Ahmad,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26143,26144,Yale POP_MASTER,DSP-139,,0,SMG-DSP-139,485,Uzbek,3,2186.837891,36.0037,67.5929,SMG,DSP,Qara Khul,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26144,26145,Yale POP_MASTER,DSP-140,,0,SMG-DSP-140,160,Dari,1,1646.829956,35.8382,67.3112,SMG,DSP,Qarai,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26145,26146,Yale POP_MASTER,DSP-141,,0,SMG-DSP-141,389,Dari,1,2386.724121,35.7084,67.3796,SMG,DSP,Qaram-qoul,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26146,26147,Yale POP_MASTER,DSP-143,,0,SMG-DSP-143,629,Dari,1,1988.317017,35.9074,67.52199999999999,SMG,DSP,Qazal Qadoq,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26147,26148,Yale POP_MASTER,DSP-145,,0,SMG-DSP-145,281,Dari,1,2262.396973,35.7056,67.4469,SMG,DSP,Raig Yalaq,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26148,26149,Yale POP_MASTER,DSP-147,,0,SMG-DSP-147,1257,Dari,1,2150.113037,35.7002,67.1002,SMG,DSP,Room,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26149,26150,Yale POP_MASTER,DSP-148,,0,SMG-DSP-148,230,Dari,1,2025.932983,35.6702,67.2251,SMG,DSP,Sad Morda,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26150,26151,Yale POP_MASTER,DSP-149,,0,SMG-DSP-149,490,Dari,1,2018.9360350000002,35.6636,67.2204,SMG,DSP,Sad Murda Islam,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26151,26152,Yale POP_MASTER,DSP-152,,0,SMG-DSP-152,115,Dari,1,2147.9770510000003,35.9758,67.5668,SMG,DSP,Sang Ab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26152,26153,Yale POP_MASTER,DSP-153,,0,SMG-DSP-153,124,Dari,1,2047.069946,35.798,67.3161,SMG,DSP,Sar Ab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26153,26154,Yale POP_MASTER,DSP-154,,0,SMG-DSP-154,432,Dari,1,2103.832031,35.7422,67.4028,SMG,DSP,Sar Asiab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26154,26155,Yale POP_MASTER,DSP-157,,0,SMG-DSP-157,136,Dari,1,2052.717041,35.7271,67.0844,SMG,DSP,Sar Chapal,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26155,26156,Yale POP_MASTER,DSP-159,,0,SMG-DSP-159,71,Dari,1,1837.781982,35.7955,67.2287,SMG,DSP,Sar Kohtal,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26156,26157,Yale POP_MASTER,DSP-160,,0,SMG-DSP-160,280,Dari,1,2103.469971,35.8094,67.0863,SMG,DSP,Sar Sewak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26157,26158,Yale POP_MASTER,DSP-161,,0,SMG-DSP-161,120,Dari,1,2182.294922,35.7194,67.0735,SMG,DSP,Sar Showlan,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26158,26159,Yale POP_MASTER,DSP-162,,0,SMG-DSP-162,868,Dari,1,1905.417969,35.7993,67.2137,SMG,DSP,Sar Showrab,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26159,26160,Yale POP_MASTER,DSP-163,,0,SMG-DSP-163,1009,Dari,1,1728.7640379999998,35.8715,67.3106,SMG,DSP,Sarawlang Toorai,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26160,26161,Yale POP_MASTER,DSP-164,,0,SMG-DSP-164,198,Dari,1,1682.838989,35.8228,67.2374,SMG,DSP,Sarkhan Chashma,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26161,26162,Yale POP_MASTER,DSP-165,,0,SMG-DSP-165,1043,Dari,1,1427.550049,35.8852,67.2784,SMG,DSP,Sarwalang Maiyana,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26162,26163,Yale POP_MASTER,DSP-166,,0,SMG-DSP-166,372,Dari,1,1385.411011,35.899,67.2754,SMG,DSP,Sayyid Gala Gag,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26163,26164,Yale POP_MASTER,DSP-167,,0,SMG-DSP-167,111,Dari,1,1927.177002,35.7811,67.3842,SMG,DSP,Seya Gak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26164,26165,Yale POP_MASTER,DSP-168,,0,SMG-DSP-168,546,Dari,1,2412.6088870000003,35.6946,67.4615,SMG,DSP,Shab Bashak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26165,26166,Yale POP_MASTER,DSP-169,,0,SMG-DSP-169,102,Dari,1,1616.862061,35.7991,67.044,SMG,DSP,Shah Jahan,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26166,26167,Yale POP_MASTER,DSP-170,,0,SMG-DSP-170,241,Dari,1,2368.405029,35.7073,67.0702,SMG,DSP,Shahan,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26167,26168,Yale POP_MASTER,DSP-172,,0,SMG-DSP-172,139,Dari,1,1809.0909420000003,35.8484,67.3996,SMG,DSP,Shairaka,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26168,26169,Yale POP_MASTER,DSP-176,,0,SMG-DSP-176,561,Dari,1,1782.8110350000002,35.8373,67.4036,SMG,DSP,Sorkh Qadaq,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26169,26170,Yale POP_MASTER,DSP-177,,0,SMG-DSP-177,564,Dari,1,2547.339111,35.6927,67.0611,SMG,DSP,Sowdagaran,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26170,26171,Yale POP_MASTER,DSP-178,,0,SMG-DSP-178,339,Dari,1,2166.24292,35.6693,67.3311,SMG,DSP,Ta Sang,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26171,26172,Yale POP_MASTER,DSP-179,,0,SMG-DSP-179,1645,Dari,1,1700.167969,35.7369,67.2788,SMG,DSP,Tagab Hassani,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26172,26173,Yale POP_MASTER,DSP-180,,0,SMG-DSP-180,320,Dari,1,1862.7919920000002,35.8602,67.4399,SMG,DSP,Tagab Tewa Tash,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26173,26174,Yale POP_MASTER,DSP-181,,0,SMG-DSP-181,354,Dari,1,1782.4229739999998,35.7736,67.0883,SMG,DSP,Tahi Chapal Mirak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26174,26175,Yale POP_MASTER,DSP-182,,0,SMG-DSP-182,1249,Dari,1,1300.595947,35.9213,67.283,SMG,DSP,Tangai Yaqoub,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26175,26176,Yale POP_MASTER,DSP-183,,0,SMG-DSP-183,99,Dari,1,2051.2260739999997,35.7963,67.3952,SMG,DSP,Tangi Faizak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26176,26177,Yale POP_MASTER,DSP-184,,0,SMG-DSP-184,213,Dari,1,2153.871094,35.8285,67.5355,SMG,DSP,Terak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26177,26178,Yale POP_MASTER,DSP-185,,0,SMG-DSP-185,72,Dari,1,1913.6230469999998,35.8734,67.4548,SMG,DSP,Tewa Tash,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26178,26179,Yale POP_MASTER,DSP-186,,0,SMG-DSP-186,541,Dari,1,1861.598022,35.7047,67.3058,SMG,DSP,Tour,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26179,26180,Yale POP_MASTER,DSP-189,,0,SMG-DSP-189,124,Dari,1,2313.74292,35.7698,67.3226,SMG,DSP,Yatemak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26180,26181,Yale POP_MASTER,DSP-191,,0,SMG-DSP-191,438,Dari,1,1995.0019530000002,35.7717,67.4078,SMG,DSP,Zair Tangi Shaikha,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26181,26182,Yale POP_MASTER,DSP-193,,0,SMG-DSP-193,184,Dari,1,2477.854004,35.7785,67.528,SMG,DSP,Zenda Qoudoq,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26182,26183,Yale POP_MASTER,DSP-194,,0,SMG-DSP-194,532,Dari,1,1567.4160160000001,35.8038,67.2814,SMG,DSP,Zeraki Ghazni Chai,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+26183,26184,Yale POP_MASTER,DSB-219,,0,SMG-DSB-219,47,Dari,1,1584.930054,35.9311,67.2118,SMG,DSB,Zargarah,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26184,26185,Yale POP_MASTER,DSB-220,,0,SMG-DSB-220,313,Uzbek,3,1860.8809809999998,35.9668,67.4859,SMG,DSB,Zerak Now Abad,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26185,26186,Yale POP_MASTER,DSB-221,,0,SMG-DSB-221,421,Dari,1,1923.781982,35.9646,67.499,SMG,DSB,Zeraki,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26186,26187,Yale POP_MASTER,DSB-222,District,1,SMG-DSB-222,3129,Dari,1,1214.161011,35.9713,67.2585,SMG,DSB,Darah Suf-e- Payin,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26187,26188,Yale POP_MASTER,DSB-106,,0,SMG-DSB-106,447,Dari,1,1874.792969,35.8732,67.1901,SMG,DSB,Chashma-i-rawan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26188,26189,Yale POP_MASTER,DSB-107,,0,SMG-DSB-107,228,Uzbek,3,1934.562988,35.9878,67.4434,SMG,DSB,Check Abi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26189,26190,Yale POP_MASTER,DSB-108,,0,SMG-DSB-108,399,Dari,1,1814.844971,35.9076,67.4336,SMG,DSB,Chol Qadoq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26190,26191,Yale POP_MASTER,DSB-110,,0,SMG-DSB-110,21,Dari,1,1782.516968,36.0891,67.3943,SMG,DSB,Chora,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26191,26192,Yale POP_MASTER,DSB-111,,0,SMG-DSB-111,310,Uzbek,3,1837.692993,36.0816,67.4079,SMG,DSB,Chora Kalan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26192,26193,Yale POP_MASTER,DSB-112,,0,SMG-DSB-112,998,Dari,1,1499.796021,35.9887,67.2125,SMG,DSB,Choubaki,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26193,26194,Yale POP_MASTER,DSB-113,,0,SMG-DSB-113,247,Uzbek,3,1931.996948,35.9794,67.4822,SMG,DSB,Dah Mulah Karim,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26194,26195,Yale POP_MASTER,DSB-114,,0,SMG-DSB-114,55,Dari,1,1484.795044,35.9081,67.3663,SMG,DSB,Dah-kalan Payan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26195,26196,Yale POP_MASTER,DSB-115,,0,SMG-DSB-115,118,Dari,1,1564.936035,35.9161,67.3998,SMG,DSB,Dahan Dara,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26196,26197,Yale POP_MASTER,DSB-117,,0,SMG-DSB-117,736,Dari,1,1224.6970210000002,35.9687,67.2576,SMG,DSB,Dahi Payen,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26197,26198,Yale POP_MASTER,DSB-118,,0,SMG-DSB-118,316,Uzbek,3,1914.630005,35.9242,67.4631,SMG,DSB,Damcha,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26198,26199,Yale POP_MASTER,DSB-119,,0,SMG-DSB-119,230,Uzbek,3,1955.406006,35.9227,67.4757,SMG,DSB,Darwaza Kotal,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26199,26200,Yale POP_MASTER,DSB-121,,0,SMG-DSB-121,66,Dari,1,1174.634033,36.0512,67.1106,SMG,DSB,Dom Toghan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26200,26201,Yale POP_MASTER,DSB-123,,0,SMG-DSB-123,172,Dari,1,1872.347046,35.9738,67.4787,SMG,DSB,Falaiz Paya,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26201,26202,Yale POP_MASTER,DSB-124,,0,SMG-DSB-124,200,Uzbek,3,1971.187988,36.0123,67.4853,SMG,DSB,Fasqoul,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26202,26203,Yale POP_MASTER,DSB-125,,0,SMG-DSB-125,141,Uzbek,3,1908.5450440000002,35.9732,67.4432,SMG,DSB,Ghulam Ghagow,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26203,26204,Yale POP_MASTER,DSB-126,,0,SMG-DSB-126,147,Dari,1,1885.80603,35.8941,67.0891,SMG,DSB,Guli Darah,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26204,26205,Yale POP_MASTER,DSB-129,,0,SMG-DSB-129,56,Dari,1,1848.0250239999998,35.9509,67.4297,SMG,DSB,Haji Aqsai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26205,26206,Yale POP_MASTER,DSB-131,,0,SMG-DSB-131,248,Uzbek,3,2059.532959,35.9373,67.4921,SMG,DSB,Haji Hamidullah,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26206,26207,Yale POP_MASTER,DSB-132,,0,SMG-DSB-132,864,Uzbek,3,1664.73999,36.0256,67.2984,SMG,DSB,Haq Maizar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26207,26208,Yale POP_MASTER,DSB-134,,0,SMG-DSB-134,87,Other,9,1915.036011,36.0682,67.4529,SMG,DSB,Hjai Ghulam Samad,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26208,26209,Yale POP_MASTER,DSB-135,,0,SMG-DSB-135,94,Dari,1,2190.9838870000003,35.8307,67.1067,SMG,DSB,Hokar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26209,26210,Yale POP_MASTER,DSB-137,,0,SMG-DSB-137,214,Dari,1,1765.45105,36.0431,67.3617,SMG,DSB,Jeam Qoutan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26210,26211,Yale POP_MASTER,DSB-142,,0,SMG-DSB-142,133,Dari,1,1438.151001,36.0354,67.2621,SMG,DSB,Khan Mohammad Kamar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26211,26212,Yale POP_MASTER,DSB-144,,0,SMG-DSB-144,804,Dari,1,1307.019043,36.0543,67.2204,SMG,DSB,Khana Sangi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26212,26213,Yale POP_MASTER,DSB-145,,0,SMG-DSB-145,184,Dari,1,1913.203003,35.8712,67.1079,SMG,DSB,Khani Baig,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26234,26235,Yale POP_MASTER,DSB-149,,0,SMG-DSB-149,190,Dari,1,1887.16394,36.0568,67.5358,SMG,DSB,Khudai Qoul Bahi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26235,26236,Yale POP_MASTER,DSB-150,,0,SMG-DSB-150,368,Uzbek,3,1266.241943,36.1325,67.205,SMG,DSB,Kohchareq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26236,26237,Yale POP_MASTER,DSB-151,,0,SMG-DSB-151,285,Dari,1,1884.9580079999998,36.0654,67.4381,SMG,DSB,Kohnna Qeshlaq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26237,26238,Yale POP_MASTER,DSB-152,,0,SMG-DSB-152,333,Dari,1,1802.0059809999998,36.0419,67.4068,SMG,DSB,Lababai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26238,26239,Yale POP_MASTER,DSB-154,,0,SMG-DSB-154,149,Uzbek,3,1714.116943,36.0225,67.3274,SMG,DSB,Lagow Sai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26239,26240,Yale POP_MASTER,DSB-155,,0,SMG-DSB-155,387,Dari,1,1912.3929440000002,36.001,67.3781,SMG,DSB,Layabai Chak Abi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26240,26241,Yale POP_MASTER,DSB-156,,0,SMG-DSB-156,421,Dari,1,1744.7910160000001,36.0254,67.4053,SMG,DSB,Madrasa Farouq Ahzam,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26241,26242,Yale POP_MASTER,DSB-159,,0,SMG-DSB-159,85,Dari,1,1476.984985,36.0026,67.1051,SMG,DSB,Malik Shahid Kadah,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26242,26243,Yale POP_MASTER,DSB-160,,0,SMG-DSB-160,158,Dari,1,1242.970947,35.9561,67.2769,SMG,DSB,Markaz Wolluswali Dahi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26243,26244,Yale POP_MASTER,DSB-161,,0,SMG-DSB-161,256,Uzbek,3,1578.285034,36.013000000000005,67.2886,SMG,DSB,Mughrab Baik,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26244,26245,Yale POP_MASTER,DSB-162,,0,SMG-DSB-162,224,Dari,1,1859.68103,36.0213,67.3879,SMG,DSB,Mullah Abdul.haq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26245,26246,Yale POP_MASTER,DSB-163,,0,SMG-DSB-163,397,Dari,1,1664.067017,35.9428,67.1996,SMG,DSB,Nai Chaila Ya Foladi Payen,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26246,26247,Yale POP_MASTER,DSB-164,,0,SMG-DSB-164,130,Dari,1,1413.0219730000001,36.0166,67.1195,SMG,DSB,Nai Zaheni,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26247,26248,Yale POP_MASTER,DSB-165,,0,SMG-DSB-165,311,Uzbek,3,1397.8530269999999,36.014,67.2313,SMG,DSB,Nawazan,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26248,26249,Yale POP_MASTER,DSB-169,,0,SMG-DSB-169,381,Dari,1,1544.873047,35.9922,67.1671,SMG,DSB,Now Amad Bala,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26249,26250,Yale POP_MASTER,DSB-170,,0,SMG-DSB-170,83,Dari,1,1519.4790039999998,36.0131,67.1071,SMG,DSB,Nowai Zagh,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26250,26251,Yale POP_MASTER,DSB-171,,0,SMG-DSB-171,281,Dari,1,1794.437012,35.8877,67.1722,SMG,DSB,Nowra Gaow Mourda,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26251,26252,Yale POP_MASTER,DSB-172,,0,SMG-DSB-172,543,Dari,1,1860.19104,35.9173,67.1269,SMG,DSB,Olja Qadaq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26252,26253,Yale POP_MASTER,DSB-174,,0,SMG-DSB-174,243,Dari,1,1665.536011,35.9314,67.1857,SMG,DSB,Pasha-e-,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26253,26254,Yale POP_MASTER,DSB-175,,0,SMG-DSB-175,238,Dari,1,1637.918945,35.9661,67.1936,SMG,DSB,Pass Band,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26254,26255,Yale POP_MASTER,DSB-176,,0,SMG-DSB-176,456,Dari,1,1831.2869870000002,35.8636,67.0611,SMG,DSB,Qarah Balaq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26255,26256,Yale POP_MASTER,DSB-177,,0,SMG-DSB-177,430,Dari,1,1231.651001,36.0385,67.1329,SMG,DSB,Qarah Jangal,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26256,26257,Yale POP_MASTER,DSB-178,,0,SMG-DSB-178,447,Dari,1,1258.715942,35.9555,67.2807,SMG,DSB,Qarah-e,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26257,26258,Yale POP_MASTER,DSB-179,,0,SMG-DSB-179,67,Dari,1,1457.339966,36.0193,67.1316,SMG,DSB,Qaram Qoul,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26258,26259,Yale POP_MASTER,DSB-180,,0,SMG-DSB-180,419,Uzbek,3,1351.85498,36.1385,67.2251,SMG,DSB,Qarasman,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26259,26260,Yale POP_MASTER,DSB-183,,0,SMG-DSB-183,233,Dari,1,1901.364014,36.0445,67.4771,SMG,DSB,Qazal Top Jaq,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26260,26261,Yale POP_MASTER,DSB-184,,0,SMG-DSB-184,186,Dari,1,1597.665039,35.9953,67.1494,SMG,DSB,Qeshlaq Haji Nahim,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26261,26262,Yale POP_MASTER,DSB-185,,0,SMG-DSB-185,47,Dari,1,1241.119019,36.0441,67.0963,SMG,DSB,Qeshlaq Khaliq Bahi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26262,26263,Yale POP_MASTER,DSB-187,,0,SMG-DSB-187,161,Uzbek,3,1569.740967,35.9055,67.3222,SMG,DSB,Qurban Ali,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26263,26264,Yale POP_MASTER,DSB-188,,0,SMG-DSB-188,514,Dari,1,1224.0209960000002,35.9621,67.2679,SMG,DSB,Sadat Kotal Aibak Markaz Dahi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26264,26265,Yale POP_MASTER,DSB-189,,0,SMG-DSB-189,523,Dari,1,1888.390991,35.8838,67.1637,SMG,DSB,Sajawak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26265,26266,Yale POP_MASTER,DSB-191,,0,SMG-DSB-191,177,Dari,1,1793.697998,36.0066,67.3982,SMG,DSB,Sanjdak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26266,26267,Yale POP_MASTER,DSB-192,,0,SMG-DSB-192,137,Dari,1,1386.911987,36.0168,67.2015,SMG,DSB,Sar Chapchal,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26267,26268,Yale POP_MASTER,DSB-193,,0,SMG-DSB-193,104,Dari,1,1534.3869630000002,35.9941,67.1258,SMG,DSB,Sar Khalar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26268,26269,Yale POP_MASTER,DSB-194,,0,SMG-DSB-194,517,Uzbek,3,1534.390991,36.0172,67.2588,SMG,DSB,Sar Safid Kohtal,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26269,26270,Yale POP_MASTER,DSB-195,,0,SMG-DSB-195,198,Dari,1,1876.706055,36.0084,67.3603,SMG,DSB,Sarchefet,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26270,26271,Yale POP_MASTER,DSB-198,,0,SMG-DSB-198,474,Dari,1,1870.347046,35.8891,67.1037,SMG,DSB,Surkh Abak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26271,26272,Yale POP_MASTER,DSB-199,,0,SMG-DSB-199,267,Dari,1,1677.2030029999999,35.9466,67.4134,SMG,DSB,Surkha,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26272,26273,Yale POP_MASTER,DSB-200,,0,SMG-DSB-200,228,Other,9,2017.293945,35.9854,67.5157,SMG,DSB,Surkha-i-,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26273,26274,Yale POP_MASTER,DSB-201,,0,SMG-DSB-201,289,Uzbek,3,1368.4019779999999,36.0059,67.2453,SMG,DSB,Tagab Chobaki,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26274,26275,Yale POP_MASTER,DSB-203,,0,SMG-DSB-203,330,Dari,1,1642.952026,35.9335,67.1507,SMG,DSB,Tamor Dastaz Darah,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26275,26276,Yale POP_MASTER,DSB-204,,0,SMG-DSB-204,270,Dari,1,1467.498047,35.9019,67.3455,SMG,DSB,Taqchai,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26276,26277,Yale POP_MASTER,DSB-205,,0,SMG-DSB-205,106,Dari,1,1666.125977,35.9749,67.1621,SMG,DSB,Temor-i-poushband,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26277,26278,Yale POP_MASTER,DSB-207,,0,SMG-DSB-207,251,Uzbek,3,1901.972046,35.9708,67.4596,SMG,DSB,Toopkhana,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26278,26279,Yale POP_MASTER,DSB-210,,0,SMG-DSB-210,127,Dari,1,1189.892944,36.0547,67.1324,SMG,DSB,Waymatan Jaar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26279,26280,Yale POP_MASTER,DSB-211,,0,SMG-DSB-211,232,Dari,1,1367.079956,36.0329,67.1207,SMG,DSB,Waymatan Takna,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26280,26281,Yale POP_MASTER,DSB-212,,0,SMG-DSB-212,216,Dari,1,1197.7280269999999,36.0934,67.1504,SMG,DSB,Wetman,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26281,26282,Yale POP_MASTER,DSB-213,,0,SMG-DSB-213,36,Dari,1,1650.640991,35.9579,67.3902,SMG,DSB,Wolda Qamar,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26282,26283,Yale POP_MASTER,DSB-214,,0,SMG-DSB-214,336,Dari,1,2013.359009,35.8694,67.1283,SMG,DSB,Wotah Zagh,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26283,26284,Yale POP_MASTER,DSB-215,,0,SMG-DSB-215,83,Dari,1,1850.1190190000002,35.8841,67.0877,SMG,DSB,Yateemak,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26284,26285,Yale POP_MASTER,DSB-216,,0,SMG-DSB-216,68,Dari,1,1776.8609620000002,35.9177,67.1544,SMG,DSB,Yousufi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26285,26286,Yale POP_MASTER,DSB-217,,0,SMG-DSB-217,740,Dari,1,1637.3709720000002,35.9438,67.2405,SMG,DSB,Zai Khoshi Qarahi,1904,Dara-e- Suf-e- Payin,??? ??? ?????,Samangan,??????,19
+26383,26384,Yale POP_MASTER,FNR-012,,0,SMG-FNR-012,442,Dari,1,1499.63501,36.3758,67.59100000000001,SMG,FNR,Dowlatkhana,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26384,26385,Yale POP_MASTER,HSN-022,,0,SMG-HSN-022,1152,Uzbek,3,819.9738769999999,36.3962,67.8921,SMG,HSN,Asia Abad,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26385,26386,Yale POP_MASTER,HSN-023,,0,SMG-HSN-023,186,Dari,1,785.6610718,36.4635,67.94800000000001,SMG,HSN,Chaqmaqli,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26386,26387,Yale POP_MASTER,HSN-024,,0,SMG-HSN-024,1732,Uzbek,3,882.3037108999999,36.341,67.9495,SMG,HSN,Dilkhaki Masjed Kalan,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26387,26388,Yale POP_MASTER,HSN-025,,0,SMG-HSN-025,734,Dari,1,730.4337158,36.5156,67.8559,SMG,HSN,Dowlat Abad,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26388,26389,Yale POP_MASTER,HSN-026,,0,SMG-HSN-026,781,Dari,1,723.8461304,36.5215,67.8406,SMG,HSN,Dowlat Abad Now,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26389,26390,Yale POP_MASTER,HSN-027,,0,SMG-HSN-027,427,Pashto,2,771.6707763999999,36.4575,67.9127,SMG,HSN,Gagra,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26390,26391,Yale POP_MASTER,HSN-028,,0,SMG-HSN-028,484,Dari,1,713.9033812999999,36.5356,67.815,SMG,HSN,Ghazni Gak,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26391,26392,Yale POP_MASTER,HSN-030,,0,SMG-HSN-030,417,Pashto,2,716.4813232000001,36.5211,67.8042,SMG,HSN,Khowja Puraishan,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26392,26393,Yale POP_MASTER,HSN-033,,0,SMG-HSN-033,2701,Dari,1,856.2103882000001,36.348,67.9202,SMG,HSN,Kokjar,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26393,26394,Yale POP_MASTER,HSN-034,,0,SMG-HSN-034,273,Uzbek,3,876.9578247000002,36.3369,67.9379,SMG,HSN,Kokjar Bamian Chai,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26394,26395,Yale POP_MASTER,HSN-036,,0,SMG-HSN-036,442,Dari,1,734.6043701,36.5068,67.8898,SMG,HSN,Larkhabi,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26395,26396,Yale POP_MASTER,HSN-037,,0,SMG-HSN-037,907,Uzbek,3,784.1245727999999,36.4476,67.89699999999999,SMG,HSN,Markaz Wolluswali Hazrat Sultan,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26396,26397,Yale POP_MASTER,HSN-038,,0,SMG-HSN-038,466,Uzbek,3,752.9307861000001,36.4897,67.9188,SMG,HSN,Momen Abad Qoush Para,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26397,26398,Yale POP_MASTER,HSN-039,,0,SMG-HSN-039,316,Uzbek,3,748.7902832000001,36.4919,67.8928,SMG,HSN,Naw Abad Gadi,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26398,26399,Yale POP_MASTER,HSN-042,,0,SMG-HSN-042,794,Dari,1,891.6710205,36.3341,67.9158,SMG,HSN,Now Abad Kokjar,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26399,26400,Yale POP_MASTER,HSN-044,,0,SMG-HSN-044,346,Dari,1,758.6295776000001,36.5112,67.9631,SMG,HSN,Now Abad Qorugh Kabuli Bala,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26400,26401,Yale POP_MASTER,HSN-047,,0,SMG-HSN-047,201,Uzbek,3,762.5512085,36.4943,67.9459,SMG,HSN,Qorugh Kabuli Payen,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26401,26402,Yale POP_MASTER,HSN-048,,0,SMG-HSN-048,539,Pashto,2,758.4046021,36.4791,67.9292,SMG,HSN,Qoush Para,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26402,26403,Yale POP_MASTER,HSN-049,,0,SMG-HSN-049,369,Uzbek,3,822.0288696,36.4106,67.8856,SMG,HSN,Sarfia Afghania,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26403,26404,Yale POP_MASTER,HSN-050,,0,SMG-HSN-050,381,Uzbek,3,813.071228,36.4192,67.8938,SMG,HSN,Sarfia Uzbekia,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26404,26405,Yale POP_MASTER,HSN-051,,0,SMG-HSN-051,808,Uzbek,3,744.3176269999999,36.4881,67.8253,SMG,HSN,Shaglatoo,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26405,26406,Yale POP_MASTER,HSN-052,,0,SMG-HSN-052,534,Pashto,2,730.6287842,36.5089,67.82600000000001,SMG,HSN,Shoud Qoul,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26406,26407,Yale POP_MASTER,HSN-053,,0,SMG-HSN-053,504,Dari,1,842.4177245999999,36.3603,67.9109,SMG,HSN,Toulakachi,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26407,26408,Yale POP_MASTER,HSN-054,,0,SMG-HSN-054,120,Pashto,2,822.6586304,36.4145,67.9386,SMG,HSN,Toulakachi Qoush Para,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26408,26409,Yale POP_MASTER,HSN-055,,0,SMG-HSN-055,677,Uzbek,3,786.8538208,36.4372,67.9275,SMG,HSN,Yaka Toot,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26409,26410,Yale POP_MASTER,HSN-056,District,1,SMG-HSN-056,3278,Uzbek,3,811.7354126,36.4124,67.8907,SMG,HSN,Hazrat-e- Sultan,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26410,26411,Yale POP_MASTER,FNR-019,,0,SMG-FNR-019,1087,Dari,1,1059.694946,36.4302,67.7463,SMG,FNR,Now Abad,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26411,26412,Yale POP_MASTER,FNR-021,,0,SMG-FNR-021,421,Dari,1,914.6702881000001,36.4904,67.7211,SMG,FNR,Rahmat Abad,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26412,26413,Yale POP_MASTER,FNR-022,,0,SMG-FNR-022,265,Dari,1,990.5292969000001,36.4635,67.7213,SMG,FNR,Sayyed Abad,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26413,26414,Yale POP_MASTER,FNR-025,,0,SMG-FNR-025,290,Dari,1,1057.746948,36.4762,67.7347,SMG,FNR,Zelzela Abad,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26414,26415,USAID AIDVillageView,FNR-001,,0,SMG-FNR-001,0,Dari,1,714.2949219,36.5635,67.7639,SMG,FNR,Daulat-i Koh (1),1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26415,26416,USAID AIDVillageView,FNR-002,,0,SMG-FNR-002,0,Dari,1,736.0922241000001,36.556,67.7894,SMG,FNR,Daulat-i Koh (2),1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26416,26417,USAID AIDVillageView,FNR-003,,0,SMG-FNR-003,0,Dari,1,712.8873291,36.5493,67.7772,SMG,FNR,Daulat-i Koh (3),1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26417,26418,USAID AIDVillageView,FNR-005,,0,SMG-FNR-005,0,Dari,1,784.1500244,36.5316,67.6835,SMG,FNR,Pir Nakhchir,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26424,26425,Yale POP_MASTER,FNR-007,,0,SMG-FNR-007,696,Pashto,2,760.8798218,36.544000000000004,67.6959,SMG,FNR,Boodma,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26425,26426,Yale POP_MASTER,FNR-008,,0,SMG-FNR-008,255,Pashto,2,763.6469116000001,36.5548,67.6999,SMG,FNR,Chanargee,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26426,26427,Yale POP_MASTER,FNR-009,,0,SMG-FNR-009,637,Dari,1,797.0192261,36.5441,67.6716,SMG,FNR,Char Souq,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26427,26428,Yale POP_MASTER,FNR-011,,0,SMG-FNR-011,504,Dari,1,843.7302245999999,36.5627,67.6377,SMG,FNR,Darah Afghania,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26428,26429,Yale POP_MASTER,FNR-013,District,1,SMG-FNR-013,1488,Uzbek,3,788.7520752,36.5261,67.6834,SMG,FNR,Feroz Nakhcheer,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26429,26430,Yale POP_MASTER,FNR-014,,0,SMG-FNR-014,651,Dari,1,1069.468018,36.5041,67.6384,SMG,FNR,Gonboutan,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26430,26431,Yale POP_MASTER,FNR-015,,0,SMG-FNR-015,117,Dari,1,843.2852173,36.5057,67.7096,SMG,FNR,Islam Abad,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26431,26432,Yale POP_MASTER,FNR-016,,0,SMG-FNR-016,41,Pashto,2,743.6326904,36.5609,67.712,SMG,FNR,Ismail Khail,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26432,26433,Yale POP_MASTER,FNR-017,,0,SMG-FNR-017,407,Dari,1,849.3031006000001,36.5119,67.6779,SMG,FNR,Lab Abi Bala,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26433,26434,Yale POP_MASTER,FNR-018,,0,SMG-FNR-018,810,Dari,1,1179.389038,36.5041,67.6557,SMG,FNR,Lab Abi Payen,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26434,26435,Yale POP_MASTER,FNR-023,,0,SMG-FNR-023,818,Dari,1,810.8859863,36.5166,67.705,SMG,FNR,Sufa,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26435,26436,Yale POP_MASTER,FNR-024,,0,SMG-FNR-024,1012,Dari,1,1032.032959,36.5564,67.6128,SMG,FNR,Toulga Chai,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26436,26437,Yale POP_MASTER,FNR-026,,0,SMG-FNR-026,95,Dari,1,610.7313843,36.6208,67.7193,SMG,FNR,Saighanche,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26443,26444,Yale POP_MASTER,FNR-006,,0,SMG-FNR-006,244,Dari,1,1866.850952,36.3746,67.5341,SMG,FNR,Awozan,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26444,26445,Yale POP_MASTER,FNR-020,,0,SMG-FNR-020,754,Dari,1,1947.581055,36.3995,67.5055,SMG,FNR,Qoush Molah,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+26452,26453,USAID AIDVillageView,HSN-002,,0,SMG-HSN-002,0,Dari,1,780.2838135,36.5131,67.94,SMG,HSN,Arabi Kabuli Bala,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26453,26454,USAID AIDVillageView,HSN-006,,0,SMG-HSN-006,0,Dari,1,740.9713745,36.494,67.8061,SMG,HSN,Nawabadi Chaqmaqli,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26454,26455,USAID AIDVillageView,HSN-007,,0,SMG-HSN-007,0,Dari,1,725.6494751,36.5298,67.8308,SMG,HSN,Nawabadi Ghaznigak,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26455,26456,USAID AIDVillageView,HSN-009,,0,SMG-HSN-009,0,Dari,1,774.5980225,36.4877,67.9519,SMG,HSN,Nawabadi Tolagachi,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+26456,26457,Yale POP_MASTER,AYB-018,,0,SMG-AYB-018,109,Dari,1,1157.322998,36.2667,67.8505,SMG,AYB,Hosh Qarah,1901,Aybak,????,Samangan,??????,19
+26457,26458,Yale POP_MASTER,FNR-010,,0,SMG-FNR-010,762,Dari,1,850.4176025,36.4958,67.7041,SMG,FNR,Darah,1903,Feroznakhchir,????? ?????,Samangan,??????,19
+30333,30334,Yale POP_MASTER,AYB-028,,0,SMG-AYB-028,630,Uzbek,3,1838.9739989999998,36.1337,67.7588,SMG,AYB,Kouch Mena Ghar,1901,Aybak,????,Samangan,??????,19
+30664,30665,USAID AIDVillageView,HSN-001,,0,SMG-HSN-001,0,Uzbek,3,1039.295044,36.4399,68.0829,SMG,HSN,Aq Gonbaz,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+30668,30669,Yale POP_MASTER,AYB-026,,0,SMG-AYB-026,55,Dari,1,1631.338989,36.3161,68.0732,SMG,AYB,Khowja Sangbar,1901,Aybak,????,Samangan,??????,19
+30669,30670,Yale POP_MASTER,AYB-003,,0,SMG-AYB-003,381,Uzbek,3,1665.958008,36.3387,68.2916,SMG,AYB,Akhta Khana,1901,Aybak,????,Samangan,??????,19
+30670,30671,Yale POP_MASTER,AYB-014,,0,SMG-AYB-014,138,Uzbek,3,1172.618042,36.3295,68.0277,SMG,AYB,Habashi,1901,Aybak,????,Samangan,??????,19
+30671,30672,Yale POP_MASTER,AYB-054,,0,SMG-AYB-054,383,Uzbek,3,1087.463013,36.3171,68.0288,SMG,AYB,Toota,1901,Aybak,????,Samangan,??????,19
+30672,30673,Yale POP_MASTER,AYB-015,,0,SMG-AYB-015,106,Dari,1,1207.162964,36.3128,68.046,SMG,AYB,Haqulmar,1901,Aybak,????,Samangan,??????,19
+30673,30674,Yale POP_MASTER,AYB-051,,0,SMG-AYB-051,399,Uzbek,3,1522.529053,36.3018,68.2138,SMG,AYB,Sharekyar,1901,Aybak,????,Samangan,??????,19
+30674,30675,Yale POP_MASTER,AYB-046,,0,SMG-AYB-046,487,Uzbek,3,1748.995972,36.3265,68.1726,SMG,AYB,Sarkunda Sharekyar,1901,Aybak,????,Samangan,??????,19
+30675,30676,Yale POP_MASTER,AYB-004,,0,SMG-AYB-004,1125,Dari,1,1157.63501,36.2501,68.3559,SMG,AYB,Baba Lar,1901,Aybak,????,Samangan,??????,19
+30677,30678,Yale POP_MASTER,AYB-038,,0,SMG-AYB-038,237,Uzbek,3,1458.587036,36.314,68.2213,SMG,AYB,Mullah Tash,1901,Aybak,????,Samangan,??????,19
+30678,30679,Yale POP_MASTER,HSN-045,,0,SMG-HSN-045,1182,Uzbek,3,1065.70105,36.385999999999996,68.0437,SMG,HSN,Qaflani,1902,Hazrat-e- Sultan,???? ?????,Samangan,??????,19
+30696,30697,CSO AIMS Villages (ACSOR),AYB-001,,0,SMG-AYB-001,106,Dari,1,974.6627197,36.26569,68.03372,SMG,AYB,Gazi Haji Mullah Qurban,1901,Aybak,????,Samangan,??????,19
+30697,30698,Yale POP_MASTER,AYB-049,,0,SMG-AYB-049,555,Uzbek,3,1019.8189699999999,36.2377,68.0491,SMG,AYB,Shahr-e-qadem,1901,Aybak,????,Samangan,??????,19
+30698,30699,Yale POP_MASTER,AYB-052,,0,SMG-AYB-052,1076,Dari,1,1172.157959,36.2018,68.0762,SMG,AYB,Tah Haqan,1901,Aybak,????,Samangan,??????,19
+30699,30700,Yale POP_MASTER,AYB-043,,0,SMG-AYB-043,222,Pashto,2,933.6906127999998,36.2892,67.9389,SMG,AYB,Qoushmal Haji Noor Mohammad,1901,Aybak,????,Samangan,??????,19
+30700,30701,Yale POP_MASTER,AYB-056,,0,SMG-AYB-056,821,Dari,1,1009.6069949999999,36.2523,68.063,SMG,AYB,Zahar Abhi Aqmazar,1901,Aybak,????,Samangan,??????,19
+30701,30702,Yale POP_MASTER,AYB-006,,0,SMG-AYB-006,649,Pashto,2,908.7178955,36.306999999999995,67.97,SMG,AYB,Choughi,1901,Aybak,????,Samangan,??????,19
+30702,30703,Yale POP_MASTER,AYB-042,,0,SMG-AYB-042,793,Dari,1,979.8560181,36.2671,67.9739,SMG,AYB,Qochinal Joy Karaiz,1901,Aybak,????,Samangan,??????,19
+30703,30704,Yale POP_MASTER,AYB-012,,0,SMG-AYB-012,57,Dari,1,1457.277954,36.2907,68.093,SMG,AYB,Ghundki,1901,Aybak,????,Samangan,??????,19
+30704,30705,Yale POP_MASTER,AYB-020,,0,SMG-AYB-020,1268,Uzbek,3,928.2703247000002,36.2929,67.9904,SMG,AYB,Joy Zhowandon,1901,Aybak,????,Samangan,??????,19
+30705,30706,Yale POP_MASTER,AYB-029,,0,SMG-AYB-029,1344,Dari,1,944.2081299,36.293,68.007,SMG,AYB,Larghan,1901,Aybak,????,Samangan,??????,19
+30706,30707,Yale POP_MASTER,AYB-061,Provincial,2,SMG-AYB-061,12725,Uzbek,3,966.9069214,36.2655,68.0164,SMG,AYB,Samangan (aybak),1901,Aybak,????,Samangan,??????,19
+30707,30708,Yale POP_MASTER,AYB-010,,0,SMG-AYB-010,1761,Dari,1,885.7658081000001,36.3305,67.9524,SMG,AYB,Dilkhaki Kalan,1901,Aybak,????,Samangan,??????,19
+30708,30709,Yale POP_MASTER,AYB-050,,0,SMG-AYB-050,1198,Dari,1,1277.265991,36.2641,68.1654,SMG,AYB,Shalkatoo,1901,Aybak,????,Samangan,??????,19
+30709,30710,Yale POP_MASTER,AYB-009,,0,SMG-AYB-009,999,Dari,1,1099.7280269999999,36.2148,68.0532,SMG,AYB,Dasht Mazar,1901,Aybak,????,Samangan,??????,19
+30710,30711,Yale POP_MASTER,AYB-016,,0,SMG-AYB-016,199,Pashto,2,894.0014037999999,36.3234,67.9614,SMG,AYB,Hassan Khail,1901,Aybak,????,Samangan,??????,19
+30711,30712,Yale POP_MASTER,AYB-025,,0,SMG-AYB-025,20,Uzbek,3,1056.625,36.3296,68.0108,SMG,AYB,Khowja Khaki-ha,1901,Aybak,????,Samangan,??????,19
+30712,30713,Yale POP_MASTER,AYB-032,,0,SMG-AYB-032,239,Uzbek,3,911.463501,36.3038,67.9772,SMG,AYB,Larghan Omer Khail,1901,Aybak,????,Samangan,??????,19
+30713,30714,Yale POP_MASTER,AYB-059,,0,SMG-AYB-059,362,Dari,1,1247.204956,36.2865,68.0732,SMG,AYB,Zenak,1901,Aybak,????,Samangan,??????,19
+30714,30715,Yale POP_MASTER,AYB-013,,0,SMG-AYB-013,1385,Pashto,2,940.4948730000001,36.2833,67.9796,SMG,AYB,Gul Qeshlaq,1901,Aybak,????,Samangan,??????,19
+30715,30716,Yale POP_MASTER,AYB-005,,0,SMG-AYB-005,186,Uzbek,3,913.1030883999999,36.3145,67.9274,SMG,AYB,Barkanzaar,1901,Aybak,????,Samangan,??????,19
+30716,30717,Yale POP_MASTER,AYB-022,,0,SMG-AYB-022,558,Uzbek,3,1370.204956,36.2808,68.1134,SMG,AYB,Kepnak Archa,1901,Aybak,????,Samangan,??????,19
+30717,30718,Yale POP_MASTER,AYB-023,,0,SMG-AYB-023,385,Uzbek,3,1382.897949,36.2597,68.2412,SMG,AYB,Khowja Doko,1901,Aybak,????,Samangan,??????,19
+30718,30719,Yale POP_MASTER,AYB-034,,0,SMG-AYB-034,453,Dari,1,1781.245972,36.1344,67.8315,SMG,AYB,Manghar Gardan Toop,1901,Aybak,????,Samangan,??????,19
+30719,30720,Yale POP_MASTER,AYB-045,,0,SMG-AYB-045,508,Dari,1,1598.360962,36.192,68.0596,SMG,AYB,Sarganda Payen (najo),1901,Aybak,????,Samangan,??????,19
+30720,30721,Yale POP_MASTER,AYB-035,,0,SMG-AYB-035,393,Dari,1,1833.0989989999998,36.1266,67.8464,SMG,AYB,Manghar Mullah Rozi,1901,Aybak,????,Samangan,??????,19
+30721,30722,Yale POP_MASTER,AYB-019,,0,SMG-AYB-019,969,Uzbek,3,975.9411011,36.2654,67.9883,SMG,AYB,Jowi Karaiz,1901,Aybak,????,Samangan,??????,19
+30722,30723,Yale POP_MASTER,AYB-024,,0,SMG-AYB-024,447,Dari,1,984.9113769999999,36.2557,68.0227,SMG,AYB,Khowja Ismail,1901,Aybak,????,Samangan,??????,19
+30723,30724,Yale POP_MASTER,AYB-057,,0,SMG-AYB-057,899,Dari,1,1011.640991,36.2435,68.0376,SMG,AYB,Zahar Abi Charemgari,1901,Aybak,????,Samangan,??????,19
+30724,30725,Yale POP_MASTER,AYB-031,,0,SMG-AYB-031,382,Uzbek,3,959.3347167999999,36.2915,68.015,SMG,AYB,Larghan Miraghali,1901,Aybak,????,Samangan,??????,19
+30725,30726,Yale POP_MASTER,AYB-053,,0,SMG-AYB-053,760,Uzbek,3,1110.118042,36.2385,68.0127,SMG,AYB,Takht-i-rustam,1901,Aybak,????,Samangan,??????,19
+30726,30727,Yale POP_MASTER,AYB-021,,0,SMG-AYB-021,1183,Uzbek,3,996.4649048,36.2515,68.0233,SMG,AYB,Karwan Sarai,1901,Aybak,????,Samangan,??????,19
+30727,30728,Yale POP_MASTER,AYB-047,,0,SMG-AYB-047,689,Uzbek,3,967.2238769999999,36.2818,68.0239,SMG,AYB,Sarqad,1901,Aybak,????,Samangan,??????,19
+30728,30729,Yale POP_MASTER,AYB-011,,0,SMG-AYB-011,1416,Dari,1,987.2897949,36.2675,68.0406,SMG,AYB,Gazi Haji Mullah Qurban,1901,Aybak,????,Samangan,??????,19
+30729,30730,Yale POP_MASTER,AYB-027,,0,SMG-AYB-027,982,Uzbek,3,951.6425171,36.2755,68.009,SMG,AYB,Kohnna Aibak,1901,Aybak,????,Samangan,??????,19
+30730,30731,Yale POP_MASTER,AYB-055,,0,SMG-AYB-055,711,Pashto,2,992.5944214,36.2509,68.046,SMG,AYB,Zahar Abhi,1901,Aybak,????,Samangan,??????,19
+30731,30732,Yale POP_MASTER,AYB-058,,0,SMG-AYB-058,1273,Uzbek,3,1001.200989,36.2536,68.0098,SMG,AYB,Zandi-kot,1901,Aybak,????,Samangan,??????,19
+30732,30733,Yale POP_MASTER,AYB-048,,0,SMG-AYB-048,683,Pashto,2,923.0081787,36.2984,67.9672,SMG,AYB,Shahe Khail Mangtash,1901,Aybak,????,Samangan,??????,19
+30733,30734,Yale POP_MASTER,AYB-030,,0,SMG-AYB-030,845,Uzbek,3,980.3607178,36.2976,68.0216,SMG,AYB,Larghan Masjed Jamah Mir Seyyid Wali,1901,Aybak,????,Samangan,??????,19
+30734,30735,Yale POP_MASTER,AYB-008,,0,SMG-AYB-008,1129,Dari,1,1042.7810060000002,36.2108,68.062,SMG,AYB,Darah-e-zhowandon,1901,Aybak,????,Samangan,??????,19
+30735,30736,Yale POP_MASTER,AYB-033,,0,SMG-AYB-033,791,Pashto,2,926.5230103,36.2959,67.9454,SMG,AYB,Lourgi Hassan Khail,1901,Aybak,????,Samangan,??????,19
+30736,30737,Yale POP_MASTER,AYB-040,,0,SMG-AYB-040,200,Dari,1,1004.7819820000001,36.2577,68.0596,SMG,AYB,Now Abad Zahar Abhi,1901,Aybak,????,Samangan,??????,19
+30737,30738,Yale POP_MASTER,AYB-037,,0,SMG-AYB-037,710,Dari,1,1054.262939,36.2343,68.03399999999999,SMG,AYB,Mira Ghali Qeshlaq,1901,Aybak,????,Samangan,??????,19
+30738,30739,Yale POP_MASTER,AYB-041,,0,SMG-AYB-041,905,Uzbek,3,982.8187866000001,36.2654,67.9512,SMG,AYB,Qochinal Haji Shair Bahi,1901,Aybak,????,Samangan,??????,19
+30739,30740,Yale POP_MASTER,AYB-060,,0,SMG-AYB-060,621,Uzbek,3,941.2792969000001,36.3153,67.9891,SMG,AYB,Zoor Goot Hassan Khail,1901,Aybak,????,Samangan,??????,19
+30740,30741,Yale POP_MASTER,AYB-007,,0,SMG-AYB-007,788,Uzbek,3,1681.386963,36.1703,68.0526,SMG,AYB,Dara-e-zhowandon Pass Kanda,1901,Aybak,????,Samangan,??????,19
+30741,30742,Yale POP_MASTER,AYB-002,,0,SMG-AYB-002,240,Dari,1,1720.777954,36.1423,67.9135,SMG,AYB,Agha-peto,1901,Aybak,????,Samangan,??????,19
+30742,30743,Yale POP_MASTER,AYB-044,,0,SMG-AYB-044,1124,Dari,1,1461.161987,36.1639,68.0658,SMG,AYB,Sar Kanda Bala,1901,Aybak,????,Samangan,??????,19
+30751,30752,Yale POP_MASTER,AYB-036,,0,SMG-AYB-036,356,Dari,1,1597.916992,36.1445,67.86399999999999,SMG,AYB,Manzar Karaiz,1901,Aybak,????,Samangan,??????,19
+32379,32380,CSO AIMS Villages (ACSOR),RDA-018,,0,SMG-RDA-018,1143,Dari,1,2828.12793,35.49643,67.61771999999999,SMG,RDA,Peach Gah (2),1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32380,32381,USAID AIDVillageView,DSP-007,,0,SMG-DSP-007,0,Dari,1,2776.104004,35.4251,67.0725,SMG,DSP,Ele Mahmud,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32381,32382,CSO AIMS Villages (ACSOR),DSP-031,,0,SMG-DSP-031,359,Dari,1,2598.37207,35.444990000000004,67.14025,SMG,DSP,Qala-e-now (1),1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32385,32386,Yale POP_MASTER,RDA-044,,0,SMG-RDA-044,302,Dari,1,2884.0390629999997,35.6318,67.4518,SMG,RDA,Gho Jour Tour,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32386,32387,Yale POP_MASTER,RDA-063,,0,SMG-RDA-063,154,Dari,1,2993.095947,35.5336,67.5783,SMG,RDA,Khowja Koshta,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32387,32388,Yale POP_MASTER,RDA-065,,0,SMG-RDA-065,139,Dari,1,2943.150879,35.493,67.5993,SMG,RDA,Koun Peachgah,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32388,32389,Yale POP_MASTER,RDA-068,,0,SMG-RDA-068,216,Dari,1,2787.0048829999996,35.4972,67.6365,SMG,RDA,Maimana,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32389,32390,Yale POP_MASTER,RDA-075,,0,SMG-RDA-075,341,Dari,1,2817.032959,35.4952,67.6237,SMG,RDA,Now Abad Peach Gah,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32390,32391,Yale POP_MASTER,RDA-090,,0,SMG-RDA-090,364,Dari,1,2588.498047,35.5526,67.567,SMG,RDA,Sar Asiab,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32391,32392,Yale POP_MASTER,RDA-091,,0,SMG-RDA-091,399,Dari,1,2496.262939,35.5562,67.5727,SMG,RDA,Sar Asiab Bala,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32392,32393,Yale POP_MASTER,RDA-094,,0,SMG-RDA-094,266,Dari,1,2650.001953,35.5336,67.5559,SMG,RDA,Sarjee Bala,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32393,32394,Yale POP_MASTER,RDA-095,,0,SMG-RDA-095,299,Dari,1,2663.487061,35.5423,67.5636,SMG,RDA,Sarjee Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32394,32395,Yale POP_MASTER,RDA-103,,0,SMG-RDA-103,326,Dari,1,2844.759033,35.4827,67.6613,SMG,RDA,Tal Mazar Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32395,32396,Yale POP_MASTER,RDA-106,,0,SMG-RDA-106,290,Dari,1,2679.935059,35.5652,67.5673,SMG,RDA,Yakhni Qoul,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+32406,32407,Yale POP_MASTER,DSP-080,,0,SMG-DSP-080,152,Dari,1,2617.697021,35.4608,67.1393,SMG,DSP,Do Abhi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32407,32408,Yale POP_MASTER,DSP-094,,0,SMG-DSP-094,141,Dari,1,2441.8120120000003,35.5594,67.3069,SMG,DSP,Hachar Goo,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32408,32409,Yale POP_MASTER,DSP-111,,0,SMG-DSP-111,376,Dari,1,2483.261963,35.4984,67.1679,SMG,DSP,Khawal,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32409,32410,Yale POP_MASTER,DSP-118,,0,SMG-DSP-118,502,Dari,1,2673.218018,35.4234,67.1363,SMG,DSP,Kohnna Qala,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32410,32411,Yale POP_MASTER,DSP-119,,0,SMG-DSP-119,879,Dari,1,2624.139893,35.4319,67.1402,SMG,DSP,Kohta,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32411,32412,Yale POP_MASTER,DSP-035,,0,SMG-DSP-035,597,Dari,1,2513.9060059999997,35.4813,67.1519,SMG,DSP,Ahangaran,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32412,32413,Yale POP_MASTER,DSP-074,,0,SMG-DSP-074,784,Dari,1,2346.419922,35.5296,67.2242,SMG,DSP,Dahi Ahmad Baik,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32413,32414,Yale POP_MASTER,DSP-150,,0,SMG-DSP-150,821,Dari,1,2376.8359379999997,35.5267,67.2177,SMG,DSP,Safid Khak,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32414,32415,Yale POP_MASTER,DSP-158,,0,SMG-DSP-158,488,Dari,1,3072.371094,35.4657,67.4083,SMG,DSP,Sar Ghazi,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+32415,32416,Yale POP_MASTER,DSP-171,,0,SMG-DSP-171,178,Dari,1,2801.315918,35.5374,67.3562,SMG,DSP,Shaira,1905,Dara-e Suf-e-Bala,??? ??? ????,Samangan,??????,19
+40198,40199,Yale POP_MASTER,AYB-017,,0,SMG-AYB-017,138,Uzbek,3,2155.5161129999997,36.0446,67.7007,SMG,AYB,Hazar Qadoq,1901,Aybak,????,Samangan,??????,19
+40496,40497,Yale POP_MASTER,KSH-029,,0,SMG-KSH-029,509,Uzbek,3,1178.456055,36.2386,68.3832,SMG,KSH,Chaqor Qeshlaq,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+40497,40498,Yale POP_MASTER,KSH-067,,0,SMG-KSH-067,582,Uzbek,3,1728.812012,36.2189,68.4447,SMG,KSH,Sar Chashma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+40498,40499,Yale POP_MASTER,AYB-039,,0,SMG-AYB-039,479,Uzbek,3,1679.56897,36.2527,68.378,SMG,AYB,Now Abad,1901,Aybak,????,Samangan,??????,19
+41541,41542,USAID AIDVillageView,KSH-004,,0,SMG-KSH-004,0,Dari,1,1822.331055,36.0837,68.3492,SMG,KSH,Nawa Kasa,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+41542,41543,USAID AIDVillageView,KSH-006,,0,SMG-KSH-006,0,Dari,1,2623.128906,36.05,68.39,SMG,KSH,Pul Hasham Khan (qwm Achekzai),1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+41608,41609,Yale POP_MASTER,KSH-076,,0,SMG-KSH-076,497,Dari,1,1084.204956,36.1285,68.421,SMG,KSH,Shorabak Rabatak,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+41609,41610,Yale POP_MASTER,KSH-077,,0,SMG-KSH-077,422,Dari,1,1909.699951,36.0831,68.3315,SMG,KSH,Surkhak Chashma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+41610,41611,Yale POP_MASTER,KSH-079,,0,SMG-KSH-079,1431,Dari,1,1885.222046,36.0742,68.3028,SMG,KSH,Tatarchal,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+41611,41612,Yale POP_MASTER,KSH-081,,0,SMG-KSH-081,599,Pashto,2,2468.464111,35.8959,68.3047,SMG,KSH,Zawar Aq Chashma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+41612,41613,Yale POP_MASTER,KSH-014,,0,SMG-KSH-014,404,Dari,1,2650.940918,35.8579,68.3182,SMG,KSH,Ab Qoul Afghania,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42269,42270,Yale POP_MASTER,KSH-016,,0,SMG-KSH-016,382,Dari,1,2330.62793,35.9067,68.283,SMG,KSH,Aghreqal Hulya,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42270,42271,Yale POP_MASTER,KSH-018,,0,SMG-KSH-018,391,Dari,1,1872.619995,36.080999999999996,68.3156,SMG,KSH,Alha,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42271,42272,Yale POP_MASTER,KSH-019,,0,SMG-KSH-019,477,Pashto,2,2646.74707,35.8614,68.2975,SMG,KSH,Aq Chashma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42272,42273,Yale POP_MASTER,KSH-021,,0,SMG-KSH-021,11,Dari,1,2131.6088870000003,35.9395,68.2697,SMG,KSH,Awaz Bahi,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42273,42274,Yale POP_MASTER,KSH-027,,0,SMG-KSH-027,131,Dari,1,2204.158936,35.982,68.2839,SMG,KSH,Bourma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42274,42275,Yale POP_MASTER,KSH-035,,0,SMG-KSH-035,87,Dari,1,2384.471924,35.937,68.2887,SMG,KSH,Garem Balaq,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42275,42276,Yale POP_MASTER,KSH-037,,0,SMG-KSH-037,335,Dari,1,2607.61792,35.8662,68.2606,SMG,KSH,Gul Mohammad,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42276,42277,Yale POP_MASTER,KSH-047,,0,SMG-KSH-047,126,Dari,1,2233.818115,36.0223,68.3084,SMG,KSH,Khowja Qashqar Bala,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42277,42278,Yale POP_MASTER,KSH-049,,0,SMG-KSH-049,179,Dari,1,1176.659058,36.1336,68.3727,SMG,KSH,Kor Hawai,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42278,42279,Yale POP_MASTER,KSH-052,,0,SMG-KSH-052,401,Dari,1,2263.933105,35.9529,68.2896,SMG,KSH,Now Balaq,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42279,42280,Yale POP_MASTER,KSH-054,,0,SMG-KSH-054,134,Dari,1,2218.138916,35.9173,68.2937,SMG,KSH,Podina Balaq,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42280,42281,Yale POP_MASTER,KSH-057,,0,SMG-KSH-057,82,Pashto,2,2423.581055,35.8713,68.2883,SMG,KSH,Qara Dong Aq Chashma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42281,42282,Yale POP_MASTER,KSH-059,,0,SMG-KSH-059,341,Dari,1,1346.787964,36.0997,68.422,SMG,KSH,Qara Sai,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42282,42283,Yale POP_MASTER,KSH-063,,0,SMG-KSH-063,1520,Dari,1,1002.71698,36.1461,68.4004,SMG,KSH,Rabatak,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42283,42284,Yale POP_MASTER,KSH-064,,0,SMG-KSH-064,342,Dari,1,1211.55896,36.1247,68.3762,SMG,KSH,Rabatak Ghondakee,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42284,42285,Yale POP_MASTER,KSH-065,,0,SMG-KSH-065,451,Dari,1,1085.592041,36.1354,68.3893,SMG,KSH,Rabatak Kabuli,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42285,42286,Yale POP_MASTER,KSH-066,,0,SMG-KSH-066,392,Dari,1,1040.902954,36.1383,68.3972,SMG,KSH,Rabatak Shahi Khail,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+42461,42462,Yale POP_MASTER,RDA-021,,0,SMG-RDA-021,654,Dari,1,2815.591064,35.5252,68.093,SMG,RDA,Ahangaran,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+42462,42463,Yale POP_MASTER,RDA-024,,0,SMG-RDA-024,335,Dari,1,2963.079102,35.5379,68.0844,SMG,RDA,Arfa Qoul Hulya,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+42463,42464,Yale POP_MASTER,RDA-029,,0,SMG-RDA-029,104,Dari,1,2969.928955,35.5505,68.1152,SMG,RDA,Bad Qahq,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+42464,42465,Yale POP_MASTER,RDA-050,,0,SMG-RDA-050,358,Dari,1,2745.283936,35.5241,68.0563,SMG,RDA,Harfa Qoul Sufla,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+44181,44182,USAID AIDVillageView,RDA-004,,0,SMG-RDA-004,0,Dari,1,2003.3220210000002,35.8373,67.8536,SMG,RDA,Aylaqi Gharjaw,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+44182,44183,USAID AIDVillageView,RDA-016,,0,SMG-RDA-016,0,Dari,1,1855.600952,35.8144,67.8873,SMG,RDA,Tangi Bazarak,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+44183,44184,USAID AIDVillageView,KSH-001,,0,SMG-KSH-001,0,Dari,1,1889.782959,35.8667,68.0884,SMG,KSH,Chashma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44184,44185,USAID AIDVillageView,KSH-002,,0,SMG-KSH-002,0,Dari,1,1543.718018,36.1233,68.1815,SMG,KSH,Dashti Garma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44185,44186,USAID AIDVillageView,KSH-003,,0,SMG-KSH-003,0,Dari,1,2356.044922,35.8057,68.1255,SMG,KSH,Khake Pela,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44186,44187,USAID AIDVillageView,KSH-007,,0,SMG-KSH-007,0,Dari,1,1452.509033,36.1455,68.2561,SMG,KSH,Sanduqcha,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44187,44188,USAID AIDVillageView,KSH-008,,0,SMG-KSH-008,0,Dari,1,1869.983032,35.9786,68.1957,SMG,KSH,Tali Sabz,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44188,44189,USAID AIDVillageView,KSH-009,,0,SMG-KSH-009,0,Dari,1,1713.5059809999998,36.0859,68.2511,SMG,KSH,Zagh,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44189,44190,CSO AIMS Villages (ACSOR),KSH-010,,0,SMG-KSH-010,1569,Dari,1,1512.006958,36.00397,68.05188000000001,SMG,KSH,Dahi Kalan,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44190,44191,CSO AIMS Villages (ACSOR),KSH-011,,0,SMG-KSH-011,166,Dari,1,1558.2969970000001,36.0163,68.05841,SMG,KSH,Kunda Kalan,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44191,44192,CSO AIMS Villages (ACSOR),KSH-012,,0,SMG-KSH-012,175,Dari,1,2550.188965,35.79117,68.10257,SMG,KSH,Mullah Toui Mohammad,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44192,44193,Yale POP_MASTER,RDA-022,,0,SMG-RDA-022,310,Dari,1,2381.183105,35.7785,68.0715,SMG,RDA,Ali Khaikh,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+44193,44194,Yale POP_MASTER,RDA-042,,0,SMG-RDA-042,399,Dari,1,2005.314941,35.8458,67.8802,SMG,RDA,Falak Soum,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+44194,44195,Yale POP_MASTER,RDA-056,,0,SMG-RDA-056,533,Pashto,2,2220.5830079999996,35.7422,68.031,SMG,RDA,Jaow Palal Bala,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+44195,44196,Yale POP_MASTER,RDA-057,,0,SMG-RDA-057,639,Dari,1,2193.10498,35.7571,68.0268,SMG,RDA,Jaw Palal Payen,1907,Ruy-e-Duab,??? ?? ??,Samangan,??????,19
+44196,44197,Yale POP_MASTER,KSH-074,,0,SMG-KSH-074,345,Uzbek,3,1661.505981,36.0973,68.2565,SMG,KSH,Shoor Ab Bala,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44197,44198,Yale POP_MASTER,KSH-075,,0,SMG-KSH-075,111,Uzbek,3,1575.448975,36.1199,68.218,SMG,KSH,Shoor Ab Payen,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44198,44199,Yale POP_MASTER,KSH-078,,0,SMG-KSH-078,1206,Dari,1,1749.1030269999999,36.0046,68.1571,SMG,KSH,Tana Choub,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44199,44200,Yale POP_MASTER,KSH-080,,0,SMG-KSH-080,625,Dari,1,1440.019043,36.1356,68.2238,SMG,KSH,Zagh Shoorabak,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44200,44201,Yale POP_MASTER,KSH-082,District,1,SMG-KSH-082,1639,Dari,1,1444.6130369999998,35.9961,68.0537,SMG,KSH,Khuram Wa Sarbagh,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44201,44202,Yale POP_MASTER,KSH-013,,0,SMG-KSH-013,48,Dari,1,2100.4370120000003,35.9365,68.2452,SMG,KSH,Ab Darah,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44202,44203,Yale POP_MASTER,KSH-015,,0,SMG-KSH-015,820,Dari,1,1583.182983,35.9446,68.0227,SMG,KSH,Abdul Malik Khouram,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44203,44204,Yale POP_MASTER,KSH-017,,0,SMG-KSH-017,76,Dari,1,2347.720947,35.9104,68.2616,SMG,KSH,Aghreqal Sufla,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44204,44205,Yale POP_MASTER,KSH-020,,0,SMG-KSH-020,44,Dari,1,2629.763916,35.8409,68.2113,SMG,KSH,Asel Gunjeshkak,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44205,44206,Yale POP_MASTER,KSH-022,,0,SMG-KSH-022,1470,Dari,1,1580.185059,36.0487,68.1818,SMG,KSH,Baba Qambar,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44206,44207,Yale POP_MASTER,KSH-023,,0,SMG-KSH-023,420,Dari,1,1495.352051,36.0542,68.1527,SMG,KSH,Baba Qambar Had Murda,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44207,44208,Yale POP_MASTER,KSH-024,,0,SMG-KSH-024,82,Dari,1,2481.491943,35.8689,68.2309,SMG,KSH,Baghalak,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44208,44209,Yale POP_MASTER,KSH-025,,0,SMG-KSH-025,241,Dari,1,2239.783936,35.9144,68.2419,SMG,KSH,Beash Qoul Kalan,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44209,44210,Yale POP_MASTER,KSH-026,,0,SMG-KSH-026,121,Dari,1,2243.177979,35.9134,68.221,SMG,KSH,Beash Qoul Khourd,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44210,44211,Yale POP_MASTER,KSH-028,,0,SMG-KSH-028,209,Dari,1,1396.328979,36.0195,68.0652,SMG,KSH,Chahar Sang,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44211,44212,Yale POP_MASTER,KSH-030,,0,SMG-KSH-030,991,Dari,1,1736.644043,35.9209,67.9979,SMG,KSH,Color Khouram Huleya,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44212,44213,Yale POP_MASTER,KSH-031,,0,SMG-KSH-031,830,Dari,1,2029.571045,35.917,67.9798,SMG,KSH,Color Khouram Sufla,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44213,44214,Yale POP_MASTER,KSH-032,,0,SMG-KSH-032,464,Dari,1,1520.517944,36.0225,68.0574,SMG,KSH,Dah Now,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44214,44215,Yale POP_MASTER,KSH-033,,0,SMG-KSH-033,1020,Dari,1,1582.765991,35.9286,68.007,SMG,KSH,Dahi Asel,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44215,44216,Yale POP_MASTER,KSH-034,,0,SMG-KSH-034,1211,Dari,1,1476.8959960000002,36.029,68.0573,SMG,KSH,Dakhail Zaow,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44216,44217,Yale POP_MASTER,KSH-036,,0,SMG-KSH-036,810,Dari,1,1495.025024,35.9643,68.0322,SMG,KSH,Ghazi Mard,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44217,44218,Yale POP_MASTER,KSH-038,,0,SMG-KSH-038,93,Dari,1,2569.3439940000003,35.8458,68.2207,SMG,KSH,Gunjeshkak Haidari Bahi,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44218,44219,Yale POP_MASTER,KSH-039,,0,SMG-KSH-039,82,Dari,1,2759.309082,35.8387,68.195,SMG,KSH,Gunjeshkak Marg,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44219,44220,Yale POP_MASTER,KSH-040,,0,SMG-KSH-040,1190,Dari,1,1578.45105,35.9291,68.0158,SMG,KSH,Habash Khouram,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44220,44221,Yale POP_MASTER,KSH-041,,0,SMG-KSH-041,47,Dari,1,2011.187988,35.945,68.2537,SMG,KSH,Islam Qala,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44221,44222,Yale POP_MASTER,KSH-042,,0,SMG-KSH-042,489,Dari,1,1429.732056,36.0023,68.0621,SMG,KSH,Khaderiyan,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44222,44223,Yale POP_MASTER,KSH-043,,0,SMG-KSH-043,297,Dari,1,1900.3730469999998,36.0218,68.2215,SMG,KSH,Khowja Dadwar Beak H.ab.hakim,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44223,44224,Yale POP_MASTER,KSH-044,,0,SMG-KSH-044,175,Dari,1,1994.3540039999998,36.0179,68.2251,SMG,KSH,Khowja Noor Arbab Barhat,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44224,44225,Yale POP_MASTER,KSH-045,,0,SMG-KSH-045,85,Dari,1,1934.7750239999998,36.021,68.2314,SMG,KSH,Khowja Noor Haji Bahz Mohammad,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44225,44226,Yale POP_MASTER,KSH-046,,0,SMG-KSH-046,479,Dari,1,1875.0179440000002,36.0232,68.2084,SMG,KSH,Khowja Noor Haji Naik.m,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44226,44227,Yale POP_MASTER,KSH-048,,0,SMG-KSH-048,1200,Dari,1,1917.000977,36.0401,68.2782,SMG,KSH,Khowja Qashqar Payen,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44227,44228,Yale POP_MASTER,KSH-050,,0,SMG-KSH-050,1186,Dari,1,1464.037964,35.9927,68.04899999999999,SMG,KSH,Langar Sar Bagh,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44228,44229,Yale POP_MASTER,KSH-051,,0,SMG-KSH-051,963,Dari,1,2076.60498,36.0108,68.2776,SMG,KSH,Mankaboot,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44229,44230,Yale POP_MASTER,KSH-053,,0,SMG-KSH-053,1030,Dari,1,1447.317017,36.0487,68.0676,SMG,KSH,Pass Hassar,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44230,44231,Yale POP_MASTER,KSH-055,,0,SMG-KSH-055,620,Dari,1,2627.6479489999997,35.7573,68.1139,SMG,KSH,Qaiz Bala,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44231,44232,Yale POP_MASTER,KSH-056,,0,SMG-KSH-056,1064,Dari,1,2363.931885,35.7895,68.1294,SMG,KSH,Qaiz Payen,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44232,44233,Yale POP_MASTER,KSH-058,,0,SMG-KSH-058,274,Dari,1,2059.8129879999997,35.9669,68.237,SMG,KSH,Qara Downg,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44233,44234,Yale POP_MASTER,KSH-060,,0,SMG-KSH-060,23,Dari,1,2205.945068,35.8663,68.2092,SMG,KSH,Qazel Guzar,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44234,44235,Yale POP_MASTER,KSH-061,,0,SMG-KSH-061,199,Dari,1,2485.466064,35.8913,68.2299,SMG,KSH,Qazel Guzar Now Abad,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44235,44236,Yale POP_MASTER,KSH-062,,0,SMG-KSH-062,150,Dari,1,2104.126953,35.9031,68.1855,SMG,KSH,Qazel Guzar Sarchashma,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44236,44237,Yale POP_MASTER,KSH-068,,0,SMG-KSH-068,961,Dari,1,2231.366943,35.836999999999996,68.1361,SMG,KSH,Sarwazan,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44237,44238,Yale POP_MASTER,KSH-069,,0,SMG-KSH-069,442,Dari,1,1548.391968,35.9489,68.0382,SMG,KSH,Shahr Now Khouram,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44238,44239,Yale POP_MASTER,KSH-070,,0,SMG-KSH-070,121,Dari,1,1941.755005,35.9446,68.2234,SMG,KSH,Shakh Safid Bala,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44239,44240,Yale POP_MASTER,KSH-071,,0,SMG-KSH-071,40,Dari,1,1951.597046,35.9334,68.1973,SMG,KSH,Shakh Safid Mohamadamir,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44240,44241,Yale POP_MASTER,KSH-072,,0,SMG-KSH-072,9,Dari,1,1991.1429440000002,35.9265,68.192,SMG,KSH,Shakh Safid Mullah Qurban,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19
+44241,44242,Yale POP_MASTER,KSH-073,,0,SMG-KSH-073,92,Dari,1,1987.9389649999998,35.9384,68.2204,SMG,KSH,Shakh Safid Qazal Guzar,1906,Khuram Wa Sarbagh,??? ???????,Samangan,??????,19

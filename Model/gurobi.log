@@ -642,3 +642,62 @@ Gurobi 7.0.2 (win64, Python) logging started 03/12/17 00:26:23
 
 Gurobi 7.0.2 (win64, Python) logging started 03/12/17 00:49:58
 
+
+Gurobi 7.0.1 (win64, Python) logging started 03/17/17 14:27:08
+
+
+Gurobi 7.0.1 (win64, Python) logging started 03/17/17 16:12:12
+
+
+Gurobi 7.0.1 (win64, Python) logging started 03/18/17 18:14:53
+
+
+Gurobi 7.0.1 (win64, Python) logging started 03/18/17 20:31:32
+
+
+Gurobi 7.0.1 (win64, Python) logging started 03/19/17 13:54:03
+
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 25 rows, 300 columns and 600 nonzeros
+Variable types: 0 continuous, 300 integer (300 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve time: 0.03s
+Presolved: 25 rows, 300 columns, 600 nonzeros
+Variable types: 0 continuous, 300 integer (300 binary)
+Found heuristic solution: objective 1593.5901768
+
+Root relaxation: objective 4.738647e+02, 38 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  473.86465    0    6 1593.59018  473.86465  70.3%     -    0s
+H    0     0                     517.2886077  473.86465  8.39%     -    0s
+     0     0  493.69072    0    6  517.28861  493.69072  4.56%     -    0s
+     0     0  493.69072    0    6  517.28861  493.69072  4.56%     -    0s
+H    0     0                     515.1838760  493.69072  4.17%     -    0s
+     0     0  496.97972    0    6  515.18388  496.97972  3.53%     -    0s
+     0     0  496.97972    0    6  515.18388  496.97972  3.53%     -    0s
+     0     0  503.14267    0    6  515.18388  503.14267  2.34%     -    0s
+*    0     0               0     505.5359338  505.53593  0.00%     -    0s
+
+Cutting planes:
+  Gomory: 3
+  Zero half: 4
+
+Explored 0 nodes (142 simplex iterations) in 0.35 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 4: 505.536 515.184 517.289 1593.59 
+Pool objective bound 505.536
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.055359337746e+02, best bound 5.055359337746e+02, gap 0.0000%
+
+Gurobi 7.0.1 (win64, Python) logging started 03/19/17 14:06:30
+
