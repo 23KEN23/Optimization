@@ -852,3 +852,89 @@ Parameter OutputFlag unchanged
    Value: 1  Min: 0  Max: 1  Default: 1
 Changed value of parameter LazyConstraints to 1
    Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.2 (win64, Python) logging started 03/22/17 13:50:37
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 33986 rows, 62711 columns and 255506 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+01, 5e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 16365 rows and 0 columns
+Presolve time: 0.12s
+Presolved: 17621 rows, 62711 columns, 190874 nonzeros
+
+Ordering time: 0.06s
+
+Barrier performed 0 iterations in 0.23 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 83 iterations and 0.23 seconds
+Optimal objective  2.732663338e+03
+Optimize a model with 34030 rows, 62711 columns and 255594 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+01, 5e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.7326633e+03   4.400000e+01   0.000000e+00      0s
+      44    2.7326633e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 44 iterations and 0.03 seconds
+Optimal objective  2.732663338e+03
+
+Gurobi 7.0.2 (win64, Python) logging started 03/22/17 13:55:51
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/22/17 13:59:55
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 33986 rows, 68400 columns and 278262 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 5e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 16069 rows and 0 columns
+Presolve time: 0.16s
+Presolved: 17917 rows, 68400 columns, 208237 nonzeros
+
+Ordering time: 0.02s
+
+Barrier performed 0 iterations in 0.24 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 80 iterations and 0.25 seconds
+Optimal objective  2.512602028e+03
+Optimize a model with 34030 rows, 68400 columns and 278350 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 5e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.5126020e+03   4.400000e+01   0.000000e+00      0s
+      41    2.5126020e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 41 iterations and 0.03 seconds
+Optimal objective  2.512602028e+03
+
+Gurobi 7.0.2 (win64, Python) logging started 03/22/17 14:01:45
+
