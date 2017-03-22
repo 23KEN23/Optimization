@@ -852,3 +852,70 @@ Parameter OutputFlag unchanged
    Value: 1  Min: 0  Max: 1  Default: 1
 Changed value of parameter LazyConstraints to 1
    Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/22/17 13:42:50
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 662411 rows, 64359 columns and 940483 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 5e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 0 rows and 594767 columns
+Presolve time: 0.72s
+Presolved: 64359 rows, 132003 columns, 360160 nonzeros
+
+Ordering time: 3.03s
+
+Barrier performed 0 iterations in 3.98 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 11149 iterations and 4.03 seconds
+Optimal objective  2.659198961e+03
+
+Gurobi 7.0.1 (win64, Python) logging started 03/22/17 13:46:44
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 662411 rows, 81610 columns and 1026738 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [9e+00, 5e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 0 rows and 576734 columns
+Presolve time: 0.73s
+Presolved: 81610 rows, 167287 columns, 464448 nonzeros
+
+Ordering time: 3.33s
+
+Barrier performed 0 iterations in 4.34 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 9739 iterations and 4.40 seconds
+Optimal objective  2.093401514e+03
+Optimize a model with 662411 rows, 81610 columns and 1026738 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [9e+00, 5e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+
+Solved in 9739 iterations and 0.01 seconds
+Optimal objective  2.093401514e+03
