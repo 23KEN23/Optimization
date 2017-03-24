@@ -938,3 +938,133 @@ Optimal objective  2.512602028e+03
 
 Gurobi 7.0.2 (win64, Python) logging started 03/22/17 14:01:45
 
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 14:25:55
+
+Optimize a model with 1 rows, 2 columns and 2 nonzeros
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 5e+00]
+Found heuristic solution: objective 0
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+Pool objective bound 0
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 14:28:27
+
+Optimize a model with 1 rows, 2 columns and 2 nonzeros
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 5e+00]
+Found heuristic solution: objective 5
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 5 
+Pool objective bound 5
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.000000000000e+00, best bound 5.000000000000e+00, gap 0.0000%
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 14:31:04
+
+Optimize a model with 1 rows, 2 columns and 2 nonzeros
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 5e+00]
+Found heuristic solution: objective 5
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 5 
+Pool objective bound 5
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.000000000000e+00, best bound 5.000000000000e+00, gap 0.0000%
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 14:34:34
+
+Optimize a model with 1 rows, 2 columns and 2 nonzeros
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 5e+00]
+Found heuristic solution: objective 5
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 5 
+Pool objective bound 5
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.000000000000e+00, best bound 5.000000000000e+00, gap 0.0000%
+Optimize a model with 2 rows, 2 columns and 3 nonzeros
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 5e+00]
+Found heuristic solution: objective 3
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 3 
+Pool objective bound 3
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.000000000000e+00, best bound 3.000000000000e+00, gap 0.0000%
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 14:51:15
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 14:56:36
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:00:51
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:05:40
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:08:49
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:12:42
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:22:56
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:25:09
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:28:42
+
+
+Gurobi 7.0.2 (win64, Python) logging started 03/24/17 15:35:38
+
