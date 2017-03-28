@@ -1,0 +1,130 @@
+
+Gurobi 7.0.1 (win64) logging started 03/26/17 20:46:54
+
+Changed value of parameter LogFile to ProvinceRunOutputs/log_prov21.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 5436 rows, 107530 columns and 215494 nonzeros
+Variable types: 0 continuous, 107530 integer (107530 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [3e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 750457
+Presolve removed 612 rows and 10944 columns
+Presolve time: 0.50s
+Presolved: 4824 rows, 96586 columns, 193298 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 229999.000000000
+
+Variable types: 0 continuous, 96586 integer (96586 binary)
+
+Root relaxation: objective 2.230502e+05, 4617 iterations, 0.05 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 223050.235    0   39 750456.828 223050.235  70.3%     -    0s
+H    0     0                    507648.36970 223050.235  56.1%     -    2s
+H    0     0                    340656.22804 223050.235  34.5%     -    2s
+H    0     0                    274866.16738 223050.235  18.9%     -    2s
+H    0     0                    251072.42776 223050.235  11.2%     -    2s
+     0     0 228025.063    0  836 251072.428 228025.063  9.18%     -    3s
+     0     0 228999.765    0 1268 251072.428 228999.765  8.79%     -    5s
+     0     0 244331.835    0 3112 251072.428 244331.835  2.68%     -    6s
+     0     0 245976.582    0 2931 251072.428 245976.582  2.03%     -    7s
+     0     0 247887.730    0 2856 251072.428 247887.730  1.27%     -    7s
+*    0     0               0    249305.12510 249305.125  0.00%     -   10s
+
+Explored 0 nodes (20743 simplex iterations) in 10.34 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 6: 249305 251072 274866 ... 750457
+Pool objective bound 249305
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.493051251022e+05, best bound 2.493051251022e+05, gap 0.0000%
+Optimize a model with 7185 rows, 107530 columns and 220741 nonzeros
+Variable types: 0 continuous, 107530 integer (107530 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [3e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 505158
+Presolve removed 612 rows and 10944 columns
+Presolve time: 0.51s
+Presolved: 6573 rows, 96586 columns, 198545 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 229999.000000000
+
+Variable types: 0 continuous, 96586 integer (96586 binary)
+
+Root relaxation: objective 2.230502e+05, 4622 iterations, 0.05 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 223050.235    0   39 505157.971 223050.235  55.8%     -    0s
+H    0     0                    271031.77900 223050.235  17.7%     -    1s
+     0     0 235692.105    0 2194 271031.779 235692.105  13.0%     -    2s
+H    0     0                    269481.69121 235692.105  12.5%     -    3s
+     0     0 240078.722    0 3268 269481.691 240078.722  10.9%     -    3s
+     0     0 246592.252    0 4446 269481.691 246592.252  8.49%     -    6s
+     0     0 246797.435    0 4684 269481.691 246797.435  8.42%     -    9s
+     0     0 248865.695    0 3948 269481.691 248865.695  7.65%     -   11s
+H    0     0                    249305.12510 248865.695  0.18%     -   11s
+     0     0 248952.741    0 3161 249305.125 248952.741  0.14%     -   12s
+     0     0 249241.635    0 2143 249305.125 249241.635  0.03%     -   12s
+     0     0     cutoff    0      249305.125 249305.125  0.00%     -   15s
+
+Explored 0 nodes (23061 simplex iterations) in 15.37 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 4: 249305 269482 271032 505158 
+Pool objective bound 249305
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.493051251022e+05, best bound 2.493051251022e+05, gap 0.0000%
+Optimize a model with 7719 rows, 107530 columns and 222343 nonzeros
+Variable types: 0 continuous, 107530 integer (107530 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [3e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 649951
+Presolve removed 612 rows and 10944 columns
+Presolve time: 0.50s
+Presolved: 7107 rows, 96586 columns, 200147 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 229999.000000000
+
+Variable types: 0 continuous, 96586 integer (96586 binary)
+
+Root relaxation: objective 2.234628e+05, 5048 iterations, 0.26 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 223462.791    0  233 649950.890 223462.791  65.6%     -    0s
+H    0     0                    250274.10584 223462.791  10.7%     -    1s
+H    0     0                    249644.19546 223462.791  10.5%     -    1s
+     0     0 236665.291    0 3015 249644.195 236665.291  5.20%     -    3s
+     0     0 237652.831    0 3438 249644.195 237652.831  4.80%     -    7s
+     0     0 247325.753    0 4649 249644.195 247325.753  0.93%     -   10s
+     0     0 247508.897    0 4613 249644.195 247508.897  0.86%     -   15s
+     0     0 249275.809    0 5067 249644.195 249275.809  0.15%     -   20s
+     0     0     cutoff    0      249644.195 249644.195  0.00%     -   23s
+
+Explored 0 nodes (26700 simplex iterations) in 23.93 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: 249644 250274 649951 
+Pool objective bound 249644
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.496441954565e+05, best bound 2.496441954565e+05, gap 0.0000%

@@ -1,0 +1,208 @@
+
+Gurobi 7.0.1 (win64) logging started 03/26/17 16:51:30
+
+Changed value of parameter LogFile to ProvinceRunOutputs/log_prov7.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2212 rows, 103490 columns and 207414 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 168303
+Presolve removed 530 rows and 9324 columns
+Presolve time: 0.36s
+Presolved: 1682 rows, 94166 columns, 188495 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 1139999.000000000
+
+Variable types: 0 continuous, 94166 integer (94166 binary)
+
+Root relaxation: objective 1.785372e+04, 1370 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17853.7188    0   16 168303.049 17853.7188  89.4%     -    0s
+H    0     0                    18009.494241 17853.7188  0.86%     -    0s
+     0     0 17878.6704    0   38 18009.4942 17878.6704  0.73%     -    1s
+     0     0 17879.2423    0   40 18009.4942 17879.2423  0.72%     -    1s
+     0     0 17954.1634    0  112 18009.4942 17954.1634  0.31%     -    1s
+     0     0 18007.9630    0   56 18009.4942 18007.9630  0.01%     -    1s
+
+Cutting planes:
+  Cover: 19
+  Clique: 1332
+  MIR: 15
+
+Explored 0 nodes (2067 simplex iterations) in 2.01 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 18009.5 168303 
+Pool objective bound 18008
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800949424070e+04, best bound 1.800796299056e+04, gap 0.0085%
+Optimize a model with 2860 rows, 103490 columns and 209358 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 162356
+Presolve removed 530 rows and 9324 columns
+Presolve time: 0.39s
+Presolved: 2330 rows, 94166 columns, 190439 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 1139999.000000000
+
+Variable types: 0 continuous, 94166 integer (94166 binary)
+
+Root relaxation: objective 1.786188e+04, 1500 iterations, 0.07 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17861.8784    0   66 162355.888 17861.8784  89.0%     -    0s
+H    0     0                    18132.185482 17861.8784  1.49%     -    0s
+H    0     0                    18009.494241 17861.8784  0.82%     -    1s
+     0     0 17953.6855    0  128 18009.4942 17953.6855  0.31%     -    1s
+     0     0     cutoff    0      18009.4942 18009.4942  0.00%     -    2s
+
+Explored 0 nodes (3384 simplex iterations) in 2.05 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: 18009.5 18132.2 162356 
+Pool objective bound 18009.5
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800949424070e+04, best bound 1.800949424070e+04, gap 0.0000%
+Optimize a model with 2883 rows, 103490 columns and 209427 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 162356
+Presolve removed 530 rows and 9324 columns
+Presolve time: 0.38s
+Presolved: 2353 rows, 94166 columns, 190508 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 1139999.000000000
+
+Variable types: 0 continuous, 94166 integer (94166 binary)
+
+Root relaxation: objective 1.795471e+04, 1528 iterations, 0.07 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17954.7059    0   69 162355.888 17954.7059  88.9%     -    0s
+H    0     0                    18217.484905 17954.7059  1.44%     -    0s
+H    0     0                    18132.185482 17954.7059  0.98%     -    1s
+     0     0 18061.6682    0  112 18132.1855 18061.6682  0.39%     -    1s
+     0     0 18061.8509    0  118 18132.1855 18061.8509  0.39%     -    1s
+     0     0 18128.4066    0   90 18132.1855 18128.4066  0.02%     -    1s
+     0     0     cutoff    0      18132.1855 18132.1855  0.00%     -    2s
+
+Explored 0 nodes (3554 simplex iterations) in 2.56 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: 18132.2 18217.5 162356 
+Pool objective bound 18132.2
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.813218548228e+04, best bound 1.813218548228e+04, gap 0.0000%
+Optimize a model with 2893 rows, 103490 columns and 209457 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 162356
+Presolve removed 530 rows and 9324 columns
+Presolve time: 0.39s
+Presolved: 2363 rows, 94166 columns, 190538 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 1139999.000000000
+
+Variable types: 0 continuous, 94166 integer (94166 binary)
+
+Root relaxation: objective 1.796112e+04, 1544 iterations, 0.07 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17961.1156    0   69 162355.888 17961.1156  88.9%     -    0s
+H    0     0                    18215.233601 17961.1156  1.40%     -    0s
+H    0     0                    18155.445210 17961.1156  1.07%     -    1s
+H    0     0                    18133.618058 17961.1156  0.95%     -    1s
+     0     0 18066.4743    0  123 18133.6181 18066.4743  0.37%     -    1s
+     0     0 18067.3212    0  131 18133.6181 18067.3212  0.37%     -    1s
+     0     0 18132.0913    0   80 18133.6181 18132.0913  0.01%     -    1s
+
+Cutting planes:
+  Cover: 17
+  Clique: 707
+  MIR: 14
+
+Explored 0 nodes (1981 simplex iterations) in 1.90 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 4: 18133.6 18155.4 18215.2 162356 
+Pool objective bound 18132.1
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.813361805787e+04, best bound 1.813209132882e+04, gap 0.0084%
+Optimize a model with 2900 rows, 103490 columns and 209478 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Found heuristic solution: objective 162356
+Presolve removed 530 rows and 9324 columns
+Presolve time: 0.38s
+Presolved: 2370 rows, 94166 columns, 190559 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 1139999.000000000
+
+Variable types: 0 continuous, 94166 integer (94166 binary)
+
+Root relaxation: objective 1.796536e+04, 1546 iterations, 0.07 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17965.3563    0   73 162355.888 17965.3563  88.9%     -    0s
+H    0     0                    18206.383162 17965.3563  1.32%     -    0s
+H    0     0                    18155.445210 17965.3563  1.05%     -    1s
+     0     0 18071.5412    0  132 18155.4452 18071.5412  0.46%     -    1s
+     0     0 18071.5519    0  136 18155.4452 18071.5519  0.46%     -    1s
+     0     0 18149.5849    0   91 18155.4452 18149.5849  0.03%     -    1s
+     0     0 18151.7056    0   14 18155.4452 18151.7056  0.02%     -    2s
+     0     0     cutoff    0      18155.4452 18155.4452  0.00%     -    2s
+
+Cutting planes:
+  Clique: 10
+  MIR: 2
+  Zero half: 1
+
+Explored 0 nodes (3815 simplex iterations) in 2.73 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: 18155.4 18206.4 162356 
+Pool objective bound 18155.4
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.815544520966e+04, best bound 1.815544520966e+04, gap 0.0000%
