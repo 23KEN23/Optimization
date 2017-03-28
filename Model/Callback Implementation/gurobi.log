@@ -88,3 +88,29 @@ Gurobi 7.0.2 (win64, Python) logging started 03/27/17 23:14:42
 
 Gurobi 7.0.2 (win64, Python) logging started 03/28/17 00:00:01
 
+
+Gurobi 7.0.1 (win64, Python) logging started 03/28/17 17:47:22
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.1 (win64, Python) logging started 03/28/17 17:48:55
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.1 (win64, Python) logging started 03/28/17 17:51:37
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.1 (win64, Python) logging started 03/28/17 18:01:17
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
