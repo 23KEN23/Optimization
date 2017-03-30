@@ -1,0 +1,52 @@
+Optimize a model with 2912 rows, 136632 columns and 273698 nonzeros
+Variable types: 0 continuous, 136632 integer (136632 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 5e+01]
+Presolve removed 243 rows and 0 columns
+Presolve time: 0.30s
+Presolved: 2669 rows, 136632 columns, 273455 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 1039999.000000000
+
+Variable types: 0 continuous, 136632 integer (136632 binary)
+Found heuristic solution: objective 171818.37917
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.042000e+03   0.000000e+00     49s
+    2084    3.6263335e+04   0.000000e+00   0.000000e+00     49s
+
+Root relaxation: objective 3.626333e+04, 2084 iterations, 0.04 seconds
+Total elapsed time = 60.94s
+Total elapsed time = 72.67s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 36608.7537    0   68 171818.379 36608.7537  78.7%     -   72s
+Another try with MIP start
+H    0     0                    36647.408144 36608.7537  0.11%     -   84s
+H    0     0                    36640.860992 36608.7537  0.09%     -   96s
+     0     0 36608.7537    0   68 36640.8610 36608.7537  0.09%     -   97s
+H    0     0                    36638.957892 36608.7537  0.08%     -  110s
+     0     0 36608.7537    0   68 36638.9579 36608.7537  0.08%     -  111s
+     0     0     cutoff    0      36638.9579 36638.9579  0.00%     -  111s
+
+Cutting planes:
+  Gomory: 5
+  Zero half: 21
+
+Explored 0 nodes (4486 simplex iterations) in 111.38 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 4: 36639 36640.9 36647.4 171818 
+Pool objective bound 36639
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.663895789152e+04, best bound 3.663895789152e+04, gap 0.0000%
+111.39124202728271
