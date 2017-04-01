@@ -1,0 +1,67 @@
+
+Gurobi 7.0.1 (win64) logging started 03/31/17 12:47:46
+
+Changed value of parameter LogFile to log_prov_7.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 2212 rows, 103490 columns and 207414 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 271 rows and 0 columns
+Presolve time: 0.19s
+Presolved: 1941 rows, 103490 columns, 207143 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 1139999.000000000
+
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Found heuristic solution: objective 180332.01045
+Found heuristic solution: objective 136368.84155
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.342000e+03   0.000000e+00     16s
+    1370    1.7853719e+04   0.000000e+00   0.000000e+00     16s
+
+Root relaxation: objective 1.785372e+04, 1370 iterations, 0.04 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17853.7188    0   16 136368.842 17853.7188  86.9%     -   15s
+Another try with MIP start
+     0     0 17853.7188    0   16 136368.842 17853.7188  86.9%     -   27s
+     0     0 17853.7188    0   16 136368.842 17853.7188  86.9%     -   42s
+H    0     0                    22910.659474 17853.7188  22.1%     -   49s
+     0     0 17853.7188    0   16 22910.6595 17853.7188  22.1%     -   55s
+     0     0 17853.7188    0   16 22910.6595 17853.7188  22.1%     -   60s
+     0     0 17853.7188    0   16 22910.6595 17853.7188  22.1%     -   65s
+H    0     0                    19233.206433 17853.7188  7.17%     -   70s
+     0     0 18057.0083    0  129 19233.2064 18057.0083  6.12%     -   70s
+     0     0 18132.6497    0   62 19233.2064 18132.6497  5.72%     -   71s
+     0     0 18145.4361    0   79 19233.2064 18145.4361  5.66%     -   71s
+     0     0 18145.4364    0   81 19233.2064 18145.4364  5.66%     -   71s
+     0     0 18152.9287    0   56 19233.2064 18152.9287  5.62%     -   71s
+H    0     0                    18155.445210 18152.9287  0.01%     -   76s
+     0     0     cutoff    0      18155.4452 18155.4452  0.00%     -   76s
+
+Cutting planes:
+  Cover: 17
+  Clique: 974
+  MIR: 15
+  Lazy constraints: 1738
+
+Explored 0 nodes (2310 simplex iterations) in 76.83 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 5: 18155.4 19233.2 22910.7 ... 180332
+Pool objective bound 18155.4
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.815544520966e+04, best bound 1.815544520966e+04, gap 0.0000%

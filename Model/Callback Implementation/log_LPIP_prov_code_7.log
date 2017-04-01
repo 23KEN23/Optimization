@@ -1,0 +1,177 @@
+
+Gurobi 7.0.1 (win64) logging started 03/31/17 12:45:42
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 03/31/17 12:45:42
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2212 rows, 103490 columns and 207414 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 271 rows and 0 columns
+Presolve time: 0.16s
+Presolved: 1941 rows, 103490 columns, 207143 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 1.038e+05
+ Factor NZ  : 1.362e+05 (roughly 40 MBytes of memory)
+ Factor Ops : 1.460e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.24 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 16 iterations and 0.25 seconds
+Optimal objective  1.785371882e+04
+Optimize a model with 2212 rows, 103490 columns and 207414 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 271 rows and 0 columns
+Presolve time: 0.19s
+Presolved: 1941 rows, 103490 columns, 207143 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R684 by 24.000000000
+
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Found heuristic solution: objective 180332.01045
+Found heuristic solution: objective 136368.84155
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.342000e+03   0.000000e+00     15s
+    1370    1.7853719e+04   0.000000e+00   0.000000e+00     15s
+
+Root relaxation: objective 1.785372e+04, 1370 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17853.7188    0   16 136368.842 17853.7188  86.9%     -   15s
+Another try with MIP start
+     0     0 17853.7188    0   16 136368.842 17853.7188  86.9%     -   25s
+H    0     0                    22313.628233 17853.7188  20.0%     -   35s
+     0     0 17853.7188    0   16 22313.6282 17853.7188  20.0%     -   44s
+H    0     0                    18376.763700 17853.7188  2.85%     -   54s
+     0     0 18063.5310    0  152 18376.7637 18063.5310  1.70%     -   54s
+H    0     0                    18315.645532 18063.5310  1.38%     -   60s
+H    0     0                    18155.445210 18063.5310  0.51%     -   66s
+     0     0 18145.0904    0   87 18155.4452 18145.0904  0.06%     -   66s
+     0     0     cutoff    0      18155.4452 18155.4452  0.00%     -   67s
+
+Explored 0 nodes (3862 simplex iterations) in 67.36 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 6: 18155.4 18315.6 18376.8 ... 180332
+Pool objective bound 18155.4
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.815544520966e+04, best bound 1.815544520966e+04, gap 0.0000%
+
+Gurobi 7.0.1 (win64) logging started 03/31/17 13:27:08
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 03/31/17 13:27:08
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2212 rows, 103490 columns and 207414 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+02]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 271 rows and 0 columns
+Presolve time: 0.11s
+Presolved: 1941 rows, 103490 columns, 207143 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.038e+05
+ Factor NZ  : 1.362e+05 (roughly 40 MBytes of memory)
+ Factor Ops : 1.460e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.20 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 16 iterations and 0.22 seconds
+Optimal objective  1.785371882e+04
+Optimize a model with 2212 rows, 103490 columns and 207414 nonzeros
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+02]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 271 rows and 0 columns
+Presolve time: 0.19s
+Presolved: 1941 rows, 103490 columns, 207143 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R684 by 24.000000000
+
+Variable types: 0 continuous, 103490 integer (103490 binary)
+Found heuristic solution: objective 180332.01045
+Found heuristic solution: objective 136368.84155
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.342000e+03   0.000000e+00     16s
+    1370    1.7853719e+04   0.000000e+00   0.000000e+00     16s
+
+Root relaxation: objective 1.785372e+04, 1370 iterations, 0.05 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 17853.7188    0   16 136368.842 17853.7188  86.9%     -   15s
+Another try with MIP start
+     0     0 17853.7188    0   16 136368.842 17853.7188  86.9%     -   26s
+H    0     0                    22313.628233 17853.7188  20.0%     -   36s
+     0     0 17853.7188    0   16 22313.6282 17853.7188  20.0%     -   46s
+H    0     0                    18376.763700 17853.7188  2.85%     -   56s
+     0     0 18063.5310    0  152 18376.7637 18063.5310  1.70%     -   56s
+     0     0 18063.5310    0  152 18376.7637 18063.5310  1.70%     -   62s
+     0     0 18132.7161    0  109 18376.7637 18132.7161  1.33%     -   62s
+H    0     0                    18155.445210 18132.7161  0.13%     -   67s
+     0     0 18149.3215    0   68 18155.4452 18149.3215  0.03%     -   67s
+     0     0     cutoff    0      18155.4452 18155.4452  0.00%     -   68s
+
+Explored 0 nodes (3082 simplex iterations) in 68.29 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 5: 18155.4 18376.8 22313.6 ... 180332
+Pool objective bound 18155.4
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.815544520966e+04, best bound 1.815544520966e+04, gap 0.0000%

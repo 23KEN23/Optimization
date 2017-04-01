@@ -126,3 +126,177 @@ Gurobi 7.0.1 (win64, Python) logging started 03/28/17 19:42:59
 Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
 Parameter OutputFlag unchanged
    Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 12:40:31
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 12:45:42
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 12:47:46
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 12:50:31
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 12:56:38
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 13:20:47
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 13:25:20
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 13:27:08
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 13:30:21
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 13:42:13
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 15:37:39
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 16:55:18
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 16:56:52
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 17:23:55
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 17:35:42
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.1 (win64, Python) logging started 03/31/17 18:33:36
+
+Warning: Gurobi version mismatch between Python 7.0.2 and C library 7.0.1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
