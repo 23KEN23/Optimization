@@ -1,0 +1,315 @@
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 11:34:20
+
+Changed value of parameter LogFile to log_LPIP_prov_code_2.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 11:34:20
+
+Changed value of parameter LogFile to log_LPIP_prov_code_2.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2132 rows, 160318 columns and 321070 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+02]
+  Objective range  [4e+01, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 183 rows and 0 columns
+Presolve time: 0.18s
+Presolved: 1949 rows, 160318 columns, 320887 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 1.608e+05
+ Factor NZ  : 2.292e+05 (roughly 70 MBytes of memory)
+ Factor Ops : 5.004e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.28 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 14 iterations and 0.30 seconds
+Optimal objective  1.053317302e+07
+Optimize a model with 2132 rows, 160318 columns and 321070 nonzeros
+Variable types: 0 continuous, 160318 integer (160318 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+02]
+  Objective range  [4e+01, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 183 rows and 0 columns
+Presolve time: 0.28s
+Presolved: 1949 rows, 160318 columns, 320887 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R632 by 67.000000000
+
+Variable types: 0 continuous, 160318 integer (160318 binary)
+Found heuristic solution: objective 1.097693e+08
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.262000e+03   0.000000e+00     18s
+    1290    1.0533173e+07   0.000000e+00   0.000000e+00     18s
+
+Root relaxation: objective 1.053317e+07, 1290 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   18s
+Another try with MIP start
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   24s
+H    0     0                    1.737545e+07 1.0533e+07  39.4%     -   39s
+     0     0 1.1979e+07    0  897 1.7375e+07 1.1979e+07  31.1%     -   50s
+H    0     0                    1.415506e+07 1.1979e+07  15.4%     -   57s
+     0     0 1.2540e+07    0 1630 1.4155e+07 1.2540e+07  11.4%     -   59s
+     0     0 1.2542e+07    0 1523 1.4155e+07 1.2542e+07  11.4%     -   60s
+     0     0 1.2826e+07    0 1798 1.4155e+07 1.2826e+07  9.39%     -   62s
+     0     0 1.2836e+07    0 1814 1.4155e+07 1.2836e+07  9.32%     -   62s
+     0     0 1.3123e+07    0 2146 1.4155e+07 1.3123e+07  7.29%     -   64s
+*    0     0               0    1.317593e+07 1.3176e+07  0.00%     -   89s
+
+Cutting planes:
+  Lazy constraints: 768
+
+Explored 0 nodes (17250 simplex iterations) in 89.65 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 4: 1.31759e+07 1.41551e+07 1.73755e+07 1.09769e+08 
+Pool objective bound 1.31759e+07
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.317593115004e+07, best bound 1.317593115004e+07, gap 0.0000%
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 11:37:49
+
+Changed value of parameter LogFile to log_LPIP_prov_code_2.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 11:37:49
+
+Changed value of parameter LogFile to log_LPIP_prov_code_2.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2132 rows, 160318 columns and 321070 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+02]
+  Objective range  [4e+01, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 183 rows and 0 columns
+Presolve time: 0.19s
+Presolved: 1949 rows, 160318 columns, 320887 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 1.608e+05
+ Factor NZ  : 2.292e+05 (roughly 70 MBytes of memory)
+ Factor Ops : 5.004e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.31 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 14 iterations and 0.33 seconds
+Optimal objective  1.053317302e+07
+Optimize a model with 2132 rows, 160318 columns and 321070 nonzeros
+Variable types: 0 continuous, 160318 integer (160318 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+02]
+  Objective range  [4e+01, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 183 rows and 0 columns
+Presolve time: 0.28s
+Presolved: 1949 rows, 160318 columns, 320887 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R632 by 67.000000000
+
+Variable types: 0 continuous, 160318 integer (160318 binary)
+Found heuristic solution: objective 1.097693e+08
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.262000e+03   0.000000e+00     18s
+    1290    1.0533173e+07   0.000000e+00   0.000000e+00     18s
+
+Root relaxation: objective 1.053317e+07, 1290 iterations, 0.04 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   17s
+Another try with MIP start
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   23s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   30s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   37s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   44s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   49s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   55s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   61s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   66s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   74s
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 11:40:29
+
+Changed value of parameter LogFile to log_LPIP_prov_code_2.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 11:40:29
+
+Changed value of parameter LogFile to log_LPIP_prov_code_2.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2132 rows, 160318 columns and 321070 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+02]
+  Objective range  [4e+01, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 183 rows and 0 columns
+Presolve time: 0.17s
+Presolved: 1949 rows, 160318 columns, 320887 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 1.608e+05
+ Factor NZ  : 2.292e+05 (roughly 70 MBytes of memory)
+ Factor Ops : 5.004e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.27 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 14 iterations and 0.29 seconds
+Optimal objective  1.053317302e+07
+Optimize a model with 2132 rows, 160318 columns and 321070 nonzeros
+Variable types: 0 continuous, 160318 integer (160318 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+02]
+  Objective range  [4e+01, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 183 rows and 0 columns
+Presolve time: 0.30s
+Presolved: 1949 rows, 160318 columns, 320887 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R632 by 67.000000000
+
+Variable types: 0 continuous, 160318 integer (160318 binary)
+Found heuristic solution: objective 1.097693e+08
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.262000e+03   0.000000e+00     18s
+    1290    1.0533173e+07   0.000000e+00   0.000000e+00     18s
+
+Root relaxation: objective 1.053317e+07, 1290 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   18s
+Another try with MIP start
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   24s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   30s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   37s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   43s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   49s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   55s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   61s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   67s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   75s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   83s
+     0     0 1.0533e+07    0   18 1.0977e+08 1.0533e+07  90.4%     -   92s
+     0     0 1.2020e+07    0  901 1.0977e+08 1.2020e+07  89.0%     -   93s
+     0     0 1.2477e+07    0 1527 1.0977e+08 1.2477e+07  88.6%     -   95s
+     0     0 1.2544e+07    0 1461 1.0977e+08 1.2544e+07  88.6%     -   96s
+     0     0 1.2907e+07    0 1763 1.0977e+08 1.2907e+07  88.2%     -   97s
+     0     0 1.2927e+07    0 1793 1.0977e+08 1.2927e+07  88.2%     -   97s
+     0     0 1.3165e+07    0 2130 1.0977e+08 1.3165e+07  88.0%     -   99s
+     0     0 1.3182e+07    0 2153 1.0977e+08 1.3182e+07  88.0%     -  100s
+     0     0 1.3220e+07    0 2278 1.0977e+08 1.3220e+07  88.0%     -  102s
+     0     0 1.3220e+07    0 2157 1.0977e+08 1.3220e+07  88.0%     -  105s
+     0     0 1.3220e+07    0 2157 1.0977e+08 1.3220e+07  88.0%     -  111s
+     0     2 1.3298e+07    0 2270 1.0977e+08 1.3298e+07  87.9%     -  112s
+     1     4 1.3513e+07    1 1971 1.0977e+08 1.3300e+07  87.9%  3730  115s
+    14    14 1.5390e+07    7  967 1.0977e+08 1.3517e+07  87.7%  1200  120s
+    28    26 1.5742e+07   11  732 1.0977e+08 1.3517e+07  87.7%   791  131s
+    37    33 2.4214e+07   12    4 1.0977e+08 1.3517e+07  87.7%   731  141s
+    45    39 2.1405e+07   14   14 1.0977e+08 1.3517e+07  87.7%   823  145s
+    48    42 2.2718e+07    5  706 1.0977e+08 1.3517e+07  87.7%   815  152s
+    59    53 2.0908e+07   24   10 1.0977e+08 1.3517e+07  87.7%   735  178s
+    60    53 1.6300e+07    7 1295 1.0977e+08 1.3517e+07  87.7%   731  184s
+    61    53 1.9296e+07   25  770 1.0977e+08 1.3517e+07  87.7%   790  187s
+    65    57 3.0036e+07    8   15 1.0977e+08 1.3517e+07  87.7%   796  196s
+    67    60 1.9489e+07   27  810 1.0977e+08 1.3517e+07  87.7%   789  204s
+    71    60 2.0333e+07   29  877 1.0977e+08 1.3517e+07  87.7%   792  206s
+    79    68 2.0682e+07   32  899 1.0977e+08 1.3517e+07  87.7%   779  210s
+    87    77 2.2255e+07   36  758 1.0977e+08 1.3517e+07  87.7%   770  240s
+    89    77 2.2392e+07   37  787 1.0977e+08 1.3517e+07  87.7%   773  249s
+    94    83 2.2558e+07   39  755 1.0977e+08 1.3517e+07  87.7%   747  250s
+   119   108 4.1485e+07   53    8 1.0977e+08 1.3517e+07  87.7%   657  255s
+   135   124 2.0246e+07   33 1083 1.0977e+08 1.3517e+07  87.7%   613  263s
+   138   126 infeasible   64      1.0977e+08 1.3517e+07  87.7%   610  265s
+   152   139 2.6885e+07   72  777 1.0977e+08 1.3517e+07  87.7%   572  304s
+   154   141 2.6925e+07   73  771 1.0977e+08 1.3517e+07  87.7%   567  307s
+   167   154 2.7936e+07   82  878 1.0977e+08 1.3517e+07  87.7%   542  310s
+   188   175 2.8884e+07   92  806 1.0977e+08 1.3517e+07  87.7%   534  316s
+   206   193 3.0208e+07  103  776 1.0977e+08 1.3517e+07  87.7%   516  323s
+   223   211 3.0908e+07  115  741 1.0977e+08 1.3517e+07  87.7%   492  327s
+   234   222 2.4329e+07   69 1034 1.0977e+08 1.3517e+07  87.7%   480  333s
+   250   237 3.3143e+07  126  889 1.0977e+08 1.3517e+07  87.7%   459  337s
+   273   260 3.4509e+07  142  790 1.0977e+08 1.3517e+07  87.7%   436  341s
+   285   272 2.6152e+07   92 1121 1.0977e+08 1.3517e+07  87.7%   427  347s
+   291   278 3.6177e+07  153  819 1.0977e+08 1.3517e+07  87.7%   424  364s
+   314   301 3.7396e+07  160  868 1.0977e+08 1.3517e+07  87.7%   408  376s
+   344   331 3.9744e+07  177  828 1.0977e+08 1.3517e+07  87.7%   391  381s
+   388   373 4.4051e+07  203  819 1.0977e+08 1.3612e+07  87.6%   367  389s
+   423   399 2.2256e+07    3 1763 1.0977e+08 1.3612e+07  87.6%   370  393s
+   441   418 1.4749e+07    3 2254 1.0977e+08 1.3612e+07  87.6%   364  397s
+   463   437 1.5316e+07    5 1910 1.0977e+08 1.3612e+07  87.6%   362  405s
+   502   458 1.7495e+07   10 1520 1.0977e+08 1.3612e+07  87.6%   364  413s
+   508   461 1.9087e+07   13 1033 1.0977e+08 1.3612e+07  87.6%   370  416s
+   519   472 2.0737e+07   23  756 1.0977e+08 1.3612e+07  87.6%   372  420s
+   529   482 1.7401e+07   11 1120 1.0977e+08 1.3612e+07  87.6%   371  426s
+   531   484 2.1788e+07   33  731 1.0977e+08 1.3612e+07  87.6%   377  430s
+   542   495 2.2815e+07   41  751 1.0977e+08 1.3612e+07  87.6%   381  435s
+   557   510 1.9242e+07   16  714 1.0977e+08 1.3612e+07  87.6%   379  442s
+   558   512 2.4691e+07   56  780 1.0977e+08 1.3612e+07  87.6%   379  447s
+   579   532 1.9622e+07   17  690 1.0977e+08 1.3612e+07  87.6%   372  459s
+   581   534 2.6710e+07   77  744 1.0977e+08 1.3612e+07  87.6%   372  463s
+   610   563 2.0113e+07   19  661 1.0977e+08 1.3612e+07  87.6%   361  469s
+   613   566 2.9298e+07  106  759 1.0977e+08 1.3612e+07  87.6%   363  481s
+   651   605 3.2607e+07  140  759 1.0977e+08 1.3612e+07  87.6%   353  489s
+   688   641 3.5897e+07  168  748 1.0977e+08 1.3612e+07  87.6%   347  537s
+H  689   642                    8.553679e+07 1.3612e+07  84.1%   346  544s
+   690   643 3.6174e+07  169  737 8.5537e+07 1.3612e+07  84.1%   346  552s
+   751   704 2.9549e+07  104 2157 8.5537e+07 1.3612e+07  84.1%   330  575s
+   753   705 2.9571e+07  132    2 8.5537e+07 1.8845e+07  78.0%   329  589s
+   754   706 2.7964e+07   91 1484 8.5537e+07 1.9476e+07  77.2%   329  780s

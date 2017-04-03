@@ -304,3 +304,37 @@ Pool objective bound 333862
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 3.338620014732e+05, best bound 3.338620014732e+05, gap 0.0000%
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 17:11:52
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9_10.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 9684 rows, 421368 columns and 843170 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [6e+00, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 143 rows and 0 columns
+Presolve time: 0.34s
+Presolved: 9541 rows, 421368 columns, 843027 nonzeros
+
+Ordering time: 0.05s
+
+Barrier statistics:
+ AA' NZ     : 4.220e+05
+ Factor NZ  : 5.452e+05 (roughly 180 MBytes of memory)
+ Factor Ops : 4.696e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.53 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 78 iterations and 0.56 seconds
+Optimal objective  7.257112173e+07

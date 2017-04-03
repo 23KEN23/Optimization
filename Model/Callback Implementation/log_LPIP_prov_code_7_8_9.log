@@ -179,3 +179,77 @@ Pool objective bound 141630
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 1.416302435337e+05, best bound 1.416302435337e+05, gap 0.0000%
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 13:58:14
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 14:04:02
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 14:28:21
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 14:49:50
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 14:52:42
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 14:57:36
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 15:05:54
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 15:45:55
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 16:04:51
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 5920 rows, 297621 columns and 595676 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+03]
+  Objective range  [6e+00, 2e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 193 rows and 0 columns
+Presolve time: 0.25s
+Presolved: 5727 rows, 297621 columns, 595483 nonzeros
+
+Ordering time: 0.01s
+
+Barrier statistics:
+ AA' NZ     : 2.981e+05
+ Factor NZ  : 3.892e+05 (roughly 120 MBytes of memory)
+ Factor Ops : 4.055e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.44 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 56 iterations and 0.46 seconds
+Optimal objective  4.898299517e+07
