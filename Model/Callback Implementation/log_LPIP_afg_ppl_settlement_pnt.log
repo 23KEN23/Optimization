@@ -1,0 +1,192 @@
+
+Gurobi 7.0.1 (win64) logging started 04/01/17 16:57:42
+
+Changed value of parameter LogFile to log_LPIP_afg_ppl_settlement_pnt.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/01/17 16:57:42
+
+Changed value of parameter LogFile to log_LPIP_afg_ppl_settlement_pnt.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 90904 rows, 2878028 columns and 5756490 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+04]
+  Objective range  [4e-02, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 140 rows and 140 columns
+Presolve time: 5.35s
+
+Solved with barrier
+Solved in 0 iterations and 5.44 seconds
+Infeasible model
+Optimize a model with 90904 rows, 2878028 columns and 5756490 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+04]
+  Objective range  [4e-02, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 140 rows and 140 columns
+Presolve time: 1.04s
+
+Solved with barrier
+Solved in 0 iterations and 1.09 seconds
+Infeasible model
+Optimize a model with 90904 rows, 2878028 columns and 5756490 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+04]
+  Objective range  [4e-02, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 140 rows and 140 columns
+Presolve time: 1.01s
+
+Solved with barrier
+Solved in 0 iterations and 1.07 seconds
+Infeasible model
+
+Gurobi 7.0.1 (win64) logging started 04/01/17 17:15:34
+
+Changed value of parameter LogFile to log_LPIP_afg_ppl_settlement_pnt.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/01/17 17:15:34
+
+Changed value of parameter LogFile to log_LPIP_afg_ppl_settlement_pnt.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 90904 rows, 6239918 columns and 12480270 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+04]
+  Objective range  [4e-02, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 34 rows and 32 columns (presolve time = 6s) ...
+Presolve removed 38 rows and 36 columns (presolve time = 14s) ...
+Presolve removed 38 rows and 36 columns (presolve time = 15s) ...
+Presolve removed 38 rows and 36 columns
+Presolve time: 25.77s
+Presolved: 90866 rows, 6239882 columns, 12479764 nonzeros
+
+
+Barrier performed 0 iterations in 26.35 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 434 iterations and 26.63 seconds
+Optimal objective  2.704555402e+06
+
+Gurobi 7.0.1 (win64) logging started 04/01/17 17:52:12
+
+Changed value of parameter LogFile to log_LPIP_afg_ppl_settlement_pnt.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/01/17 17:52:12
+
+Changed value of parameter LogFile to log_LPIP_afg_ppl_settlement_pnt.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 90904 rows, 6239918 columns and 12480270 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+04]
+  Objective range  [4e-02, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 32 rows and 32 columns (presolve time = 7s) ...
+Presolve removed 36 rows and 36 columns (presolve time = 15s) ...
+Presolve removed 36 rows and 36 columns
+Presolve time: 26.26s
+Presolved: 90868 rows, 6239882 columns, 12480198 nonzeros
+
+
+Barrier performed 0 iterations in 27.58 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 434 iterations and 27.88 seconds
+Optimal objective  2.704555402e+06
+Optimize a model with 90904 rows, 6239918 columns and 12480270 nonzeros
+Variable types: 0 continuous, 6239918 integer (6239918 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+04]
+  Objective range  [4e-02, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Presolve removed 39 rows and 38 columns (presolve time = 9s) ...
+Presolve removed 39 rows and 38 columns (presolve time = 11s) ...
+Presolve removed 39 rows and 38 columns (presolve time = 15s) ...
+Presolve removed 39 rows and 38 columns (presolve time = 20s) ...
+Presolve removed 39 rows and 38 columns (presolve time = 26s) ...
+Presolve removed 39 rows and 38 columns
+Presolve time: 28.39s
+Presolved: 90865 rows, 6239880 columns, 12464870 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R45017 by 78.000000000
+
+Variable types: 0 continuous, 6239880 integer (6239880 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.8182639e+03   8.999900e+04   0.000000e+00   1364s
+   21836    3.5664579e+05   6.816463e+04   0.000000e+00   1365s
+   94227    2.7146329e+06   0.000000e+00   0.000000e+00   1368s
+
+Root relaxation: objective 2.714633e+06, 94227 iterations, 4.53 seconds
+Total elapsed time = 1372.63s
+Total elapsed time = 1375.16s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2714632.93    0  206          - 2714632.93      -     - 1376s
+Another try with MIP start
+     0     0 2714632.93    0  206          - 2714632.93      -     - 1902s
+     0     0 2732279.79    0 6846          - 2732279.79      -     - 1957s
+     0     0 2732279.79    0 6846          - 2732279.79      -     - 2413s
+     0     0 2743740.75    0 8660          - 2743740.75      -     - 2489s
+     0     0 2754935.93    0 12314          - 2754935.93      -     - 2602s
+     0     0 2754935.93    0 12314          - 2754935.93      -     - 3047s
+     0     0 2756518.75    0 13282          - 2756518.75      -     - 3072s
+     0     0 2758823.41    0 13553          - 2758823.41      -     - 3203s
+     0     0 2758823.41    0 13553          - 2758823.41      -     - 3653s
+     0     0 2761337.17    0 14665          - 2761337.17      -     - 3693s
+     0     0 2762027.47    0 12755          - 2762027.47      -     - 3767s
+     0     0 2762027.47    0 12755          - 2762027.47      -     - 4236s
+     0     0 2762677.14    0 12461          - 2762677.14      -     - 4308s
+     0     0 2762797.64    0 12752          - 2762797.64      -     - 4359s
+     0     0 2762797.64    0 12752          - 2762797.64      -     - 4803s
+     0     0 2763322.71    0 12779          - 2763322.71      -     - 4873s
+     0     0 2766863.18    0 14651          - 2766863.18      -     - 5272s
+     0     0 2766863.18    0 14651          - 2766863.18      -     - 5711s
+     0     0 2789681.87    0 18215          - 2789681.87      -     - 6431s
+     0     0 2806786.72    0 21266          - 2806786.72      -     - 6668s
+     0     0 2806786.72    0 21266          - 2806786.72      -     - 7100s
+     0     0 2809903.35    0 19782          - 2809903.35      -     - 7237s
+     0     0 2813759.38    0 18964          - 2813759.38      -     - 7406s
+     0     0 2813759.38    0 18964          - 2813759.38      -     - 7816s
+     0     0 2814623.35    0 19789          - 2814623.35      -     - 7913s
+     0     0 2815208.89    0 20613          - 2815208.89      -     - 7972s
+     0     0 2815208.89    0 20613          - 2815208.89      -     - 8188s
+     0     0 2815208.89    0 20613          - 2815208.89      -     - 8609s
