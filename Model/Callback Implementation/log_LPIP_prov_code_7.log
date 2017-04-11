@@ -1548,3 +1548,42 @@ Barrier solve interrupted - model solved by another algorithm
 Solved with dual simplex
 Solved in 17 iterations and 0.21 seconds
 Optimal objective  1.054757507e+07
+
+Gurobi 7.0.1 (win64) logging started 04/04/17 15:21:32
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2212 rows, 103490 columns and 207414 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+02]
+  Objective range  [5e+01, 1e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 271 rows and 0 columns
+Presolve time: 0.11s
+Presolved: 1941 rows, 103490 columns, 207143 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.038e+05
+ Factor NZ  : 1.362e+05 (roughly 40 MBytes of memory)
+ Factor Ops : 1.460e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.18 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 17 iterations and 0.19 seconds
+Optimal objective  1.054757507e+07
+
+Gurobi 7.0.1 (win64) logging started 04/04/17 15:29:00
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7.log
+   Prev: gurobi.log  Default: 

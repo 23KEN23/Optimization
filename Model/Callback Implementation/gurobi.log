@@ -893,6 +893,7 @@ Parameter OutputFlag unchanged
 Changed value of parameter LazyConstraints to 1
    Prev: 0  Min: 0  Max: 1  Default: 0
 
+
 Gurobi 7.0.2 (win64, Python) logging started 04/10/17 14:45:20
 
 Parameter OutputFlag unchanged
@@ -901,6 +902,7 @@ Changed value of parameter LazyConstraints to 1
    Prev: 0  Min: 0  Max: 1  Default: 0
 Parameter OutputFlag unchanged
    Value: 1  Min: 0  Max: 1  Default: 1
+   
 
 Gurobi 7.0.2 (win64, Python) logging started 04/10/17 14:58:48
 

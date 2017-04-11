@@ -338,3 +338,8 @@ Barrier solve interrupted - model solved by another algorithm
 Solved with dual simplex
 Solved in 78 iterations and 0.56 seconds
 Optimal objective  7.257112173e+07
+
+Gurobi 7.0.1 (win64) logging started 04/03/17 20:28:26
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8_9_10.log
+   Prev: gurobi.log  Default: 
