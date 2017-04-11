@@ -1,0 +1,60 @@
+
+Gurobi 7.0.2 (win64) logging started 04/11/17 02:36:33
+
+Changed value of parameter LogFile to log_afg_ppl_settlement_pnt.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 90904 rows, 3186780 columns and 6373994 nonzeros
+Variable types: 0 continuous, 3186780 integer (3186780 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+05]
+  Objective range  [4e-02, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+02]
+Presolve removed 101 rows and 100 columns (presolve time = 5s) ...
+Presolve removed 101 rows and 100 columns (presolve time = 11s) ...
+Presolve removed 101 rows and 100 columns
+Presolve time: 11.33s
+Presolved: 90803 rows, 3186680 columns, 6360125 nonzeros
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R0 by 379999.000000000
+
+Variable types: 0 continuous, 3186680 integer (3186680 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.1404772e+04   8.993702e+04   0.000000e+00   1098s
+   92234    2.7093297e+06   0.000000e+00   0.000000e+00   1100s
+
+Root relaxation: objective 2.709330e+06, 92234 iterations, 2.25 seconds
+Total elapsed time = 1100.30s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2709329.70    0  320          - 2709329.70      -     - 1104s
+Another try with MIP start
+     0     0 2709329.70    0  320          - 2709329.70      -     - 1862s
+     0     0 2735018.37    0 8535          - 2735018.37      -     - 1981s
+     0     0 2735826.40    0 8770          - 2735826.40      -     - 2001s
+     0     0 2808722.33    0 18763          - 2808722.33      -     - 2094s
+     0     0 2808722.33    0 18763          - 2808722.33      -     - 2631s
+     0     0 2898171.40    0 18257          - 2898171.40      -     - 2744s
+     0     0 3032038.54    0 32195          - 3032038.54      -     - 3279s
+     0     0 3032038.54    0 32195          - 3032038.54      -     - 3817s
+     0     0 3056449.81    0 34144          - 3056449.81      -     - 4036s
+     0     0 3113606.31    0 46779          - 3113606.31      -     - 4764s
+     0     0 3113606.31    0 46779          - 3113606.31      -     - 5307s
+     0     0 3136219.81    0 55367          - 3136219.81      -     - 6012s
+     0     0 3158277.96    0 61158          - 3158277.96      -     - 6910s
+     0     0 3158277.96    0 61158          - 3158277.96      -     - 7485s
+     0     0 3170311.64    0 66815          - 3170311.64      -     - 8375s
+     0     0 3205934.36    0 66509          - 3205934.36      -     - 24514s
+     0     0 3205934.36    0 66509          - 3205934.36      -     - 30821s
+     0     0 3217111.85    0 72263          - 3217111.85      -     - 31863s
+     0     0 3231384.77    0 77095          - 3231384.77      -     - 33183s
+     0     0 3231384.77    0 77084          - 3231384.77      -     - 36047s
+     0     0 3231384.77    0 77084          - 3231384.77      -     - 36587s

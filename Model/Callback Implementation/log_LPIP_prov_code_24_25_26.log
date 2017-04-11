@@ -709,3 +709,326 @@ Pool objective bound 316340
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 3.163404536316e+05, best bound 3.163404536316e+05, gap 0.0000%
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 14:45:20
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 14:46:06
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 9210 rows, 318983 columns and 638400 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 245 rows and 3201 columns
+Presolve time: 0.37s
+Presolved: 8965 rows, 315782 columns, 631762 nonzeros
+
+Ordering time: 0.02s
+
+Barrier statistics:
+ AA' NZ     : 3.162e+05
+ Factor NZ  : 3.972e+05 (roughly 130 MBytes of memory)
+ Factor Ops : 2.929e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.54 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 61 iterations and 0.56 seconds
+Optimal objective  2.242797355e+05
+Optimize a model with 9210 rows, 318983 columns and 638400 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+
+Solved in 61 iterations and 0.00 seconds
+Optimal objective  2.242797355e+05
+Optimize a model with 9210 rows, 318983 columns and 638400 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+
+Solved in 61 iterations and 0.00 seconds
+Optimal objective  2.242797355e+05
+Optimize a model with 9210 rows, 318983 columns and 638400 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+
+Solved in 61 iterations and 0.00 seconds
+Optimal objective  2.242797355e+05
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 14:58:48
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 9210 rows, 318983 columns and 638400 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 245 rows and 3201 columns
+Presolve time: 0.39s
+Presolved: 8965 rows, 315782 columns, 631762 nonzeros
+
+Ordering time: 0.02s
+
+Barrier statistics:
+ AA' NZ     : 3.162e+05
+ Factor NZ  : 3.972e+05 (roughly 130 MBytes of memory)
+ Factor Ops : 2.929e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.58 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 61 iterations and 0.59 seconds
+Optimal objective  2.242797355e+05
+Optimize a model with 17550 rows, 318983 columns and 662529 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.2427974e+05   4.282177e+03   0.000000e+00      0s
+    6072    2.4791889e+05   0.000000e+00   0.000000e+00      1s
+
+Solved in 6072 iterations and 0.78 seconds
+Optimal objective  2.479188935e+05
+Optimize a model with 20409 rows, 318983 columns and 671106 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.4791889e+05   2.591502e+03   0.000000e+00      0s
+    2262    2.5620628e+05   1.816743e+04   0.000000e+00      5s
+    3241    2.5876983e+05   0.000000e+00   0.000000e+00      8s
+
+Solved in 3241 iterations and 8.10 seconds
+Optimal objective  2.587698331e+05
+Optimize a model with 22485 rows, 318983 columns and 677334 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.5876983e+05   1.870493e+03   0.000000e+00      0s
+    1638    2.6283282e+05   3.239540e+02   0.000000e+00      5s
+    2147    2.6309332e+05   0.000000e+00   0.000000e+00      7s
+
+Solved in 2147 iterations and 7.08 seconds
+Optimal objective  2.630933151e+05
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 22:32:29
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 9210 rows, 318983 columns and 638400 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 245 rows and 3201 columns
+Presolve time: 0.43s
+Presolved: 8965 rows, 315782 columns, 631762 nonzeros
+
+Ordering time: 0.02s
+
+Barrier statistics:
+ AA' NZ     : 3.162e+05
+ Factor NZ  : 3.972e+05 (roughly 130 MBytes of memory)
+ Factor Ops : 2.929e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.62 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 61 iterations and 0.64 seconds
+Optimal objective  2.242797355e+05
+Optimize a model with 17550 rows, 318983 columns and 662529 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.2427974e+05   4.282177e+03   0.000000e+00      0s
+    6217    2.4791889e+05   0.000000e+00   0.000000e+00      1s
+
+Solved in 6217 iterations and 0.90 seconds
+Optimal objective  2.479188935e+05
+Optimize a model with 20409 rows, 318983 columns and 671106 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.4791889e+05   2.591502e+03   0.000000e+00      0s
+    2001    2.5572672e+05   1.831192e+03   0.000000e+00      5s
+    3117    2.5876983e+05   0.000000e+00   0.000000e+00      9s
+
+Solved in 3117 iterations and 9.36 seconds
+Optimal objective  2.587698331e+05
+Optimize a model with 24007 rows, 318983 columns and 680463 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.5876983e+05   1.870493e+03   0.000000e+00      0s
+    1598    2.6276686e+05   5.637598e+02   0.000000e+00      5s
+    2173    2.6309332e+05   0.000000e+00   0.000000e+00      7s
+
+Solved in 2173 iterations and 7.42 seconds
+Optimal objective  2.630933151e+05
+Optimize a model with 26710 rows, 318983 columns and 687137 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.6309332e+05   1.033608e+03   0.000000e+00      0s
+    1386    2.6523478e+05   1.351228e-01   0.000000e+00      5s
+    1561    2.6523650e+05   0.000000e+00   0.000000e+00      6s
+
+Solved in 1561 iterations and 5.88 seconds
+Optimal objective  2.652365039e+05
+Optimize a model with 27344 rows, 318983 columns and 689039 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.6523650e+05   3.230881e+02   0.000000e+00      0s
+     764    2.6604747e+05   0.000000e+00   0.000000e+00      3s
+
+Solved in 764 iterations and 3.03 seconds
+Optimal objective  2.660474673e+05
+Optimize a model with 28151 rows, 318983 columns and 691460 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.6604747e+05   1.919064e+02   0.000000e+00      0s
+     303    2.6607757e+05   0.000000e+00   0.000000e+00      2s
+
+Solved in 303 iterations and 1.52 seconds
+Optimal objective  2.660775705e+05
+Optimize a model with 28660 rows, 318983 columns and 692987 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.6607757e+05   1.392496e+02   0.000000e+00      0s
+     228    2.6609064e+05   0.000000e+00   0.000000e+00      1s
+
+Solved in 228 iterations and 0.98 seconds
+Optimal objective  2.660906427e+05
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 23:08:23
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 23:13:58
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 23:19:12
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.2 (win64) logging started 04/10/17 23:27:23
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.2 (win64) logging started 04/11/17 00:20:12
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 9210 rows, 318983 columns and 638400 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [2e-01, 3e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 8e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 245 rows and 3201 columns
+Presolve time: 0.42s
+Presolved: 8965 rows, 315782 columns, 631762 nonzeros
+
+Ordering time: 0.02s
+
+Barrier statistics:
+ AA' NZ     : 3.162e+05
+ Factor NZ  : 3.972e+05 (roughly 130 MBytes of memory)
+ Factor Ops : 2.929e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.61 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 61 iterations and 0.63 seconds
+Optimal objective  2.242797355e+05
+
+Gurobi 7.0.2 (win64) logging started 04/11/17 15:03:30
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.2 (win64) logging started 04/11/17 15:19:22
+
+Changed value of parameter LogFile to log_LPIP_prov_code_24_25_26.log
+   Prev: gurobi.log  Default: 

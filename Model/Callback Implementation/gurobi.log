@@ -892,3 +892,62 @@ Parameter OutputFlag unchanged
    Value: 1  Min: 0  Max: 1  Default: 1
 Changed value of parameter LazyConstraints to 1
    Prev: 0  Min: 0  Max: 1  Default: 0
+
+Gurobi 7.0.2 (win64, Python) logging started 04/10/17 14:45:20
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter LazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/10/17 14:58:48
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/10/17 22:32:29
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/10/17 23:08:23
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/10/17 23:13:58
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/10/17 23:19:12
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/10/17 23:27:23
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/11/17 00:20:12
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/11/17 02:36:33
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/11/17 15:03:30
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+
+Gurobi 7.0.2 (win64, Python) logging started 04/11/17 15:19:22
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
