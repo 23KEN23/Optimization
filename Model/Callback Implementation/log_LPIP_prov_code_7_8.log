@@ -1,0 +1,112 @@
+
+Gurobi 7.0.1 (win64) logging started 04/04/17 14:18:10
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2860 rows, 143690 columns and 287814 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [6e+00, 1e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 6e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 240 rows and 0 columns
+Presolve time: 0.15s
+Presolved: 2620 rows, 143690 columns, 287574 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.441e+05
+ Factor NZ  : 1.821e+05 (roughly 60 MBytes of memory)
+ Factor Ops : 1.895e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.23 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 25 iterations and 0.24 seconds
+Optimal objective  1.340338081e+07
+
+Gurobi 7.0.1 (win64) logging started 04/04/17 14:36:07
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2860 rows, 143690 columns and 287814 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [6e+00, 1e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 240 rows and 0 columns
+Presolve time: 0.14s
+Presolved: 2620 rows, 143690 columns, 287574 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.441e+05
+ Factor NZ  : 1.821e+05 (roughly 60 MBytes of memory)
+ Factor Ops : 1.895e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.24 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 25 iterations and 0.26 seconds
+Optimal objective  1.340338081e+07
+
+Gurobi 7.0.1 (win64) logging started 04/04/17 14:47:56
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8.log
+   Prev: gurobi.log  Default: 
+Optimize a model with 2860 rows, 143690 columns and 287814 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [6e+00, 1e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve removed 240 rows and 0 columns
+Presolve time: 0.15s
+Presolved: 2620 rows, 143690 columns, 287574 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.441e+05
+ Factor NZ  : 1.821e+05 (roughly 60 MBytes of memory)
+ Factor Ops : 1.895e+07 (less than 1 second per iteration)
+ Threads    : 1
+
+Barrier performed 0 iterations in 0.22 seconds
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+Solved in 25 iterations and 0.24 seconds
+Optimal objective  1.340338081e+07
+
+Gurobi 7.0.1 (win64) logging started 04/04/17 15:31:55
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8.log
+   Prev: gurobi.log  Default: 
+
+Gurobi 7.0.1 (win64) logging started 04/04/17 15:38:23
+
+Changed value of parameter LogFile to log_LPIP_prov_code_7_8.log
+   Prev: gurobi.log  Default: 
